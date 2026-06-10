@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv generator-info-name="Smart EPG Generator">
+  <channel id="VideoArsenal">
+    <display-name lang="ru">VideoArsenal</display-name>
+  </channel>
+  <programme start="20260603232200 +0300" stop="20260604004539 +0300" channel="VideoArsenal">
+    <title lang="ru">Синистер- Первое проклятие (2025)</title>
+  </programme>
+  <programme start="20260604004539 +0300" stop="20260604021625 +0300" channel="VideoArsenal">
+    <title lang="ru">Техасская резня бензопилой- Начало (2006)</title>
+  </programme>
+  <programme start="20260604021625 +0300" stop="20260604033049 +0300" channel="VideoArsenal">
+    <title lang="ru">Дракула (1931)</title>
+  </programme>
+  <programme start="20260604033049 +0300" stop="20260604050915 +0300" channel="VideoArsenal">
+    <title lang="ru">Иногда они возвращаются снова (1996)</title>
+  </programme>
+  <programme start="20260604050915 +0300" stop="20260604065919 +0300" channel="VideoArsenal">
+    <title lang="ru">Мортал Комбат (2021)</title>
+  </programme>
+  <programme start="20260604065919 +0300" stop="20260604084507 +0300" channel="VideoArsenal">
+    <title lang="ru">Давилка (1994)</title>
+  </programme>
+  <programme start="20260604084507 +0300" stop="20260604100144 +0300" channel="VideoArsenal">
+    <title lang="ru">Эбботт и Костелло встречают доктора Джекилла и мистера Хайда (1953)</title>
+  </programme>
+  <programme start="20260604100144 +0300" stop="20260604115135 +0300" channel="VideoArsenal">
+    <title lang="ru">Доктор Ноу (1962)</title>
+  </programme>
+  <programme start="20260604115135 +0300" stop="20260604131145 +0300" channel="VideoArsenal">
+    <title lang="ru">Железная роза (1973)</title>
+  </programme>
+  <programme start="20260604131145 +0300" stop="20260604144135 +0300" channel="VideoArsenal">
+    <title lang="ru">Туман (1980)</title>
+  </programme>
+  <programme start="20260604144135 +0300" stop="20260604160430 +0300" channel="VideoArsenal">
+    <title lang="ru">Франкенштейн – 1970 (1958)</title>
+  </programme>
+  <programme start="20260604160430 +0300" stop="20260604180516 +0300" channel="VideoArsenal">
+    <title lang="ru">Нужные вещи (1993)</title>
+  </programme>
+  <programme start="20260604180516 +0300" stop="20260604201722 +0300" channel="VideoArsenal">
+    <title lang="ru">Стартрек- Возмездие (2013)</title>
+  </programme>
+  <programme start="20260604201722 +0300" stop="20260604221414 +0300" channel="VideoArsenal">
+    <title lang="ru">Крик 3 (2000)</title>
+  </programme>
+  <programme start="20260604221414 +0300" stop="20260605003804 +0300" channel="VideoArsenal">
+    <title lang="ru">Бегущий в лабиринте- Лекарство от смерти (2018)</title>
+  </programme>
+  <programme start="20260605003804 +0300" stop="20260605025422 +0300" channel="VideoArsenal">
+    <title lang="ru">Матрица (1999)</title>
+  </programme>
+  <programme start="20260605025422 +0300" stop="20260605050829 +0300" channel="VideoArsenal">
+    <title lang="ru">Состояние исступления (1990)</title>
+  </programme>
+  <programme start="20260605050829 +0300" stop="20260605063611 +0300" channel="VideoArsenal">
+    <title lang="ru">Искатели воды (2025)</title>
+  </programme>
+  <programme start="20260605063611 +0300" stop="20260605080134 +0300" channel="VideoArsenal">
+    <title lang="ru">Зловещие мертвецы (1981)</title>
+  </programme>
+  <programme start="20260605080134 +0300" stop="20260605100601 +0300" channel="VideoArsenal">
+    <title lang="ru">Красный Дракон (2002)</title>
+  </programme>
+  <programme start="20260605100601 +0300" stop="20260605112940 +0300" channel="VideoArsenal">
+    <title lang="ru">Синистер- Первое проклятие (2025)</title>
+  </programme>
+  <programme start="20260605112940 +0300" stop="20260605130026 +0300" channel="VideoArsenal">
+    <title lang="ru">Техасская резня бензопилой- Начало (2006)</title>
+  </programme>
+  <programme start="20260605130026 +0300" stop="20260605141450 +0300" channel="VideoArsenal">
+    <title lang="ru">Дракула (1931)</title>
+  </programme>
+  <programme start="20260605141450 +0300" stop="20260605155316 +0300" channel="VideoArsenal">
+    <title lang="ru">Иногда они возвращаются снова (1996)</title>
+  </programme>
+  <programme start="20260605155316 +0300" stop="20260605174320 +0300" channel="VideoArsenal">
+    <title lang="ru">Мортал Комбат (2021)</title>
+  </programme>
+  <programme start="20260605174320 +0300" stop="20260605192908 +0300" channel="VideoArsenal">
+    <title lang="ru">Давилка (1994)</title>
+  </programme>
+  <programme start="20260605192908 +0300" stop="20260605204545 +0300" channel="VideoArsenal">
+    <title lang="ru">Эбботт и Костелло встречают доктора Джекилла и мистера Хайда (1953)</title>
+  </programme>
+  <programme start="20260605204545 +0300" stop="20260605223536 +0300" channel="VideoArsenal">
+    <title lang="ru">Доктор Ноу (1962)</title>
+  </programme>
+  <programme start="20260605223536 +0300" stop="20260605235546 +0300" channel="VideoArsenal">
+    <title lang="ru">Железная роза (1973)</title>
+  </programme>
+  <programme start="20260605235546 +0300" stop="20260606012536 +0300" channel="VideoArsenal">
+    <title lang="ru">Туман (1980)</title>
+  </programme>
+  <programme start="20260606012536 +0300" stop="20260606024831 +0300" channel="VideoArsenal">
+    <title lang="ru">Франкенштейн – 1970 (1958)</title>
+  </programme>
+  <programme start="20260606024831 +0300" stop="20260606044917 +0300" channel="VideoArsenal">
+    <title lang="ru">Нужные вещи (1993)</title>
+  </programme>
+  <programme start="20260606044917 +0300" stop="20260606070123 +0300" channel="VideoArsenal">
+    <title lang="ru">Стартрек- Возмездие (2013)</title>
+  </programme>
+  <programme start="20260606070123 +0300" stop="20260606085815 +0300" channel="VideoArsenal">
+    <title lang="ru">Крик 3 (2000)</title>
+  </programme>
+  <programme start="20260606085815 +0300" stop="20260606112205 +0300" channel="VideoArsenal">
+    <title lang="ru">Бегущий в лабиринте- Лекарство от смерти (2018)</title>
+  </programme>
+  <programme start="20260606112205 +0300" stop="20260606133823 +0300" channel="VideoArsenal">
+    <title lang="ru">Матрица (1999)</title>
+  </programme>
+  <programme start="20260606133823 +0300" stop="20260606155230 +0300" channel="VideoArsenal">
+    <title lang="ru">Состояние исступления (1990)</title>
+  </programme>
+  <programme start="20260606155230 +0300" stop="20260606172012 +0300" channel="VideoArsenal">
+    <title lang="ru">Искатели воды (2025)</title>
+  </programme>
+  <programme start="20260606172012 +0300" stop="20260606184535 +0300" channel="VideoArsenal">
+    <title lang="ru">Зловещие мертвецы (1981)</title>
+  </programme>
+  <programme start="20260606184535 +0300" stop="20260606205002 +0300" channel="VideoArsenal">
+    <title lang="ru">Красный Дракон (2002)</title>
+  </programme>
+  <programme start="20260606205002 +0300" stop="20260606221342 +0300" channel="VideoArsenal">
+    <title lang="ru">Синистер- Первое проклятие (2025)</title>
+  </programme>
+  <programme start="20260606221342 +0300" stop="20260606234427 +0300" channel="VideoArsenal">
+    <title lang="ru">Техасская резня бензопилой- Начало (2006)</title>
+  </programme>
+  <programme start="20260606234427 +0300" stop="20260607005851 +0300" channel="VideoArsenal">
+    <title lang="ru">Дракула (1931)</title>
+  </programme>
+  <programme start="20260607005851 +0300" stop="20260607023717 +0300" channel="VideoArsenal">
+    <title lang="ru">Иногда они возвращаются снова (1996)</title>
+  </programme>
+  <programme start="20260607023717 +0300" stop="20260607042721 +0300" channel="VideoArsenal">
+    <title lang="ru">Мортал Комбат (2021)</title>
+  </programme>
+  <programme start="20260607042721 +0300" stop="20260607061309 +0300" channel="VideoArsenal">
+    <title lang="ru">Давилка (1994)</title>
+  </programme>
+  <programme start="20260607061309 +0300" stop="20260607072946 +0300" channel="VideoArsenal">
+    <title lang="ru">Эбботт и Костелло встречают доктора Джекилла и мистера Хайда (1953)</title>
+  </programme>
+  <programme start="20260607072946 +0300" stop="20260607091937 +0300" channel="VideoArsenal">
+    <title lang="ru">Доктор Ноу (1962)</title>
+  </programme>
+  <programme start="20260607091937 +0300" stop="20260607103947 +0300" channel="VideoArsenal">
+    <title lang="ru">Железная роза (1973)</title>
+  </programme>
+  <programme start="20260607103947 +0300" stop="20260607120938 +0300" channel="VideoArsenal">
+    <title lang="ru">Туман (1980)</title>
+  </programme>
+  <programme start="20260607120938 +0300" stop="20260607133232 +0300" channel="VideoArsenal">
+    <title lang="ru">Франкенштейн – 1970 (1958)</title>
+  </programme>
+  <programme start="20260607133232 +0300" stop="20260607153318 +0300" channel="VideoArsenal">
+    <title lang="ru">Нужные вещи (1993)</title>
+  </programme>
+  <programme start="20260607153318 +0300" stop="20260607174524 +0300" channel="VideoArsenal">
+    <title lang="ru">Стартрек- Возмездие (2013)</title>
+  </programme>
+  <programme start="20260607174524 +0300" stop="20260607194216 +0300" channel="VideoArsenal">
+    <title lang="ru">Крик 3 (2000)</title>
+  </programme>
+  <programme start="20260607194216 +0300" stop="20260607220606 +0300" channel="VideoArsenal">
+    <title lang="ru">Бегущий в лабиринте- Лекарство от смерти (2018)</title>
+  </programme>
+  <programme start="20260607220606 +0300" stop="20260608002224 +0300" channel="VideoArsenal">
+    <title lang="ru">Матрица (1999)</title>
+  </programme>
+  <programme start="20260608002224 +0300" stop="20260608023631 +0300" channel="VideoArsenal">
+    <title lang="ru">Состояние исступления (1990)</title>
+  </programme>
+  <programme start="20260608023631 +0300" stop="20260608040413 +0300" channel="VideoArsenal">
+    <title lang="ru">Искатели воды (2025)</title>
+  </programme>
+  <programme start="20260608040413 +0300" stop="20260608052937 +0300" channel="VideoArsenal">
+    <title lang="ru">Зловещие мертвецы (1981)</title>
+  </programme>
+  <programme start="20260608052937 +0300" stop="20260608073403 +0300" channel="VideoArsenal">
+    <title lang="ru">Красный Дракон (2002)</title>
+  </programme>
+  <programme start="20260608073403 +0300" stop="20260608085743 +0300" channel="VideoArsenal">
+    <title lang="ru">Синистер- Первое проклятие (2025)</title>
+  </programme>
+  <programme start="20260608085743 +0300" stop="20260608102829 +0300" channel="VideoArsenal">
+    <title lang="ru">Техасская резня бензопилой- Начало (2006)</title>
+  </programme>
+  <programme start="20260608102829 +0300" stop="20260608114252 +0300" channel="VideoArsenal">
+    <title lang="ru">Дракула (1931)</title>
+  </programme>
+  <programme start="20260608114252 +0300" stop="20260608132118 +0300" channel="VideoArsenal">
+    <title lang="ru">Иногда они возвращаются снова (1996)</title>
+  </programme>
+  <programme start="20260608132118 +0300" stop="20260608151122 +0300" channel="VideoArsenal">
+    <title lang="ru">Мортал Комбат (2021)</title>
+  </programme>
+  <programme start="20260608151122 +0300" stop="20260608165710 +0300" channel="VideoArsenal">
+    <title lang="ru">Давилка (1994)</title>
+  </programme>
+  <programme start="20260608165710 +0300" stop="20260608181348 +0300" channel="VideoArsenal">
+    <title lang="ru">Эбботт и Костелло встречают доктора Джекилла и мистера Хайда (1953)</title>
+  </programme>
+  <programme start="20260608181348 +0300" stop="20260608200338 +0300" channel="VideoArsenal">
+    <title lang="ru">Доктор Ноу (1962)</title>
+  </programme>
+  <programme start="20260608200338 +0300" stop="20260608212348 +0300" channel="VideoArsenal">
+    <title lang="ru">Железная роза (1973)</title>
+  </programme>
+  <programme start="20260608212348 +0300" stop="20260608225339 +0300" channel="VideoArsenal">
+    <title lang="ru">Туман (1980)</title>
+  </programme>
+  <programme start="20260608225339 +0300" stop="20260609001633 +0300" channel="VideoArsenal">
+    <title lang="ru">Франкенштейн – 1970 (1958)</title>
+  </programme>
+  <programme start="20260609001633 +0300" stop="20260609021719 +0300" channel="VideoArsenal">
+    <title lang="ru">Нужные вещи (1993)</title>
+  </programme>
+  <programme start="20260609021719 +0300" stop="20260609042925 +0300" channel="VideoArsenal">
+    <title lang="ru">Стартрек- Возмездие (2013)</title>
+  </programme>
+  <programme start="20260609042925 +0300" stop="20260609062618 +0300" channel="VideoArsenal">
+    <title lang="ru">Крик 3 (2000)</title>
+  </programme>
+  <programme start="20260609062618 +0300" stop="20260609085007 +0300" channel="VideoArsenal">
+    <title lang="ru">Бегущий в лабиринте- Лекарство от смерти (2018)</title>
+  </programme>
+  <programme start="20260609085007 +0300" stop="20260609110625 +0300" channel="VideoArsenal">
+    <title lang="ru">Матрица (1999)</title>
+  </programme>
+  <programme start="20260609110625 +0300" stop="20260609132032 +0300" channel="VideoArsenal">
+    <title lang="ru">Состояние исступления (1990)</title>
+  </programme>
+  <programme start="20260609132032 +0300" stop="20260609144815 +0300" channel="VideoArsenal">
+    <title lang="ru">Искатели воды (2025)</title>
+  </programme>
+  <programme start="20260609144815 +0300" stop="20260609161338 +0300" channel="VideoArsenal">
+    <title lang="ru">Зловещие мертвецы (1981)</title>
+  </programme>
+  <programme start="20260609161338 +0300" stop="20260609181804 +0300" channel="VideoArsenal">
+    <title lang="ru">Красный Дракон (2002)</title>
+  </programme>
+  <programme start="20260609181804 +0300" stop="20260609194144 +0300" channel="VideoArsenal">
+    <title lang="ru">Синистер- Первое проклятие (2025)</title>
+  </programme>
+  <programme start="20260609194144 +0300" stop="20260609211230 +0300" channel="VideoArsenal">
+    <title lang="ru">Техасская резня бензопилой- Начало (2006)</title>
+  </programme>
+  <programme start="20260609211230 +0300" stop="20260609222653 +0300" channel="VideoArsenal">
+    <title lang="ru">Дракула (1931)</title>
+  </programme>
+  <programme start="20260609222653 +0300" stop="20260610000519 +0300" channel="VideoArsenal">
+    <title lang="ru">Иногда они возвращаются снова (1996)</title>
+  </programme>
+  <programme start="20260610000519 +0300" stop="20260610015523 +0300" channel="VideoArsenal">
+    <title lang="ru">Мортал Комбат (2021)</title>
+  </programme>
+  <programme start="20260610015523 +0300" stop="20260610034111 +0300" channel="VideoArsenal">
+    <title lang="ru">Давилка (1994)</title>
+  </programme>
+  <programme start="20260610034111 +0300" stop="20260610045749 +0300" channel="VideoArsenal">
+    <title lang="ru">Эбботт и Костелло встречают доктора Джекилла и мистера Хайда (1953)</title>
+  </programme>
+  <programme start="20260610045749 +0300" stop="20260610064739 +0300" channel="VideoArsenal">
+    <title lang="ru">Доктор Ноу (1962)</title>
+  </programme>
+  <programme start="20260610064739 +0300" stop="20260610080749 +0300" channel="VideoArsenal">
+    <title lang="ru">Железная роза (1973)</title>
+  </programme>
+  <programme start="20260610080749 +0300" stop="20260610093740 +0300" channel="VideoArsenal">
+    <title lang="ru">Туман (1980)</title>
+  </programme>
+  <programme start="20260610093740 +0300" stop="20260610110035 +0300" channel="VideoArsenal">
+    <title lang="ru">Франкенштейн – 1970 (1958)</title>
+  </programme>
+  <programme start="20260610110035 +0300" stop="20260610130120 +0300" channel="VideoArsenal">
+    <title lang="ru">Нужные вещи (1993)</title>
+  </programme>
+  <programme start="20260610130120 +0300" stop="20260610151326 +0300" channel="VideoArsenal">
+    <title lang="ru">Стартрек- Возмездие (2013)</title>
+  </programme>
+  <programme start="20260610151326 +0300" stop="20260610171019 +0300" channel="VideoArsenal">
+    <title lang="ru">Крик 3 (2000)</title>
+  </programme>
+  <programme start="20260610171019 +0300" stop="20260610193408 +0300" channel="VideoArsenal">
+    <title lang="ru">Бегущий в лабиринте- Лекарство от смерти (2018)</title>
+  </programme>
+  <programme start="20260610193408 +0300" stop="20260610215026 +0300" channel="VideoArsenal">
+    <title lang="ru">Матрица (1999)</title>
+  </programme>
+  <programme start="20260610215026 +0300" stop="20260611000434 +0300" channel="VideoArsenal">
+    <title lang="ru">Состояние исступления (1990)</title>
+  </programme>
+  <programme start="20260611000434 +0300" stop="20260611013216 +0300" channel="VideoArsenal">
+    <title lang="ru">Искатели воды (2025)</title>
+  </programme>
+  <programme start="20260611013216 +0300" stop="20260611025739 +0300" channel="VideoArsenal">
+    <title lang="ru">Зловещие мертвецы (1981)</title>
+  </programme>
+  <programme start="20260611025739 +0300" stop="20260611050205 +0300" channel="VideoArsenal">
+    <title lang="ru">Красный Дракон (2002)</title>
+  </programme>
+  <programme start="20260611050205 +0300" stop="20260611062545 +0300" channel="VideoArsenal">
+    <title lang="ru">Синистер- Первое проклятие (2025)</title>
+  </programme>
+  <programme start="20260611062545 +0300" stop="20260611075631 +0300" channel="VideoArsenal">
+    <title lang="ru">Техасская резня бензопилой- Начало (2006)</title>
+  </programme>
+  <programme start="20260611075631 +0300" stop="20260611091054 +0300" channel="VideoArsenal">
+    <title lang="ru">Дракула (1931)</title>
+  </programme>
+  <programme start="20260611091054 +0300" stop="20260611104920 +0300" channel="VideoArsenal">
+    <title lang="ru">Иногда они возвращаются снова (1996)</title>
+  </programme>
+  <programme start="20260611104920 +0300" stop="20260611123924 +0300" channel="VideoArsenal">
+    <title lang="ru">Мортал Комбат (2021)</title>
+  </programme>
+  <programme start="20260611123924 +0300" stop="20260611142512 +0300" channel="VideoArsenal">
+    <title lang="ru">Давилка (1994)</title>
+  </programme>
+  <programme start="20260611142512 +0300" stop="20260611154150 +0300" channel="VideoArsenal">
+    <title lang="ru">Эбботт и Костелло встречают доктора Джекилла и мистера Хайда (1953)</title>
+  </programme>
+</tv>
