@@ -3,106 +3,385 @@
   <channel id="VideoArsenal">
     <display-name lang="ru">VideoArsenal</display-name>
   </channel>
-  <programme start="20260611154100 +0300" stop="20260611173612 +0300" channel="VideoArsenal">
-    <title lang="ru">Из России с любовью (1963)</title>
-  </programme>
-  <programme start="20260611173612 +0300" stop="20260611195042 +0300" channel="VideoArsenal">
-    <title lang="ru">Мумия (2026)</title>
-  </programme>
-  <programme start="20260611195042 +0300" stop="20260611212500 +0300" channel="VideoArsenal">
-    <title lang="ru">Таксидермия (2006)</title>
-  </programme>
-  <programme start="20260611212500 +0300" stop="20260611231515 +0300" channel="VideoArsenal">
-    <title lang="ru">На цепи (2025)</title>
-  </programme>
-  <programme start="20260611231515 +0300" stop="20260612013747 +0300" channel="VideoArsenal">
-    <title lang="ru">Побег из Шоушенка (1994)</title>
-  </programme>
-  <programme start="20260612013747 +0300" stop="20260612034010 +0300" channel="VideoArsenal">
-    <title lang="ru">Стартрек- Бесконечность (2016)</title>
-  </programme>
-  <programme start="20260612034010 +0300" stop="20260612053047 +0300" channel="VideoArsenal">
-    <title lang="ru">Крик 4 (2011)</title>
-  </programme>
-  <programme start="20260612053047 +0300" stop="20260612082041 +0300" channel="VideoArsenal">
-    <title lang="ru">Лицо со шрамом (1983)</title>
-  </programme>
-  <programme start="20260612082041 +0300" stop="20260612103854 +0300" channel="VideoArsenal">
-    <title lang="ru">Матрица- Перезагрузка (2003)</title>
-  </programme>
-  <programme start="20260612103854 +0300" stop="20260612120909 +0300" channel="VideoArsenal">
-    <title lang="ru">Тихое место (2018)</title>
-  </programme>
-  <programme start="20260612120909 +0300" stop="20260612142815 +0300" channel="VideoArsenal">
-    <title lang="ru">Бойцовский клуб (1999)</title>
-  </programme>
-  <programme start="20260612142815 +0300" stop="20260612155232 +0300" channel="VideoArsenal">
-    <title lang="ru">Зловещие мертвецы 2 (1987)</title>
-  </programme>
-  <programme start="20260612155232 +0300" stop="20260612180304 +0300" channel="VideoArsenal">
-    <title lang="ru">Ганнибал- Восхождение (2006)</title>
-  </programme>
-  <programme start="20260612180304 +0300" stop="20260612193552 +0300" channel="VideoArsenal">
+  <programme start="20260612180300 +0300" stop="20260612193548 +0300" channel="VideoArsenal">
     <title lang="ru">Худеющий (1996)</title>
   </programme>
-  <programme start="20260612193552 +0300" stop="20260612210749 +0300" channel="VideoArsenal">
+  <programme start="20260612193548 +0300" stop="20260612210745 +0300" channel="VideoArsenal">
     <title lang="ru">Техасская резня бензопилой 3D (2013)</title>
   </programme>
-  <programme start="20260612210749 +0300" stop="20260612222632 +0300" channel="VideoArsenal">
+  <programme start="20260612210745 +0300" stop="20260612222627 +0300" channel="VideoArsenal">
     <title lang="ru">Тень кошки (1961)</title>
   </programme>
-  <programme start="20260612222632 +0300" stop="20260613001444 +0300" channel="VideoArsenal">
+  <programme start="20260612222627 +0300" stop="20260613001439 +0300" channel="VideoArsenal">
     <title lang="ru">Чёрная дыра (1999)</title>
   </programme>
-  <programme start="20260613001444 +0300" stop="20260613020956 +0300" channel="VideoArsenal">
+  <programme start="20260613001439 +0300" stop="20260613021020 +0300" channel="VideoArsenal">
+    <title lang="ru">Мортал Комбат 2 (2026)</title>
+  </programme>
+  <programme start="20260613021020 +0300" stop="20260613040901 +0300" channel="VideoArsenal">
+    <title lang="ru">Обещанный Неверленд (2020)</title>
+  </programme>
+  <programme start="20260613040901 +0300" stop="20260613054852 +0300" channel="VideoArsenal">
+    <title lang="ru">Сын Франкенштейна (1939)</title>
+  </programme>
+  <programme start="20260613054852 +0300" stop="20260613074404 +0300" channel="VideoArsenal">
     <title lang="ru">Из России с любовью (1963)</title>
   </programme>
-  <programme start="20260613020956 +0300" stop="20260613042426 +0300" channel="VideoArsenal">
+  <programme start="20260613074404 +0300" stop="20260613095834 +0300" channel="VideoArsenal">
     <title lang="ru">Мумия (2026)</title>
   </programme>
-  <programme start="20260613042426 +0300" stop="20260613055844 +0300" channel="VideoArsenal">
+  <programme start="20260613095834 +0300" stop="20260613113252 +0300" channel="VideoArsenal">
     <title lang="ru">Таксидермия (2006)</title>
   </programme>
-  <programme start="20260613055844 +0300" stop="20260613074859 +0300" channel="VideoArsenal">
+  <programme start="20260613113252 +0300" stop="20260613132307 +0300" channel="VideoArsenal">
     <title lang="ru">На цепи (2025)</title>
   </programme>
-  <programme start="20260613074859 +0300" stop="20260613101131 +0300" channel="VideoArsenal">
+  <programme start="20260613132307 +0300" stop="20260613154540 +0300" channel="VideoArsenal">
     <title lang="ru">Побег из Шоушенка (1994)</title>
   </programme>
-  <programme start="20260613101131 +0300" stop="20260613121354 +0300" channel="VideoArsenal">
+  <programme start="20260613154540 +0300" stop="20260613174802 +0300" channel="VideoArsenal">
     <title lang="ru">Стартрек- Бесконечность (2016)</title>
   </programme>
-  <programme start="20260613121354 +0300" stop="20260613140431 +0300" channel="VideoArsenal">
+  <programme start="20260613174802 +0300" stop="20260613193839 +0300" channel="VideoArsenal">
     <title lang="ru">Крик 4 (2011)</title>
   </programme>
-  <programme start="20260613140431 +0300" stop="20260613165425 +0300" channel="VideoArsenal">
+  <programme start="20260613193839 +0300" stop="20260613222833 +0300" channel="VideoArsenal">
     <title lang="ru">Лицо со шрамом (1983)</title>
   </programme>
-  <programme start="20260613165425 +0300" stop="20260613191238 +0300" channel="VideoArsenal">
+  <programme start="20260613222833 +0300" stop="20260614004646 +0300" channel="VideoArsenal">
     <title lang="ru">Матрица- Перезагрузка (2003)</title>
   </programme>
-  <programme start="20260613191238 +0300" stop="20260613204253 +0300" channel="VideoArsenal">
+  <programme start="20260614004646 +0300" stop="20260614021701 +0300" channel="VideoArsenal">
     <title lang="ru">Тихое место (2018)</title>
   </programme>
-  <programme start="20260613204253 +0300" stop="20260613230159 +0300" channel="VideoArsenal">
+  <programme start="20260614021701 +0300" stop="20260614043608 +0300" channel="VideoArsenal">
     <title lang="ru">Бойцовский клуб (1999)</title>
   </programme>
-  <programme start="20260613230159 +0300" stop="20260614002616 +0300" channel="VideoArsenal">
+  <programme start="20260614043608 +0300" stop="20260614060024 +0300" channel="VideoArsenal">
     <title lang="ru">Зловещие мертвецы 2 (1987)</title>
   </programme>
-  <programme start="20260614002616 +0300" stop="20260614023648 +0300" channel="VideoArsenal">
+  <programme start="20260614060024 +0300" stop="20260614081056 +0300" channel="VideoArsenal">
     <title lang="ru">Ганнибал- Восхождение (2006)</title>
   </programme>
-  <programme start="20260614023648 +0300" stop="20260614040936 +0300" channel="VideoArsenal">
+  <programme start="20260614081056 +0300" stop="20260614094344 +0300" channel="VideoArsenal">
     <title lang="ru">Худеющий (1996)</title>
   </programme>
-  <programme start="20260614040936 +0300" stop="20260614054133 +0300" channel="VideoArsenal">
+  <programme start="20260614094344 +0300" stop="20260614111542 +0300" channel="VideoArsenal">
     <title lang="ru">Техасская резня бензопилой 3D (2013)</title>
   </programme>
-  <programme start="20260614054133 +0300" stop="20260614070016 +0300" channel="VideoArsenal">
+  <programme start="20260614111542 +0300" stop="20260614123424 +0300" channel="VideoArsenal">
     <title lang="ru">Тень кошки (1961)</title>
   </programme>
-  <programme start="20260614070016 +0300" stop="20260614084828 +0300" channel="VideoArsenal">
+  <programme start="20260614123424 +0300" stop="20260614142236 +0300" channel="VideoArsenal">
     <title lang="ru">Чёрная дыра (1999)</title>
+  </programme>
+  <programme start="20260614142236 +0300" stop="20260614161817 +0300" channel="VideoArsenal">
+    <title lang="ru">Мортал Комбат 2 (2026)</title>
+  </programme>
+  <programme start="20260614161817 +0300" stop="20260614181657 +0300" channel="VideoArsenal">
+    <title lang="ru">Обещанный Неверленд (2020)</title>
+  </programme>
+  <programme start="20260614181657 +0300" stop="20260614195648 +0300" channel="VideoArsenal">
+    <title lang="ru">Сын Франкенштейна (1939)</title>
+  </programme>
+  <programme start="20260614195648 +0300" stop="20260614215201 +0300" channel="VideoArsenal">
+    <title lang="ru">Из России с любовью (1963)</title>
+  </programme>
+  <programme start="20260614215201 +0300" stop="20260615000631 +0300" channel="VideoArsenal">
+    <title lang="ru">Мумия (2026)</title>
+  </programme>
+  <programme start="20260615000631 +0300" stop="20260615014049 +0300" channel="VideoArsenal">
+    <title lang="ru">Таксидермия (2006)</title>
+  </programme>
+  <programme start="20260615014049 +0300" stop="20260615033104 +0300" channel="VideoArsenal">
+    <title lang="ru">На цепи (2025)</title>
+  </programme>
+  <programme start="20260615033104 +0300" stop="20260615055336 +0300" channel="VideoArsenal">
+    <title lang="ru">Побег из Шоушенка (1994)</title>
+  </programme>
+  <programme start="20260615055336 +0300" stop="20260615075559 +0300" channel="VideoArsenal">
+    <title lang="ru">Стартрек- Бесконечность (2016)</title>
+  </programme>
+  <programme start="20260615075559 +0300" stop="20260615094636 +0300" channel="VideoArsenal">
+    <title lang="ru">Крик 4 (2011)</title>
+  </programme>
+  <programme start="20260615094636 +0300" stop="20260615123630 +0300" channel="VideoArsenal">
+    <title lang="ru">Лицо со шрамом (1983)</title>
+  </programme>
+  <programme start="20260615123630 +0300" stop="20260615145442 +0300" channel="VideoArsenal">
+    <title lang="ru">Матрица- Перезагрузка (2003)</title>
+  </programme>
+  <programme start="20260615145442 +0300" stop="20260615162457 +0300" channel="VideoArsenal">
+    <title lang="ru">Тихое место (2018)</title>
+  </programme>
+  <programme start="20260615162457 +0300" stop="20260615184404 +0300" channel="VideoArsenal">
+    <title lang="ru">Бойцовский клуб (1999)</title>
+  </programme>
+  <programme start="20260615184404 +0300" stop="20260615200820 +0300" channel="VideoArsenal">
+    <title lang="ru">Зловещие мертвецы 2 (1987)</title>
+  </programme>
+  <programme start="20260615200820 +0300" stop="20260615221853 +0300" channel="VideoArsenal">
+    <title lang="ru">Ганнибал- Восхождение (2006)</title>
+  </programme>
+  <programme start="20260615221853 +0300" stop="20260615235141 +0300" channel="VideoArsenal">
+    <title lang="ru">Худеющий (1996)</title>
+  </programme>
+  <programme start="20260615235141 +0300" stop="20260616012338 +0300" channel="VideoArsenal">
+    <title lang="ru">Техасская резня бензопилой 3D (2013)</title>
+  </programme>
+  <programme start="20260616012338 +0300" stop="20260616024220 +0300" channel="VideoArsenal">
+    <title lang="ru">Тень кошки (1961)</title>
+  </programme>
+  <programme start="20260616024220 +0300" stop="20260616043032 +0300" channel="VideoArsenal">
+    <title lang="ru">Чёрная дыра (1999)</title>
+  </programme>
+  <programme start="20260616043032 +0300" stop="20260616062613 +0300" channel="VideoArsenal">
+    <title lang="ru">Мортал Комбат 2 (2026)</title>
+  </programme>
+  <programme start="20260616062613 +0300" stop="20260616082454 +0300" channel="VideoArsenal">
+    <title lang="ru">Обещанный Неверленд (2020)</title>
+  </programme>
+  <programme start="20260616082454 +0300" stop="20260616100445 +0300" channel="VideoArsenal">
+    <title lang="ru">Сын Франкенштейна (1939)</title>
+  </programme>
+  <programme start="20260616100445 +0300" stop="20260616115957 +0300" channel="VideoArsenal">
+    <title lang="ru">Из России с любовью (1963)</title>
+  </programme>
+  <programme start="20260616115957 +0300" stop="20260616141427 +0300" channel="VideoArsenal">
+    <title lang="ru">Мумия (2026)</title>
+  </programme>
+  <programme start="20260616141427 +0300" stop="20260616154845 +0300" channel="VideoArsenal">
+    <title lang="ru">Таксидермия (2006)</title>
+  </programme>
+  <programme start="20260616154845 +0300" stop="20260616173900 +0300" channel="VideoArsenal">
+    <title lang="ru">На цепи (2025)</title>
+  </programme>
+  <programme start="20260616173900 +0300" stop="20260616200133 +0300" channel="VideoArsenal">
+    <title lang="ru">Побег из Шоушенка (1994)</title>
+  </programme>
+  <programme start="20260616200133 +0300" stop="20260616220355 +0300" channel="VideoArsenal">
+    <title lang="ru">Стартрек- Бесконечность (2016)</title>
+  </programme>
+  <programme start="20260616220355 +0300" stop="20260616235432 +0300" channel="VideoArsenal">
+    <title lang="ru">Крик 4 (2011)</title>
+  </programme>
+  <programme start="20260616235432 +0300" stop="20260617024426 +0300" channel="VideoArsenal">
+    <title lang="ru">Лицо со шрамом (1983)</title>
+  </programme>
+  <programme start="20260617024426 +0300" stop="20260617050239 +0300" channel="VideoArsenal">
+    <title lang="ru">Матрица- Перезагрузка (2003)</title>
+  </programme>
+  <programme start="20260617050239 +0300" stop="20260617063254 +0300" channel="VideoArsenal">
+    <title lang="ru">Тихое место (2018)</title>
+  </programme>
+  <programme start="20260617063254 +0300" stop="20260617085201 +0300" channel="VideoArsenal">
+    <title lang="ru">Бойцовский клуб (1999)</title>
+  </programme>
+  <programme start="20260617085201 +0300" stop="20260617101617 +0300" channel="VideoArsenal">
+    <title lang="ru">Зловещие мертвецы 2 (1987)</title>
+  </programme>
+  <programme start="20260617101617 +0300" stop="20260617122649 +0300" channel="VideoArsenal">
+    <title lang="ru">Ганнибал- Восхождение (2006)</title>
+  </programme>
+  <programme start="20260617122649 +0300" stop="20260617135937 +0300" channel="VideoArsenal">
+    <title lang="ru">Худеющий (1996)</title>
+  </programme>
+  <programme start="20260617135937 +0300" stop="20260617153135 +0300" channel="VideoArsenal">
+    <title lang="ru">Техасская резня бензопилой 3D (2013)</title>
+  </programme>
+  <programme start="20260617153135 +0300" stop="20260617165017 +0300" channel="VideoArsenal">
+    <title lang="ru">Тень кошки (1961)</title>
+  </programme>
+  <programme start="20260617165017 +0300" stop="20260617183829 +0300" channel="VideoArsenal">
+    <title lang="ru">Чёрная дыра (1999)</title>
+  </programme>
+  <programme start="20260617183829 +0300" stop="20260617203410 +0300" channel="VideoArsenal">
+    <title lang="ru">Мортал Комбат 2 (2026)</title>
+  </programme>
+  <programme start="20260617203410 +0300" stop="20260617223250 +0300" channel="VideoArsenal">
+    <title lang="ru">Обещанный Неверленд (2020)</title>
+  </programme>
+  <programme start="20260617223250 +0300" stop="20260618001241 +0300" channel="VideoArsenal">
+    <title lang="ru">Сын Франкенштейна (1939)</title>
+  </programme>
+  <programme start="20260618001241 +0300" stop="20260618020754 +0300" channel="VideoArsenal">
+    <title lang="ru">Из России с любовью (1963)</title>
+  </programme>
+  <programme start="20260618020754 +0300" stop="20260618042224 +0300" channel="VideoArsenal">
+    <title lang="ru">Мумия (2026)</title>
+  </programme>
+  <programme start="20260618042224 +0300" stop="20260618055642 +0300" channel="VideoArsenal">
+    <title lang="ru">Таксидермия (2006)</title>
+  </programme>
+  <programme start="20260618055642 +0300" stop="20260618074657 +0300" channel="VideoArsenal">
+    <title lang="ru">На цепи (2025)</title>
+  </programme>
+  <programme start="20260618074657 +0300" stop="20260618100929 +0300" channel="VideoArsenal">
+    <title lang="ru">Побег из Шоушенка (1994)</title>
+  </programme>
+  <programme start="20260618100929 +0300" stop="20260618121152 +0300" channel="VideoArsenal">
+    <title lang="ru">Стартрек- Бесконечность (2016)</title>
+  </programme>
+  <programme start="20260618121152 +0300" stop="20260618140229 +0300" channel="VideoArsenal">
+    <title lang="ru">Крик 4 (2011)</title>
+  </programme>
+  <programme start="20260618140229 +0300" stop="20260618165223 +0300" channel="VideoArsenal">
+    <title lang="ru">Лицо со шрамом (1983)</title>
+  </programme>
+  <programme start="20260618165223 +0300" stop="20260618191036 +0300" channel="VideoArsenal">
+    <title lang="ru">Матрица- Перезагрузка (2003)</title>
+  </programme>
+  <programme start="20260618191036 +0300" stop="20260618204050 +0300" channel="VideoArsenal">
+    <title lang="ru">Тихое место (2018)</title>
+  </programme>
+  <programme start="20260618204050 +0300" stop="20260618225957 +0300" channel="VideoArsenal">
+    <title lang="ru">Бойцовский клуб (1999)</title>
+  </programme>
+  <programme start="20260618225957 +0300" stop="20260619002413 +0300" channel="VideoArsenal">
+    <title lang="ru">Зловещие мертвецы 2 (1987)</title>
+  </programme>
+  <programme start="20260619002413 +0300" stop="20260619023446 +0300" channel="VideoArsenal">
+    <title lang="ru">Ганнибал- Восхождение (2006)</title>
+  </programme>
+  <programme start="20260619023446 +0300" stop="20260619040734 +0300" channel="VideoArsenal">
+    <title lang="ru">Худеющий (1996)</title>
+  </programme>
+  <programme start="20260619040734 +0300" stop="20260619053931 +0300" channel="VideoArsenal">
+    <title lang="ru">Техасская резня бензопилой 3D (2013)</title>
+  </programme>
+  <programme start="20260619053931 +0300" stop="20260619065813 +0300" channel="VideoArsenal">
+    <title lang="ru">Тень кошки (1961)</title>
+  </programme>
+  <programme start="20260619065813 +0300" stop="20260619084625 +0300" channel="VideoArsenal">
+    <title lang="ru">Чёрная дыра (1999)</title>
+  </programme>
+  <programme start="20260619084625 +0300" stop="20260619104206 +0300" channel="VideoArsenal">
+    <title lang="ru">Мортал Комбат 2 (2026)</title>
+  </programme>
+  <programme start="20260619104206 +0300" stop="20260619124047 +0300" channel="VideoArsenal">
+    <title lang="ru">Обещанный Неверленд (2020)</title>
+  </programme>
+  <programme start="20260619124047 +0300" stop="20260619142038 +0300" channel="VideoArsenal">
+    <title lang="ru">Сын Франкенштейна (1939)</title>
+  </programme>
+  <programme start="20260619142038 +0300" stop="20260619161550 +0300" channel="VideoArsenal">
+    <title lang="ru">Из России с любовью (1963)</title>
+  </programme>
+  <programme start="20260619161550 +0300" stop="20260619183020 +0300" channel="VideoArsenal">
+    <title lang="ru">Мумия (2026)</title>
+  </programme>
+  <programme start="20260619183020 +0300" stop="20260619200438 +0300" channel="VideoArsenal">
+    <title lang="ru">Таксидермия (2006)</title>
+  </programme>
+  <programme start="20260619200438 +0300" stop="20260619215453 +0300" channel="VideoArsenal">
+    <title lang="ru">На цепи (2025)</title>
+  </programme>
+  <programme start="20260619215453 +0300" stop="20260620001726 +0300" channel="VideoArsenal">
+    <title lang="ru">Побег из Шоушенка (1994)</title>
+  </programme>
+  <programme start="20260620001726 +0300" stop="20260620021948 +0300" channel="VideoArsenal">
+    <title lang="ru">Стартрек- Бесконечность (2016)</title>
+  </programme>
+  <programme start="20260620021948 +0300" stop="20260620041025 +0300" channel="VideoArsenal">
+    <title lang="ru">Крик 4 (2011)</title>
+  </programme>
+  <programme start="20260620041025 +0300" stop="20260620070019 +0300" channel="VideoArsenal">
+    <title lang="ru">Лицо со шрамом (1983)</title>
+  </programme>
+  <programme start="20260620070019 +0300" stop="20260620091832 +0300" channel="VideoArsenal">
+    <title lang="ru">Матрица- Перезагрузка (2003)</title>
+  </programme>
+  <programme start="20260620091832 +0300" stop="20260620104847 +0300" channel="VideoArsenal">
+    <title lang="ru">Тихое место (2018)</title>
+  </programme>
+  <programme start="20260620104847 +0300" stop="20260620130754 +0300" channel="VideoArsenal">
+    <title lang="ru">Бойцовский клуб (1999)</title>
+  </programme>
+  <programme start="20260620130754 +0300" stop="20260620143210 +0300" channel="VideoArsenal">
+    <title lang="ru">Зловещие мертвецы 2 (1987)</title>
+  </programme>
+  <programme start="20260620143210 +0300" stop="20260620164242 +0300" channel="VideoArsenal">
+    <title lang="ru">Ганнибал- Восхождение (2006)</title>
+  </programme>
+  <programme start="20260620164242 +0300" stop="20260620181530 +0300" channel="VideoArsenal">
+    <title lang="ru">Худеющий (1996)</title>
+  </programme>
+  <programme start="20260620181530 +0300" stop="20260620194728 +0300" channel="VideoArsenal">
+    <title lang="ru">Техасская резня бензопилой 3D (2013)</title>
+  </programme>
+  <programme start="20260620194728 +0300" stop="20260620210610 +0300" channel="VideoArsenal">
+    <title lang="ru">Тень кошки (1961)</title>
+  </programme>
+  <programme start="20260620210610 +0300" stop="20260620225422 +0300" channel="VideoArsenal">
+    <title lang="ru">Чёрная дыра (1999)</title>
+  </programme>
+  <programme start="20260620225422 +0300" stop="20260621005003 +0300" channel="VideoArsenal">
+    <title lang="ru">Мортал Комбат 2 (2026)</title>
+  </programme>
+  <programme start="20260621005003 +0300" stop="20260621024843 +0300" channel="VideoArsenal">
+    <title lang="ru">Обещанный Неверленд (2020)</title>
+  </programme>
+  <programme start="20260621024843 +0300" stop="20260621042834 +0300" channel="VideoArsenal">
+    <title lang="ru">Сын Франкенштейна (1939)</title>
+  </programme>
+  <programme start="20260621042834 +0300" stop="20260621062347 +0300" channel="VideoArsenal">
+    <title lang="ru">Из России с любовью (1963)</title>
+  </programme>
+  <programme start="20260621062347 +0300" stop="20260621083817 +0300" channel="VideoArsenal">
+    <title lang="ru">Мумия (2026)</title>
+  </programme>
+  <programme start="20260621083817 +0300" stop="20260621101235 +0300" channel="VideoArsenal">
+    <title lang="ru">Таксидермия (2006)</title>
+  </programme>
+  <programme start="20260621101235 +0300" stop="20260621120250 +0300" channel="VideoArsenal">
+    <title lang="ru">На цепи (2025)</title>
+  </programme>
+  <programme start="20260621120250 +0300" stop="20260621142522 +0300" channel="VideoArsenal">
+    <title lang="ru">Побег из Шоушенка (1994)</title>
+  </programme>
+  <programme start="20260621142522 +0300" stop="20260621162745 +0300" channel="VideoArsenal">
+    <title lang="ru">Стартрек- Бесконечность (2016)</title>
+  </programme>
+  <programme start="20260621162745 +0300" stop="20260621181822 +0300" channel="VideoArsenal">
+    <title lang="ru">Крик 4 (2011)</title>
+  </programme>
+  <programme start="20260621181822 +0300" stop="20260621210816 +0300" channel="VideoArsenal">
+    <title lang="ru">Лицо со шрамом (1983)</title>
+  </programme>
+  <programme start="20260621210816 +0300" stop="20260621232629 +0300" channel="VideoArsenal">
+    <title lang="ru">Матрица- Перезагрузка (2003)</title>
+  </programme>
+  <programme start="20260621232629 +0300" stop="20260622005644 +0300" channel="VideoArsenal">
+    <title lang="ru">Тихое место (2018)</title>
+  </programme>
+  <programme start="20260622005644 +0300" stop="20260622031550 +0300" channel="VideoArsenal">
+    <title lang="ru">Бойцовский клуб (1999)</title>
+  </programme>
+  <programme start="20260622031550 +0300" stop="20260622044006 +0300" channel="VideoArsenal">
+    <title lang="ru">Зловещие мертвецы 2 (1987)</title>
+  </programme>
+  <programme start="20260622044006 +0300" stop="20260622065039 +0300" channel="VideoArsenal">
+    <title lang="ru">Ганнибал- Восхождение (2006)</title>
+  </programme>
+  <programme start="20260622065039 +0300" stop="20260622082327 +0300" channel="VideoArsenal">
+    <title lang="ru">Худеющий (1996)</title>
+  </programme>
+  <programme start="20260622082327 +0300" stop="20260622095524 +0300" channel="VideoArsenal">
+    <title lang="ru">Техасская резня бензопилой 3D (2013)</title>
+  </programme>
+  <programme start="20260622095524 +0300" stop="20260622111406 +0300" channel="VideoArsenal">
+    <title lang="ru">Тень кошки (1961)</title>
+  </programme>
+  <programme start="20260622111406 +0300" stop="20260622130218 +0300" channel="VideoArsenal">
+    <title lang="ru">Чёрная дыра (1999)</title>
+  </programme>
+  <programme start="20260622130218 +0300" stop="20260622145759 +0300" channel="VideoArsenal">
+    <title lang="ru">Мортал Комбат 2 (2026)</title>
+  </programme>
+  <programme start="20260622145759 +0300" stop="20260622165640 +0300" channel="VideoArsenal">
+    <title lang="ru">Обещанный Неверленд (2020)</title>
+  </programme>
+  <programme start="20260622165640 +0300" stop="20260622183631 +0300" channel="VideoArsenal">
+    <title lang="ru">Сын Франкенштейна (1939)</title>
   </programme>
 </tv>
