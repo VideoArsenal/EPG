@@ -3,304 +3,604 @@
   <channel id="VideoArsenal">
     <display-name lang="ru">VideoArsenal</display-name>
   </channel>
-  <programme start="20260619142000 +0300" stop="20260619161001 +0300" channel="VideoArsenal">
-    <title lang="ru">Голдфингер (1964)</title>
+  <programme start="20260626143800 +0300" stop="20260626164823 +0300" channel="VideoArsenal">
+    <title lang="ru">Шаровая молния (1965)</title>
   </programme>
-  <programme start="20260619161001 +0300" stop="20260619175612 +0300" channel="VideoArsenal">
-    <title lang="ru">Последний наёмник (2023)</title>
+  <programme start="20260626164823 +0300" stop="20260626182618 +0300" channel="VideoArsenal">
+    <title lang="ru">Патруль времени (1994)</title>
   </programme>
-  <programme start="20260619175612 +0300" stop="20260619194248 +0300" channel="VideoArsenal">
-    <title lang="ru">Хищник (1987)</title>
+  <programme start="20260626182618 +0300" stop="20260626201417 +0300" channel="VideoArsenal">
+    <title lang="ru">Хищник 2 (1990)</title>
   </programme>
-  <programme start="20260619194248 +0300" stop="20260619213359 +0300" channel="VideoArsenal">
-    <title lang="ru">Способный ученик (1997)</title>
+  <programme start="20260626201417 +0300" stop="20260626215948 +0300" channel="VideoArsenal">
+    <title lang="ru">Воскресший (1991)</title>
   </programme>
-  <programme start="20260619213359 +0300" stop="20260619234712 +0300" channel="VideoArsenal">
-    <title lang="ru">Девятые врата (1999)</title>
+  <programme start="20260626215948 +0300" stop="20260627003758 +0300" channel="VideoArsenal">
+    <title lang="ru">Девушка с татуировкой дракона (2011)</title>
   </programme>
-  <programme start="20260619234712 +0300" stop="20260620014021 +0300" channel="VideoArsenal">
-    <title lang="ru">Сердце Ангела (1987)</title>
+  <programme start="20260627003758 +0300" stop="20260627020859 +0300" channel="VideoArsenal">
+    <title lang="ru">Что случилось тогда (1994)</title>
   </programme>
-  <programme start="20260620014021 +0300" stop="20260620033448 +0300" channel="VideoArsenal">
-    <title lang="ru">Крик (2022)</title>
+  <programme start="20260627020859 +0300" stop="20260627041130 +0300" channel="VideoArsenal">
+    <title lang="ru">Крик 6 (2023)</title>
   </programme>
-  <programme start="20260620033448 +0300" stop="20260620045653 +0300" channel="VideoArsenal">
-    <title lang="ru">Пурпурная роза Каира (1985)</title>
+  <programme start="20260627041130 +0300" stop="20260627055844 +0300" channel="VideoArsenal">
+    <title lang="ru">Хокум (2026)</title>
   </programme>
-  <programme start="20260620045653 +0300" stop="20260620070609 +0300" channel="VideoArsenal">
-    <title lang="ru">Матрица- Революция (2003)</title>
+  <programme start="20260627055844 +0300" stop="20260627082658 +0300" channel="VideoArsenal">
+    <title lang="ru">Матрица- Воскрешение (2021)</title>
   </programme>
-  <programme start="20260620070609 +0300" stop="20260620084310 +0300" channel="VideoArsenal">
-    <title lang="ru">Тихое место 2 (2020)</title>
+  <programme start="20260627082658 +0300" stop="20260627103906 +0300" channel="VideoArsenal">
+    <title lang="ru">Кэрри (2002)</title>
   </programme>
-  <programme start="20260620084310 +0300" stop="20260620115153 +0300" channel="VideoArsenal">
-    <title lang="ru">Зеленая миля (1999)</title>
+  <programme start="20260627103906 +0300" stop="20260627122048 +0300" channel="VideoArsenal">
+    <title lang="ru">Кракатит (1948)</title>
   </programme>
-  <programme start="20260620115153 +0300" stop="20260620132815 +0300" channel="VideoArsenal">
-    <title lang="ru">Зловещие мертвецы 3- Армия тьмы (1992)</title>
+  <programme start="20260627122048 +0300" stop="20260627135715 +0300" channel="VideoArsenal">
+    <title lang="ru">Зловещие мертвецы- Черная книга (2013)</title>
   </programme>
-  <programme start="20260620132815 +0300" stop="20260620150343 +0300" channel="VideoArsenal">
-    <title lang="ru">Я иду искать (2019)</title>
+  <programme start="20260627135715 +0300" stop="20260627154507 +0300" channel="VideoArsenal">
+    <title lang="ru">Я иду искать 2 (2026)</title>
   </programme>
-  <programme start="20260620150343 +0300" stop="20260620162642 +0300" channel="VideoArsenal">
-    <title lang="ru">Игрушки демона (1992)</title>
+  <programme start="20260627154507 +0300" stop="20260627172313 +0300" channel="VideoArsenal">
+    <title lang="ru">Ветеран (2011)</title>
   </programme>
-  <programme start="20260620162642 +0300" stop="20260620175422 +0300" channel="VideoArsenal">
-    <title lang="ru">Техасская резня бензопилой- Кожаное лицо (2017)</title>
+  <programme start="20260627172313 +0300" stop="20260627184426 +0300" channel="VideoArsenal">
+    <title lang="ru">Техасская резня бензопилой (2021)</title>
   </programme>
-  <programme start="20260620175422 +0300" stop="20260620192450 +0300" channel="VideoArsenal">
-    <title lang="ru">Все парни любят Мэнди Лейн (2006)</title>
+  <programme start="20260627184426 +0300" stop="20260627205807 +0300" channel="VideoArsenal">
+    <title lang="ru">Ловец снов (2003)</title>
   </programme>
-  <programme start="20260620192450 +0300" stop="20260620212356 +0300" channel="VideoArsenal">
-    <title lang="ru">Хроники Риддика (2004)</title>
+  <programme start="20260627205807 +0300" stop="20260627230458 +0300" channel="VideoArsenal">
+    <title lang="ru">Риддик (2013)</title>
   </programme>
-  <programme start="20260620212356 +0300" stop="20260620225724 +0300" channel="VideoArsenal">
-    <title lang="ru">Гуманный метод (2024)</title>
+  <programme start="20260627230458 +0300" stop="20260628003908 +0300" channel="VideoArsenal">
+    <title lang="ru">Проклятый рыцарь (2026)</title>
   </programme>
-  <programme start="20260620225724 +0300" stop="20260621003819 +0300" channel="VideoArsenal">
-    <title lang="ru">Сердца в Атлантиде (2001)</title>
+  <programme start="20260628003908 +0300" stop="20260628022400 +0300" channel="VideoArsenal">
+    <title lang="ru">Конец дня (2016)</title>
   </programme>
-  <programme start="20260621003819 +0300" stop="20260621015301 +0300" channel="VideoArsenal">
-    <title lang="ru">Невеста Франкенштейна (1935)</title>
+  <programme start="20260628022400 +0300" stop="20260628033126 +0300" channel="VideoArsenal">
+    <title lang="ru">Дух Франкенштейна (1942)</title>
   </programme>
-  <programme start="20260621015301 +0300" stop="20260621034302 +0300" channel="VideoArsenal">
-    <title lang="ru">Голдфингер (1964)</title>
+  <programme start="20260628033126 +0300" stop="20260628054150 +0300" channel="VideoArsenal">
+    <title lang="ru">Шаровая молния (1965)</title>
   </programme>
-  <programme start="20260621034302 +0300" stop="20260621052914 +0300" channel="VideoArsenal">
-    <title lang="ru">Последний наёмник (2023)</title>
+  <programme start="20260628054150 +0300" stop="20260628071945 +0300" channel="VideoArsenal">
+    <title lang="ru">Патруль времени (1994)</title>
   </programme>
-  <programme start="20260621052914 +0300" stop="20260621071549 +0300" channel="VideoArsenal">
-    <title lang="ru">Хищник (1987)</title>
+  <programme start="20260628071945 +0300" stop="20260628090744 +0300" channel="VideoArsenal">
+    <title lang="ru">Хищник 2 (1990)</title>
   </programme>
-  <programme start="20260621071549 +0300" stop="20260621090700 +0300" channel="VideoArsenal">
-    <title lang="ru">Способный ученик (1997)</title>
+  <programme start="20260628090744 +0300" stop="20260628105315 +0300" channel="VideoArsenal">
+    <title lang="ru">Воскресший (1991)</title>
   </programme>
-  <programme start="20260621090700 +0300" stop="20260621112014 +0300" channel="VideoArsenal">
-    <title lang="ru">Девятые врата (1999)</title>
+  <programme start="20260628105315 +0300" stop="20260628133125 +0300" channel="VideoArsenal">
+    <title lang="ru">Девушка с татуировкой дракона (2011)</title>
   </programme>
-  <programme start="20260621112014 +0300" stop="20260621131323 +0300" channel="VideoArsenal">
-    <title lang="ru">Сердце Ангела (1987)</title>
+  <programme start="20260628133125 +0300" stop="20260628150226 +0300" channel="VideoArsenal">
+    <title lang="ru">Что случилось тогда (1994)</title>
   </programme>
-  <programme start="20260621131323 +0300" stop="20260621150750 +0300" channel="VideoArsenal">
-    <title lang="ru">Крик (2022)</title>
+  <programme start="20260628150226 +0300" stop="20260628170457 +0300" channel="VideoArsenal">
+    <title lang="ru">Крик 6 (2023)</title>
   </programme>
-  <programme start="20260621150750 +0300" stop="20260621162955 +0300" channel="VideoArsenal">
-    <title lang="ru">Пурпурная роза Каира (1985)</title>
+  <programme start="20260628170457 +0300" stop="20260628185211 +0300" channel="VideoArsenal">
+    <title lang="ru">Хокум (2026)</title>
   </programme>
-  <programme start="20260621162955 +0300" stop="20260621183911 +0300" channel="VideoArsenal">
-    <title lang="ru">Матрица- Революция (2003)</title>
+  <programme start="20260628185211 +0300" stop="20260628212025 +0300" channel="VideoArsenal">
+    <title lang="ru">Матрица- Воскрешение (2021)</title>
   </programme>
-  <programme start="20260621183911 +0300" stop="20260621201612 +0300" channel="VideoArsenal">
-    <title lang="ru">Тихое место 2 (2020)</title>
+  <programme start="20260628212025 +0300" stop="20260628233233 +0300" channel="VideoArsenal">
+    <title lang="ru">Кэрри (2002)</title>
   </programme>
-  <programme start="20260621201612 +0300" stop="20260621232454 +0300" channel="VideoArsenal">
-    <title lang="ru">Зеленая миля (1999)</title>
+  <programme start="20260628233233 +0300" stop="20260629011415 +0300" channel="VideoArsenal">
+    <title lang="ru">Кракатит (1948)</title>
   </programme>
-  <programme start="20260621232454 +0300" stop="20260622010117 +0300" channel="VideoArsenal">
-    <title lang="ru">Зловещие мертвецы 3- Армия тьмы (1992)</title>
+  <programme start="20260629011415 +0300" stop="20260629025042 +0300" channel="VideoArsenal">
+    <title lang="ru">Зловещие мертвецы- Черная книга (2013)</title>
   </programme>
-  <programme start="20260622010117 +0300" stop="20260622023644 +0300" channel="VideoArsenal">
-    <title lang="ru">Я иду искать (2019)</title>
+  <programme start="20260629025042 +0300" stop="20260629043834 +0300" channel="VideoArsenal">
+    <title lang="ru">Я иду искать 2 (2026)</title>
   </programme>
-  <programme start="20260622023644 +0300" stop="20260622035943 +0300" channel="VideoArsenal">
-    <title lang="ru">Игрушки демона (1992)</title>
+  <programme start="20260629043834 +0300" stop="20260629061639 +0300" channel="VideoArsenal">
+    <title lang="ru">Ветеран (2011)</title>
   </programme>
-  <programme start="20260622035943 +0300" stop="20260622052724 +0300" channel="VideoArsenal">
-    <title lang="ru">Техасская резня бензопилой- Кожаное лицо (2017)</title>
+  <programme start="20260629061639 +0300" stop="20260629073753 +0300" channel="VideoArsenal">
+    <title lang="ru">Техасская резня бензопилой (2021)</title>
   </programme>
-  <programme start="20260622052724 +0300" stop="20260622065751 +0300" channel="VideoArsenal">
-    <title lang="ru">Все парни любят Мэнди Лейн (2006)</title>
+  <programme start="20260629073753 +0300" stop="20260629095134 +0300" channel="VideoArsenal">
+    <title lang="ru">Ловец снов (2003)</title>
   </programme>
-  <programme start="20260622065751 +0300" stop="20260622085658 +0300" channel="VideoArsenal">
-    <title lang="ru">Хроники Риддика (2004)</title>
+  <programme start="20260629095134 +0300" stop="20260629115825 +0300" channel="VideoArsenal">
+    <title lang="ru">Риддик (2013)</title>
   </programme>
-  <programme start="20260622085658 +0300" stop="20260622103025 +0300" channel="VideoArsenal">
-    <title lang="ru">Гуманный метод (2024)</title>
+  <programme start="20260629115825 +0300" stop="20260629133235 +0300" channel="VideoArsenal">
+    <title lang="ru">Проклятый рыцарь (2026)</title>
   </programme>
-  <programme start="20260622103025 +0300" stop="20260622121120 +0300" channel="VideoArsenal">
-    <title lang="ru">Сердца в Атлантиде (2001)</title>
+  <programme start="20260629133235 +0300" stop="20260629151726 +0300" channel="VideoArsenal">
+    <title lang="ru">Конец дня (2016)</title>
   </programme>
-  <programme start="20260622121120 +0300" stop="20260622132602 +0300" channel="VideoArsenal">
-    <title lang="ru">Невеста Франкенштейна (1935)</title>
+  <programme start="20260629151726 +0300" stop="20260629162453 +0300" channel="VideoArsenal">
+    <title lang="ru">Дух Франкенштейна (1942)</title>
   </programme>
-  <programme start="20260622132602 +0300" stop="20260622151604 +0300" channel="VideoArsenal">
-    <title lang="ru">Голдфингер (1964)</title>
+  <programme start="20260629162453 +0300" stop="20260629183516 +0300" channel="VideoArsenal">
+    <title lang="ru">Шаровая молния (1965)</title>
   </programme>
-  <programme start="20260622151604 +0300" stop="20260622170215 +0300" channel="VideoArsenal">
-    <title lang="ru">Последний наёмник (2023)</title>
+  <programme start="20260629183516 +0300" stop="20260629201311 +0300" channel="VideoArsenal">
+    <title lang="ru">Патруль времени (1994)</title>
   </programme>
-  <programme start="20260622170215 +0300" stop="20260622184851 +0300" channel="VideoArsenal">
-    <title lang="ru">Хищник (1987)</title>
+  <programme start="20260629201311 +0300" stop="20260629220111 +0300" channel="VideoArsenal">
+    <title lang="ru">Хищник 2 (1990)</title>
   </programme>
-  <programme start="20260622184851 +0300" stop="20260622204001 +0300" channel="VideoArsenal">
-    <title lang="ru">Способный ученик (1997)</title>
+  <programme start="20260629220111 +0300" stop="20260629234642 +0300" channel="VideoArsenal">
+    <title lang="ru">Воскресший (1991)</title>
   </programme>
-  <programme start="20260622204001 +0300" stop="20260622225315 +0300" channel="VideoArsenal">
-    <title lang="ru">Девятые врата (1999)</title>
+  <programme start="20260629234642 +0300" stop="20260630022451 +0300" channel="VideoArsenal">
+    <title lang="ru">Девушка с татуировкой дракона (2011)</title>
   </programme>
-  <programme start="20260622225315 +0300" stop="20260623004624 +0300" channel="VideoArsenal">
-    <title lang="ru">Сердце Ангела (1987)</title>
+  <programme start="20260630022451 +0300" stop="20260630035552 +0300" channel="VideoArsenal">
+    <title lang="ru">Что случилось тогда (1994)</title>
   </programme>
-  <programme start="20260623004624 +0300" stop="20260623024051 +0300" channel="VideoArsenal">
-    <title lang="ru">Крик (2022)</title>
+  <programme start="20260630035552 +0300" stop="20260630055823 +0300" channel="VideoArsenal">
+    <title lang="ru">Крик 6 (2023)</title>
   </programme>
-  <programme start="20260623024051 +0300" stop="20260623040256 +0300" channel="VideoArsenal">
-    <title lang="ru">Пурпурная роза Каира (1985)</title>
+  <programme start="20260630055823 +0300" stop="20260630074538 +0300" channel="VideoArsenal">
+    <title lang="ru">Хокум (2026)</title>
   </programme>
-  <programme start="20260623040256 +0300" stop="20260623061212 +0300" channel="VideoArsenal">
-    <title lang="ru">Матрица- Революция (2003)</title>
+  <programme start="20260630074538 +0300" stop="20260630101351 +0300" channel="VideoArsenal">
+    <title lang="ru">Матрица- Воскрешение (2021)</title>
   </programme>
-  <programme start="20260623061212 +0300" stop="20260623074913 +0300" channel="VideoArsenal">
-    <title lang="ru">Тихое место 2 (2020)</title>
+  <programme start="20260630101351 +0300" stop="20260630122600 +0300" channel="VideoArsenal">
+    <title lang="ru">Кэрри (2002)</title>
   </programme>
-  <programme start="20260623074913 +0300" stop="20260623105756 +0300" channel="VideoArsenal">
-    <title lang="ru">Зеленая миля (1999)</title>
+  <programme start="20260630122600 +0300" stop="20260630140741 +0300" channel="VideoArsenal">
+    <title lang="ru">Кракатит (1948)</title>
   </programme>
-  <programme start="20260623105756 +0300" stop="20260623123418 +0300" channel="VideoArsenal">
-    <title lang="ru">Зловещие мертвецы 3- Армия тьмы (1992)</title>
+  <programme start="20260630140741 +0300" stop="20260630154408 +0300" channel="VideoArsenal">
+    <title lang="ru">Зловещие мертвецы- Черная книга (2013)</title>
   </programme>
-  <programme start="20260623123418 +0300" stop="20260623140945 +0300" channel="VideoArsenal">
-    <title lang="ru">Я иду искать (2019)</title>
+  <programme start="20260630154408 +0300" stop="20260630173200 +0300" channel="VideoArsenal">
+    <title lang="ru">Я иду искать 2 (2026)</title>
   </programme>
-  <programme start="20260623140945 +0300" stop="20260623153245 +0300" channel="VideoArsenal">
-    <title lang="ru">Игрушки демона (1992)</title>
+  <programme start="20260630173200 +0300" stop="20260630191006 +0300" channel="VideoArsenal">
+    <title lang="ru">Ветеран (2011)</title>
   </programme>
-  <programme start="20260623153245 +0300" stop="20260623170025 +0300" channel="VideoArsenal">
-    <title lang="ru">Техасская резня бензопилой- Кожаное лицо (2017)</title>
+  <programme start="20260630191006 +0300" stop="20260630203120 +0300" channel="VideoArsenal">
+    <title lang="ru">Техасская резня бензопилой (2021)</title>
   </programme>
-  <programme start="20260623170025 +0300" stop="20260623183052 +0300" channel="VideoArsenal">
-    <title lang="ru">Все парни любят Мэнди Лейн (2006)</title>
+  <programme start="20260630203120 +0300" stop="20260630224501 +0300" channel="VideoArsenal">
+    <title lang="ru">Ловец снов (2003)</title>
   </programme>
-  <programme start="20260623183052 +0300" stop="20260623202959 +0300" channel="VideoArsenal">
-    <title lang="ru">Хроники Риддика (2004)</title>
+  <programme start="20260630224501 +0300" stop="20260701005152 +0300" channel="VideoArsenal">
+    <title lang="ru">Риддик (2013)</title>
   </programme>
-  <programme start="20260623202959 +0300" stop="20260623220327 +0300" channel="VideoArsenal">
-    <title lang="ru">Гуманный метод (2024)</title>
+  <programme start="20260701005152 +0300" stop="20260701022601 +0300" channel="VideoArsenal">
+    <title lang="ru">Проклятый рыцарь (2026)</title>
   </programme>
-  <programme start="20260623220327 +0300" stop="20260623234422 +0300" channel="VideoArsenal">
-    <title lang="ru">Сердца в Атлантиде (2001)</title>
+  <programme start="20260701022601 +0300" stop="20260701041053 +0300" channel="VideoArsenal">
+    <title lang="ru">Конец дня (2016)</title>
   </programme>
-  <programme start="20260623234422 +0300" stop="20260624005904 +0300" channel="VideoArsenal">
-    <title lang="ru">Невеста Франкенштейна (1935)</title>
+  <programme start="20260701041053 +0300" stop="20260701051820 +0300" channel="VideoArsenal">
+    <title lang="ru">Дух Франкенштейна (1942)</title>
   </programme>
-  <programme start="20260624005904 +0300" stop="20260624024905 +0300" channel="VideoArsenal">
-    <title lang="ru">Голдфингер (1964)</title>
+  <programme start="20260701051820 +0300" stop="20260701072843 +0300" channel="VideoArsenal">
+    <title lang="ru">Шаровая молния (1965)</title>
   </programme>
-  <programme start="20260624024905 +0300" stop="20260624043516 +0300" channel="VideoArsenal">
-    <title lang="ru">Последний наёмник (2023)</title>
+  <programme start="20260701072843 +0300" stop="20260701090638 +0300" channel="VideoArsenal">
+    <title lang="ru">Патруль времени (1994)</title>
   </programme>
-  <programme start="20260624043516 +0300" stop="20260624062152 +0300" channel="VideoArsenal">
-    <title lang="ru">Хищник (1987)</title>
+  <programme start="20260701090638 +0300" stop="20260701105438 +0300" channel="VideoArsenal">
+    <title lang="ru">Хищник 2 (1990)</title>
   </programme>
-  <programme start="20260624062152 +0300" stop="20260624081303 +0300" channel="VideoArsenal">
-    <title lang="ru">Способный ученик (1997)</title>
+  <programme start="20260701105438 +0300" stop="20260701124008 +0300" channel="VideoArsenal">
+    <title lang="ru">Воскресший (1991)</title>
   </programme>
-  <programme start="20260624081303 +0300" stop="20260624102616 +0300" channel="VideoArsenal">
-    <title lang="ru">Девятые врата (1999)</title>
+  <programme start="20260701124008 +0300" stop="20260701151818 +0300" channel="VideoArsenal">
+    <title lang="ru">Девушка с татуировкой дракона (2011)</title>
   </programme>
-  <programme start="20260624102616 +0300" stop="20260624121925 +0300" channel="VideoArsenal">
-    <title lang="ru">Сердце Ангела (1987)</title>
+  <programme start="20260701151818 +0300" stop="20260701164919 +0300" channel="VideoArsenal">
+    <title lang="ru">Что случилось тогда (1994)</title>
   </programme>
-  <programme start="20260624121925 +0300" stop="20260624141352 +0300" channel="VideoArsenal">
-    <title lang="ru">Крик (2022)</title>
+  <programme start="20260701164919 +0300" stop="20260701185150 +0300" channel="VideoArsenal">
+    <title lang="ru">Крик 6 (2023)</title>
   </programme>
-  <programme start="20260624141352 +0300" stop="20260624153557 +0300" channel="VideoArsenal">
-    <title lang="ru">Пурпурная роза Каира (1985)</title>
+  <programme start="20260701185150 +0300" stop="20260701203904 +0300" channel="VideoArsenal">
+    <title lang="ru">Хокум (2026)</title>
   </programme>
-  <programme start="20260624153557 +0300" stop="20260624174513 +0300" channel="VideoArsenal">
-    <title lang="ru">Матрица- Революция (2003)</title>
+  <programme start="20260701203904 +0300" stop="20260701230718 +0300" channel="VideoArsenal">
+    <title lang="ru">Матрица- Воскрешение (2021)</title>
   </programme>
-  <programme start="20260624174513 +0300" stop="20260624192214 +0300" channel="VideoArsenal">
-    <title lang="ru">Тихое место 2 (2020)</title>
+  <programme start="20260701230718 +0300" stop="20260702011927 +0300" channel="VideoArsenal">
+    <title lang="ru">Кэрри (2002)</title>
   </programme>
-  <programme start="20260624192214 +0300" stop="20260624223057 +0300" channel="VideoArsenal">
-    <title lang="ru">Зеленая миля (1999)</title>
+  <programme start="20260702011927 +0300" stop="20260702030108 +0300" channel="VideoArsenal">
+    <title lang="ru">Кракатит (1948)</title>
   </programme>
-  <programme start="20260624223057 +0300" stop="20260625000719 +0300" channel="VideoArsenal">
-    <title lang="ru">Зловещие мертвецы 3- Армия тьмы (1992)</title>
+  <programme start="20260702030108 +0300" stop="20260702043735 +0300" channel="VideoArsenal">
+    <title lang="ru">Зловещие мертвецы- Черная книга (2013)</title>
   </programme>
-  <programme start="20260625000719 +0300" stop="20260625014247 +0300" channel="VideoArsenal">
-    <title lang="ru">Я иду искать (2019)</title>
+  <programme start="20260702043735 +0300" stop="20260702062527 +0300" channel="VideoArsenal">
+    <title lang="ru">Я иду искать 2 (2026)</title>
   </programme>
-  <programme start="20260625014247 +0300" stop="20260625030546 +0300" channel="VideoArsenal">
-    <title lang="ru">Игрушки демона (1992)</title>
+  <programme start="20260702062527 +0300" stop="20260702080333 +0300" channel="VideoArsenal">
+    <title lang="ru">Ветеран (2011)</title>
   </programme>
-  <programme start="20260625030546 +0300" stop="20260625043326 +0300" channel="VideoArsenal">
-    <title lang="ru">Техасская резня бензопилой- Кожаное лицо (2017)</title>
+  <programme start="20260702080333 +0300" stop="20260702092446 +0300" channel="VideoArsenal">
+    <title lang="ru">Техасская резня бензопилой (2021)</title>
   </programme>
-  <programme start="20260625043326 +0300" stop="20260625060354 +0300" channel="VideoArsenal">
-    <title lang="ru">Все парни любят Мэнди Лейн (2006)</title>
+  <programme start="20260702092446 +0300" stop="20260702113828 +0300" channel="VideoArsenal">
+    <title lang="ru">Ловец снов (2003)</title>
   </programme>
-  <programme start="20260625060354 +0300" stop="20260625080300 +0300" channel="VideoArsenal">
-    <title lang="ru">Хроники Риддика (2004)</title>
+  <programme start="20260702113828 +0300" stop="20260702134518 +0300" channel="VideoArsenal">
+    <title lang="ru">Риддик (2013)</title>
   </programme>
-  <programme start="20260625080300 +0300" stop="20260625093628 +0300" channel="VideoArsenal">
-    <title lang="ru">Гуманный метод (2024)</title>
+  <programme start="20260702134518 +0300" stop="20260702151928 +0300" channel="VideoArsenal">
+    <title lang="ru">Проклятый рыцарь (2026)</title>
   </programme>
-  <programme start="20260625093628 +0300" stop="20260625111723 +0300" channel="VideoArsenal">
-    <title lang="ru">Сердца в Атлантиде (2001)</title>
+  <programme start="20260702151928 +0300" stop="20260702170420 +0300" channel="VideoArsenal">
+    <title lang="ru">Конец дня (2016)</title>
   </programme>
-  <programme start="20260625111723 +0300" stop="20260625123205 +0300" channel="VideoArsenal">
-    <title lang="ru">Невеста Франкенштейна (1935)</title>
+  <programme start="20260702170420 +0300" stop="20260702181146 +0300" channel="VideoArsenal">
+    <title lang="ru">Дух Франкенштейна (1942)</title>
   </programme>
-  <programme start="20260625123205 +0300" stop="20260625142206 +0300" channel="VideoArsenal">
-    <title lang="ru">Голдфингер (1964)</title>
+  <programme start="20260702181146 +0300" stop="20260702202210 +0300" channel="VideoArsenal">
+    <title lang="ru">Шаровая молния (1965)</title>
   </programme>
-  <programme start="20260625142206 +0300" stop="20260625160818 +0300" channel="VideoArsenal">
-    <title lang="ru">Последний наёмник (2023)</title>
+  <programme start="20260702202210 +0300" stop="20260702220005 +0300" channel="VideoArsenal">
+    <title lang="ru">Патруль времени (1994)</title>
   </programme>
-  <programme start="20260625160818 +0300" stop="20260625175453 +0300" channel="VideoArsenal">
-    <title lang="ru">Хищник (1987)</title>
+  <programme start="20260702220005 +0300" stop="20260702234804 +0300" channel="VideoArsenal">
+    <title lang="ru">Хищник 2 (1990)</title>
   </programme>
-  <programme start="20260625175453 +0300" stop="20260625194604 +0300" channel="VideoArsenal">
-    <title lang="ru">Способный ученик (1997)</title>
+  <programme start="20260702234804 +0300" stop="20260703013335 +0300" channel="VideoArsenal">
+    <title lang="ru">Воскресший (1991)</title>
   </programme>
-  <programme start="20260625194604 +0300" stop="20260625215918 +0300" channel="VideoArsenal">
-    <title lang="ru">Девятые врата (1999)</title>
+  <programme start="20260703013335 +0300" stop="20260703041145 +0300" channel="VideoArsenal">
+    <title lang="ru">Девушка с татуировкой дракона (2011)</title>
   </programme>
-  <programme start="20260625215918 +0300" stop="20260625235227 +0300" channel="VideoArsenal">
-    <title lang="ru">Сердце Ангела (1987)</title>
+  <programme start="20260703041145 +0300" stop="20260703054246 +0300" channel="VideoArsenal">
+    <title lang="ru">Что случилось тогда (1994)</title>
   </programme>
-  <programme start="20260625235227 +0300" stop="20260626014654 +0300" channel="VideoArsenal">
-    <title lang="ru">Крик (2022)</title>
+  <programme start="20260703054246 +0300" stop="20260703074517 +0300" channel="VideoArsenal">
+    <title lang="ru">Крик 6 (2023)</title>
   </programme>
-  <programme start="20260626014654 +0300" stop="20260626030859 +0300" channel="VideoArsenal">
-    <title lang="ru">Пурпурная роза Каира (1985)</title>
+  <programme start="20260703074517 +0300" stop="20260703093231 +0300" channel="VideoArsenal">
+    <title lang="ru">Хокум (2026)</title>
   </programme>
-  <programme start="20260626030859 +0300" stop="20260626051815 +0300" channel="VideoArsenal">
-    <title lang="ru">Матрица- Революция (2003)</title>
+  <programme start="20260703093231 +0300" stop="20260703120045 +0300" channel="VideoArsenal">
+    <title lang="ru">Матрица- Воскрешение (2021)</title>
   </programme>
-  <programme start="20260626051815 +0300" stop="20260626065516 +0300" channel="VideoArsenal">
-    <title lang="ru">Тихое место 2 (2020)</title>
+  <programme start="20260703120045 +0300" stop="20260703141253 +0300" channel="VideoArsenal">
+    <title lang="ru">Кэрри (2002)</title>
   </programme>
-  <programme start="20260626065516 +0300" stop="20260626100358 +0300" channel="VideoArsenal">
-    <title lang="ru">Зеленая миля (1999)</title>
+  <programme start="20260703141253 +0300" stop="20260703155435 +0300" channel="VideoArsenal">
+    <title lang="ru">Кракатит (1948)</title>
   </programme>
-  <programme start="20260626100358 +0300" stop="20260626114021 +0300" channel="VideoArsenal">
-    <title lang="ru">Зловещие мертвецы 3- Армия тьмы (1992)</title>
+  <programme start="20260703155435 +0300" stop="20260703173102 +0300" channel="VideoArsenal">
+    <title lang="ru">Зловещие мертвецы- Черная книга (2013)</title>
   </programme>
-  <programme start="20260626114021 +0300" stop="20260626131548 +0300" channel="VideoArsenal">
-    <title lang="ru">Я иду искать (2019)</title>
+  <programme start="20260703173102 +0300" stop="20260703191854 +0300" channel="VideoArsenal">
+    <title lang="ru">Я иду искать 2 (2026)</title>
   </programme>
-  <programme start="20260626131548 +0300" stop="20260626143848 +0300" channel="VideoArsenal">
-    <title lang="ru">Игрушки демона (1992)</title>
+  <programme start="20260703191854 +0300" stop="20260703205700 +0300" channel="VideoArsenal">
+    <title lang="ru">Ветеран (2011)</title>
   </programme>
-  <programme start="20260626143848 +0300" stop="20260626160628 +0300" channel="VideoArsenal">
-    <title lang="ru">Техасская резня бензопилой- Кожаное лицо (2017)</title>
+  <programme start="20260703205700 +0300" stop="20260703221813 +0300" channel="VideoArsenal">
+    <title lang="ru">Техасская резня бензопилой (2021)</title>
   </programme>
-  <programme start="20260626160628 +0300" stop="20260626173655 +0300" channel="VideoArsenal">
-    <title lang="ru">Все парни любят Мэнди Лейн (2006)</title>
+  <programme start="20260703221813 +0300" stop="20260704003154 +0300" channel="VideoArsenal">
+    <title lang="ru">Ловец снов (2003)</title>
   </programme>
-  <programme start="20260626173655 +0300" stop="20260626193602 +0300" channel="VideoArsenal">
-    <title lang="ru">Хроники Риддика (2004)</title>
+  <programme start="20260704003154 +0300" stop="20260704023845 +0300" channel="VideoArsenal">
+    <title lang="ru">Риддик (2013)</title>
   </programme>
-  <programme start="20260626193602 +0300" stop="20260626210930 +0300" channel="VideoArsenal">
-    <title lang="ru">Гуманный метод (2024)</title>
+  <programme start="20260704023845 +0300" stop="20260704041255 +0300" channel="VideoArsenal">
+    <title lang="ru">Проклятый рыцарь (2026)</title>
   </programme>
-  <programme start="20260626210930 +0300" stop="20260626225024 +0300" channel="VideoArsenal">
-    <title lang="ru">Сердца в Атлантиде (2001)</title>
+  <programme start="20260704041255 +0300" stop="20260704055746 +0300" channel="VideoArsenal">
+    <title lang="ru">Конец дня (2016)</title>
   </programme>
-  <programme start="20260626225024 +0300" stop="20260627000506 +0300" channel="VideoArsenal">
-    <title lang="ru">Невеста Франкенштейна (1935)</title>
+  <programme start="20260704055746 +0300" stop="20260704070513 +0300" channel="VideoArsenal">
+    <title lang="ru">Дух Франкенштейна (1942)</title>
+  </programme>
+  <programme start="20260704070513 +0300" stop="20260704091536 +0300" channel="VideoArsenal">
+    <title lang="ru">Шаровая молния (1965)</title>
+  </programme>
+  <programme start="20260704091536 +0300" stop="20260704105331 +0300" channel="VideoArsenal">
+    <title lang="ru">Патруль времени (1994)</title>
+  </programme>
+  <programme start="20260704105331 +0300" stop="20260704124131 +0300" channel="VideoArsenal">
+    <title lang="ru">Хищник 2 (1990)</title>
+  </programme>
+  <programme start="20260704124131 +0300" stop="20260704142702 +0300" channel="VideoArsenal">
+    <title lang="ru">Воскресший (1991)</title>
+  </programme>
+  <programme start="20260704142702 +0300" stop="20260704170511 +0300" channel="VideoArsenal">
+    <title lang="ru">Девушка с татуировкой дракона (2011)</title>
+  </programme>
+  <programme start="20260704170511 +0300" stop="20260704183613 +0300" channel="VideoArsenal">
+    <title lang="ru">Что случилось тогда (1994)</title>
+  </programme>
+  <programme start="20260704183613 +0300" stop="20260704203843 +0300" channel="VideoArsenal">
+    <title lang="ru">Крик 6 (2023)</title>
+  </programme>
+  <programme start="20260704203843 +0300" stop="20260704222558 +0300" channel="VideoArsenal">
+    <title lang="ru">Хокум (2026)</title>
+  </programme>
+  <programme start="20260704222558 +0300" stop="20260705005411 +0300" channel="VideoArsenal">
+    <title lang="ru">Матрица- Воскрешение (2021)</title>
+  </programme>
+  <programme start="20260705005411 +0300" stop="20260705030620 +0300" channel="VideoArsenal">
+    <title lang="ru">Кэрри (2002)</title>
+  </programme>
+  <programme start="20260705030620 +0300" stop="20260705044802 +0300" channel="VideoArsenal">
+    <title lang="ru">Кракатит (1948)</title>
+  </programme>
+  <programme start="20260705044802 +0300" stop="20260705062428 +0300" channel="VideoArsenal">
+    <title lang="ru">Зловещие мертвецы- Черная книга (2013)</title>
+  </programme>
+  <programme start="20260705062428 +0300" stop="20260705081221 +0300" channel="VideoArsenal">
+    <title lang="ru">Я иду искать 2 (2026)</title>
+  </programme>
+  <programme start="20260705081221 +0300" stop="20260705095026 +0300" channel="VideoArsenal">
+    <title lang="ru">Ветеран (2011)</title>
+  </programme>
+  <programme start="20260705095026 +0300" stop="20260705111140 +0300" channel="VideoArsenal">
+    <title lang="ru">Техасская резня бензопилой (2021)</title>
+  </programme>
+  <programme start="20260705111140 +0300" stop="20260705132521 +0300" channel="VideoArsenal">
+    <title lang="ru">Ловец снов (2003)</title>
+  </programme>
+  <programme start="20260705132521 +0300" stop="20260705153212 +0300" channel="VideoArsenal">
+    <title lang="ru">Риддик (2013)</title>
+  </programme>
+  <programme start="20260705153212 +0300" stop="20260705170622 +0300" channel="VideoArsenal">
+    <title lang="ru">Проклятый рыцарь (2026)</title>
+  </programme>
+  <programme start="20260705170622 +0300" stop="20260705185113 +0300" channel="VideoArsenal">
+    <title lang="ru">Конец дня (2016)</title>
+  </programme>
+  <programme start="20260705185113 +0300" stop="20260705195840 +0300" channel="VideoArsenal">
+    <title lang="ru">Дух Франкенштейна (1942)</title>
+  </programme>
+  <programme start="20260705195840 +0300" stop="20260705220903 +0300" channel="VideoArsenal">
+    <title lang="ru">Шаровая молния (1965)</title>
+  </programme>
+  <programme start="20260705220903 +0300" stop="20260705234658 +0300" channel="VideoArsenal">
+    <title lang="ru">Патруль времени (1994)</title>
+  </programme>
+  <programme start="20260705234658 +0300" stop="20260706013458 +0300" channel="VideoArsenal">
+    <title lang="ru">Хищник 2 (1990)</title>
+  </programme>
+  <programme start="20260706013458 +0300" stop="20260706032029 +0300" channel="VideoArsenal">
+    <title lang="ru">Воскресший (1991)</title>
+  </programme>
+  <programme start="20260706032029 +0300" stop="20260706055838 +0300" channel="VideoArsenal">
+    <title lang="ru">Девушка с татуировкой дракона (2011)</title>
+  </programme>
+  <programme start="20260706055838 +0300" stop="20260706072939 +0300" channel="VideoArsenal">
+    <title lang="ru">Что случилось тогда (1994)</title>
+  </programme>
+  <programme start="20260706072939 +0300" stop="20260706093210 +0300" channel="VideoArsenal">
+    <title lang="ru">Крик 6 (2023)</title>
+  </programme>
+  <programme start="20260706093210 +0300" stop="20260706111925 +0300" channel="VideoArsenal">
+    <title lang="ru">Хокум (2026)</title>
+  </programme>
+  <programme start="20260706111925 +0300" stop="20260706134738 +0300" channel="VideoArsenal">
+    <title lang="ru">Матрица- Воскрешение (2021)</title>
+  </programme>
+  <programme start="20260706134738 +0300" stop="20260706155947 +0300" channel="VideoArsenal">
+    <title lang="ru">Кэрри (2002)</title>
+  </programme>
+  <programme start="20260706155947 +0300" stop="20260706174128 +0300" channel="VideoArsenal">
+    <title lang="ru">Кракатит (1948)</title>
+  </programme>
+  <programme start="20260706174128 +0300" stop="20260706191755 +0300" channel="VideoArsenal">
+    <title lang="ru">Зловещие мертвецы- Черная книга (2013)</title>
+  </programme>
+  <programme start="20260706191755 +0300" stop="20260706210547 +0300" channel="VideoArsenal">
+    <title lang="ru">Я иду искать 2 (2026)</title>
+  </programme>
+  <programme start="20260706210547 +0300" stop="20260706224353 +0300" channel="VideoArsenal">
+    <title lang="ru">Ветеран (2011)</title>
+  </programme>
+  <programme start="20260706224353 +0300" stop="20260707000506 +0300" channel="VideoArsenal">
+    <title lang="ru">Техасская резня бензопилой (2021)</title>
+  </programme>
+  <programme start="20260707000506 +0300" stop="20260707021848 +0300" channel="VideoArsenal">
+    <title lang="ru">Ловец снов (2003)</title>
+  </programme>
+  <programme start="20260707021848 +0300" stop="20260707042539 +0300" channel="VideoArsenal">
+    <title lang="ru">Риддик (2013)</title>
+  </programme>
+  <programme start="20260707042539 +0300" stop="20260707055948 +0300" channel="VideoArsenal">
+    <title lang="ru">Проклятый рыцарь (2026)</title>
+  </programme>
+  <programme start="20260707055948 +0300" stop="20260707074440 +0300" channel="VideoArsenal">
+    <title lang="ru">Конец дня (2016)</title>
+  </programme>
+  <programme start="20260707074440 +0300" stop="20260707085206 +0300" channel="VideoArsenal">
+    <title lang="ru">Дух Франкенштейна (1942)</title>
+  </programme>
+  <programme start="20260707085206 +0300" stop="20260707110230 +0300" channel="VideoArsenal">
+    <title lang="ru">Шаровая молния (1965)</title>
+  </programme>
+  <programme start="20260707110230 +0300" stop="20260707124025 +0300" channel="VideoArsenal">
+    <title lang="ru">Патруль времени (1994)</title>
+  </programme>
+  <programme start="20260707124025 +0300" stop="20260707142824 +0300" channel="VideoArsenal">
+    <title lang="ru">Хищник 2 (1990)</title>
+  </programme>
+  <programme start="20260707142824 +0300" stop="20260707161355 +0300" channel="VideoArsenal">
+    <title lang="ru">Воскресший (1991)</title>
+  </programme>
+  <programme start="20260707161355 +0300" stop="20260707185205 +0300" channel="VideoArsenal">
+    <title lang="ru">Девушка с татуировкой дракона (2011)</title>
+  </programme>
+  <programme start="20260707185205 +0300" stop="20260707202306 +0300" channel="VideoArsenal">
+    <title lang="ru">Что случилось тогда (1994)</title>
+  </programme>
+  <programme start="20260707202306 +0300" stop="20260707222537 +0300" channel="VideoArsenal">
+    <title lang="ru">Крик 6 (2023)</title>
+  </programme>
+  <programme start="20260707222537 +0300" stop="20260708001251 +0300" channel="VideoArsenal">
+    <title lang="ru">Хокум (2026)</title>
+  </programme>
+  <programme start="20260708001251 +0300" stop="20260708024105 +0300" channel="VideoArsenal">
+    <title lang="ru">Матрица- Воскрешение (2021)</title>
+  </programme>
+  <programme start="20260708024105 +0300" stop="20260708045313 +0300" channel="VideoArsenal">
+    <title lang="ru">Кэрри (2002)</title>
+  </programme>
+  <programme start="20260708045313 +0300" stop="20260708063455 +0300" channel="VideoArsenal">
+    <title lang="ru">Кракатит (1948)</title>
+  </programme>
+  <programme start="20260708063455 +0300" stop="20260708081122 +0300" channel="VideoArsenal">
+    <title lang="ru">Зловещие мертвецы- Черная книга (2013)</title>
+  </programme>
+  <programme start="20260708081122 +0300" stop="20260708095914 +0300" channel="VideoArsenal">
+    <title lang="ru">Я иду искать 2 (2026)</title>
+  </programme>
+  <programme start="20260708095914 +0300" stop="20260708113720 +0300" channel="VideoArsenal">
+    <title lang="ru">Ветеран (2011)</title>
+  </programme>
+  <programme start="20260708113720 +0300" stop="20260708125833 +0300" channel="VideoArsenal">
+    <title lang="ru">Техасская резня бензопилой (2021)</title>
+  </programme>
+  <programme start="20260708125833 +0300" stop="20260708151214 +0300" channel="VideoArsenal">
+    <title lang="ru">Ловец снов (2003)</title>
+  </programme>
+  <programme start="20260708151214 +0300" stop="20260708171905 +0300" channel="VideoArsenal">
+    <title lang="ru">Риддик (2013)</title>
+  </programme>
+  <programme start="20260708171905 +0300" stop="20260708185315 +0300" channel="VideoArsenal">
+    <title lang="ru">Проклятый рыцарь (2026)</title>
+  </programme>
+  <programme start="20260708185315 +0300" stop="20260708203807 +0300" channel="VideoArsenal">
+    <title lang="ru">Конец дня (2016)</title>
+  </programme>
+  <programme start="20260708203807 +0300" stop="20260708214533 +0300" channel="VideoArsenal">
+    <title lang="ru">Дух Франкенштейна (1942)</title>
+  </programme>
+  <programme start="20260708214533 +0300" stop="20260708235556 +0300" channel="VideoArsenal">
+    <title lang="ru">Шаровая молния (1965)</title>
+  </programme>
+  <programme start="20260708235556 +0300" stop="20260709013351 +0300" channel="VideoArsenal">
+    <title lang="ru">Патруль времени (1994)</title>
+  </programme>
+  <programme start="20260709013351 +0300" stop="20260709032151 +0300" channel="VideoArsenal">
+    <title lang="ru">Хищник 2 (1990)</title>
+  </programme>
+  <programme start="20260709032151 +0300" stop="20260709050722 +0300" channel="VideoArsenal">
+    <title lang="ru">Воскресший (1991)</title>
+  </programme>
+  <programme start="20260709050722 +0300" stop="20260709074532 +0300" channel="VideoArsenal">
+    <title lang="ru">Девушка с татуировкой дракона (2011)</title>
+  </programme>
+  <programme start="20260709074532 +0300" stop="20260709091633 +0300" channel="VideoArsenal">
+    <title lang="ru">Что случилось тогда (1994)</title>
+  </programme>
+  <programme start="20260709091633 +0300" stop="20260709111903 +0300" channel="VideoArsenal">
+    <title lang="ru">Крик 6 (2023)</title>
+  </programme>
+  <programme start="20260709111903 +0300" stop="20260709130618 +0300" channel="VideoArsenal">
+    <title lang="ru">Хокум (2026)</title>
+  </programme>
+  <programme start="20260709130618 +0300" stop="20260709153431 +0300" channel="VideoArsenal">
+    <title lang="ru">Матрица- Воскрешение (2021)</title>
+  </programme>
+  <programme start="20260709153431 +0300" stop="20260709174640 +0300" channel="VideoArsenal">
+    <title lang="ru">Кэрри (2002)</title>
+  </programme>
+  <programme start="20260709174640 +0300" stop="20260709192822 +0300" channel="VideoArsenal">
+    <title lang="ru">Кракатит (1948)</title>
+  </programme>
+  <programme start="20260709192822 +0300" stop="20260709210448 +0300" channel="VideoArsenal">
+    <title lang="ru">Зловещие мертвецы- Черная книга (2013)</title>
+  </programme>
+  <programme start="20260709210448 +0300" stop="20260709225241 +0300" channel="VideoArsenal">
+    <title lang="ru">Я иду искать 2 (2026)</title>
+  </programme>
+  <programme start="20260709225241 +0300" stop="20260710003046 +0300" channel="VideoArsenal">
+    <title lang="ru">Ветеран (2011)</title>
+  </programme>
+  <programme start="20260710003046 +0300" stop="20260710015200 +0300" channel="VideoArsenal">
+    <title lang="ru">Техасская резня бензопилой (2021)</title>
+  </programme>
+  <programme start="20260710015200 +0300" stop="20260710040541 +0300" channel="VideoArsenal">
+    <title lang="ru">Ловец снов (2003)</title>
+  </programme>
+  <programme start="20260710040541 +0300" stop="20260710061232 +0300" channel="VideoArsenal">
+    <title lang="ru">Риддик (2013)</title>
+  </programme>
+  <programme start="20260710061232 +0300" stop="20260710074642 +0300" channel="VideoArsenal">
+    <title lang="ru">Проклятый рыцарь (2026)</title>
+  </programme>
+  <programme start="20260710074642 +0300" stop="20260710093133 +0300" channel="VideoArsenal">
+    <title lang="ru">Конец дня (2016)</title>
+  </programme>
+  <programme start="20260710093133 +0300" stop="20260710103900 +0300" channel="VideoArsenal">
+    <title lang="ru">Дух Франкенштейна (1942)</title>
+  </programme>
+  <programme start="20260710103900 +0300" stop="20260710124923 +0300" channel="VideoArsenal">
+    <title lang="ru">Шаровая молния (1965)</title>
+  </programme>
+  <programme start="20260710124923 +0300" stop="20260710142718 +0300" channel="VideoArsenal">
+    <title lang="ru">Патруль времени (1994)</title>
+  </programme>
+  <programme start="20260710142718 +0300" stop="20260710161518 +0300" channel="VideoArsenal">
+    <title lang="ru">Хищник 2 (1990)</title>
+  </programme>
+  <programme start="20260710161518 +0300" stop="20260710180049 +0300" channel="VideoArsenal">
+    <title lang="ru">Воскресший (1991)</title>
+  </programme>
+  <programme start="20260710180049 +0300" stop="20260710203858 +0300" channel="VideoArsenal">
+    <title lang="ru">Девушка с татуировкой дракона (2011)</title>
+  </programme>
+  <programme start="20260710203858 +0300" stop="20260710220959 +0300" channel="VideoArsenal">
+    <title lang="ru">Что случилось тогда (1994)</title>
+  </programme>
+  <programme start="20260710220959 +0300" stop="20260711001230 +0300" channel="VideoArsenal">
+    <title lang="ru">Крик 6 (2023)</title>
+  </programme>
+  <programme start="20260711001230 +0300" stop="20260711015945 +0300" channel="VideoArsenal">
+    <title lang="ru">Хокум (2026)</title>
+  </programme>
+  <programme start="20260711015945 +0300" stop="20260711042758 +0300" channel="VideoArsenal">
+    <title lang="ru">Матрица- Воскрешение (2021)</title>
+  </programme>
+  <programme start="20260711042758 +0300" stop="20260711064007 +0300" channel="VideoArsenal">
+    <title lang="ru">Кэрри (2002)</title>
+  </programme>
+  <programme start="20260711064007 +0300" stop="20260711082148 +0300" channel="VideoArsenal">
+    <title lang="ru">Кракатит (1948)</title>
+  </programme>
+  <programme start="20260711082148 +0300" stop="20260711095815 +0300" channel="VideoArsenal">
+    <title lang="ru">Зловещие мертвецы- Черная книга (2013)</title>
+  </programme>
+  <programme start="20260711095815 +0300" stop="20260711114607 +0300" channel="VideoArsenal">
+    <title lang="ru">Я иду искать 2 (2026)</title>
+  </programme>
+  <programme start="20260711114607 +0300" stop="20260711132413 +0300" channel="VideoArsenal">
+    <title lang="ru">Ветеран (2011)</title>
+  </programme>
+  <programme start="20260711132413 +0300" stop="20260711144527 +0300" channel="VideoArsenal">
+    <title lang="ru">Техасская резня бензопилой (2021)</title>
+  </programme>
+  <programme start="20260711144527 +0300" stop="20260711165908 +0300" channel="VideoArsenal">
+    <title lang="ru">Ловец снов (2003)</title>
+  </programme>
+  <programme start="20260711165908 +0300" stop="20260711190559 +0300" channel="VideoArsenal">
+    <title lang="ru">Риддик (2013)</title>
+  </programme>
+  <programme start="20260711190559 +0300" stop="20260711204008 +0300" channel="VideoArsenal">
+    <title lang="ru">Проклятый рыцарь (2026)</title>
+  </programme>
+  <programme start="20260711204008 +0300" stop="20260711222500 +0300" channel="VideoArsenal">
+    <title lang="ru">Конец дня (2016)</title>
+  </programme>
+  <programme start="20260711222500 +0300" stop="20260711233226 +0300" channel="VideoArsenal">
+    <title lang="ru">Дух Франкенштейна (1942)</title>
   </programme>
 </tv>
