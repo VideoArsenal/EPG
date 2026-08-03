@@ -2,176 +2,306 @@
 <tv generator-info-name="Smart EPG Generator">
   <channel id="VideoArsenal">
     <display-name lang="ru">VideoArsenal</display-name>
+    <icon src="https://goodgame.ru/files/logotypes/ch_206461_XRk9_logo.png"/>
   </channel>
-  <programme start="20260730115100 +0300" stop="20260730135238 +0300" channel="VideoArsenal">
-    <title lang="ru">Живи и дай умереть (1973)</title>
+  <programme start="20260803123200 +0300" stop="20260803143712 +0300" channel="VideoArsenal">
+    <title lang="ru">Человек с золотым пистолетом (1974)</title>
   </programme>
-  <programme start="20260730135238 +0300" stop="20260730153117 +0300" channel="VideoArsenal">
-    <title lang="ru">Гитлер капут! (2008)</title>
+  <programme start="20260803143712 +0300" stop="20260803162327 +0300" channel="VideoArsenal">
+    <title lang="ru">Телефон мистера Харригана (2022)</title>
   </programme>
-  <programme start="20260730153117 +0300" stop="20260730171842 +0300" channel="VideoArsenal">
-    <title lang="ru">Хищник- Планета смерти (2025)</title>
+  <programme start="20260803162327 +0300" stop="20260803175553 +0300" channel="VideoArsenal">
+    <title lang="ru">Дети кукурузы (2020)</title>
   </programme>
-  <programme start="20260730171842 +0300" stop="20260730185534 +0300" channel="VideoArsenal">
-    <title lang="ru">Владивосток (2021)</title>
+  <programme start="20260803175553 +0300" stop="20260803202127 +0300" channel="VideoArsenal">
+    <title lang="ru">День разоблачения (2026)</title>
   </programme>
-  <programme start="20260730185534 +0300" stop="20260730202523 +0300" channel="VideoArsenal">
-    <title lang="ru">Раб Сатаны (1976)</title>
+  <programme start="20260803202127 +0300" stop="20260803215023 +0300" channel="VideoArsenal">
+    <title lang="ru">Кровавые джунгли (2006)</title>
   </programme>
-  <programme start="20260730202523 +0300" stop="20260730220613 +0300" channel="VideoArsenal">
-    <title lang="ru">Кладбище домашних животных (2019)</title>
+  <programme start="20260803215023 +0300" stop="20260803231745 +0300" channel="VideoArsenal">
+    <title lang="ru">Кладбище домашних животных- Кровные узы (2023)</title>
   </programme>
-  <programme start="20260730220613 +0300" stop="20260730234807 +0300" channel="VideoArsenal">
-    <title lang="ru">Высокая зелёная трава (2019)</title>
+  <programme start="20260803231745 +0300" stop="20260804010414 +0300" channel="VideoArsenal">
+    <title lang="ru">Батарейки не прилагаются (1987)</title>
   </programme>
-  <programme start="20260730234807 +0300" stop="20260731010708 +0300" channel="VideoArsenal">
-    <title lang="ru">Нападение людей-кукол (1958)</title>
+  <programme start="20260804010414 +0300" stop="20260804024544 +0300" channel="VideoArsenal">
+    <title lang="ru">Красные ночи (2010)</title>
   </programme>
-  <programme start="20260731010708 +0300" stop="20260731031904 +0300" channel="VideoArsenal">
-    <title lang="ru">Мандалорец и Грогу (2026)</title>
+  <programme start="20260804024544 +0300" stop="20260804042438 +0300" channel="VideoArsenal">
+    <title lang="ru">Соник в кино (2020)</title>
   </programme>
-  <programme start="20260731031904 +0300" stop="20260731045631 +0300" channel="VideoArsenal">
-    <title lang="ru">Навсегда (1987)</title>
+  <programme start="20260804042438 +0300" stop="20260804055856 +0300" channel="VideoArsenal">
+    <title lang="ru">Воспламеняющая взглядом (2022)</title>
   </programme>
-  <programme start="20260731045631 +0300" stop="20260731064459 +0300" channel="VideoArsenal">
-    <title lang="ru">Дьявол песков (1992)</title>
+  <programme start="20260804055856 +0300" stop="20260804075423 +0300" channel="VideoArsenal">
+    <title lang="ru">8 миллионов способов умереть (1986)</title>
   </programme>
-  <programme start="20260731064459 +0300" stop="20260731093427 +0300" channel="VideoArsenal">
-    <title lang="ru">Оно 2 (2019)</title>
+  <programme start="20260804075423 +0300" stop="20260804085325 +0300" channel="VideoArsenal">
+    <title lang="ru">Обнажённая ведьма (1961)</title>
   </programme>
-  <programme start="20260731093427 +0300" stop="20260731111446 +0300" channel="VideoArsenal">
-    <title lang="ru">Земные девушки легко доступны (1988)</title>
+  <programme start="20260804085325 +0300" stop="20260804101538 +0300" channel="VideoArsenal">
+    <title lang="ru">Пропасть (2026)</title>
   </programme>
-  <programme start="20260731111446 +0300" stop="20260731121713 +0300" channel="VideoArsenal">
-    <title lang="ru">Хронометристы вечности (2021)</title>
+  <programme start="20260804101538 +0300" stop="20260804115420 +0300" channel="VideoArsenal">
+    <title lang="ru">Бугимен (2023)</title>
   </programme>
-  <programme start="20260731121713 +0300" stop="20260731132709 +0300" channel="VideoArsenal">
-    <title lang="ru">Человек-волк (1941)</title>
+  <programme start="20260804115420 +0300" stop="20260804133033 +0300" channel="VideoArsenal">
+    <title lang="ru">Космические яйца (1987)</title>
   </programme>
-  <programme start="20260731132709 +0300" stop="20260731152102 +0300" channel="VideoArsenal">
-    <title lang="ru">Ограбление (1971)</title>
+  <programme start="20260804133033 +0300" stop="20260804150933 +0300" channel="VideoArsenal">
+    <title lang="ru">Запретный плод (2025)</title>
   </programme>
-  <programme start="20260731152102 +0300" stop="20260731174554 +0300" channel="VideoArsenal">
-    <title lang="ru">Чужой 3 (1992)</title>
+  <programme start="20260804150933 +0300" stop="20260804170449 +0300" channel="VideoArsenal">
+    <title lang="ru">Ведьма Лапласа (2018)</title>
   </programme>
-  <programme start="20260731174554 +0300" stop="20260731192248 +0300" channel="VideoArsenal">
-    <title lang="ru">Грязные деньги (2025)</title>
+  <programme start="20260804170449 +0300" stop="20260804190057 +0300" channel="VideoArsenal">
+    <title lang="ru">Чужой 4- Воскрешение (1997)</title>
   </programme>
-  <programme start="20260731192248 +0300" stop="20260731211417 +0300" channel="VideoArsenal">
-    <title lang="ru">Флэш Гордон (1980)</title>
+  <programme start="20260804190057 +0300" stop="20260804205157 +0300" channel="VideoArsenal">
+    <title lang="ru">Жизнь Чака (2024)</title>
   </programme>
-  <programme start="20260731211417 +0300" stop="20260731231555 +0300" channel="VideoArsenal">
-    <title lang="ru">Живи и дай умереть (1973)</title>
+  <programme start="20260804205157 +0300" stop="20260804224529 +0300" channel="VideoArsenal">
+    <title lang="ru">Лестница Иакова (1990)</title>
   </programme>
-  <programme start="20260731231555 +0300" stop="20260801005435 +0300" channel="VideoArsenal">
-    <title lang="ru">Гитлер капут! (2008)</title>
+  <programme start="20260804224529 +0300" stop="20260805005042 +0300" channel="VideoArsenal">
+    <title lang="ru">Человек с золотым пистолетом (1974)</title>
   </programme>
-  <programme start="20260801005435 +0300" stop="20260801024200 +0300" channel="VideoArsenal">
-    <title lang="ru">Хищник- Планета смерти (2025)</title>
+  <programme start="20260805005042 +0300" stop="20260805023657 +0300" channel="VideoArsenal">
+    <title lang="ru">Телефон мистера Харригана (2022)</title>
   </programme>
-  <programme start="20260801024200 +0300" stop="20260801041851 +0300" channel="VideoArsenal">
-    <title lang="ru">Владивосток (2021)</title>
+  <programme start="20260805023657 +0300" stop="20260805040922 +0300" channel="VideoArsenal">
+    <title lang="ru">Дети кукурузы (2020)</title>
   </programme>
-  <programme start="20260801041851 +0300" stop="20260801054841 +0300" channel="VideoArsenal">
-    <title lang="ru">Раб Сатаны (1976)</title>
+  <programme start="20260805040922 +0300" stop="20260805063456 +0300" channel="VideoArsenal">
+    <title lang="ru">День разоблачения (2026)</title>
   </programme>
-  <programme start="20260801054841 +0300" stop="20260801072930 +0300" channel="VideoArsenal">
-    <title lang="ru">Кладбище домашних животных (2019)</title>
+  <programme start="20260805063456 +0300" stop="20260805080353 +0300" channel="VideoArsenal">
+    <title lang="ru">Кровавые джунгли (2006)</title>
   </programme>
-  <programme start="20260801072930 +0300" stop="20260801091125 +0300" channel="VideoArsenal">
-    <title lang="ru">Высокая зелёная трава (2019)</title>
+  <programme start="20260805080353 +0300" stop="20260805093115 +0300" channel="VideoArsenal">
+    <title lang="ru">Кладбище домашних животных- Кровные узы (2023)</title>
   </programme>
-  <programme start="20260801091125 +0300" stop="20260801103026 +0300" channel="VideoArsenal">
-    <title lang="ru">Нападение людей-кукол (1958)</title>
+  <programme start="20260805093115 +0300" stop="20260805111744 +0300" channel="VideoArsenal">
+    <title lang="ru">Батарейки не прилагаются (1987)</title>
   </programme>
-  <programme start="20260801103026 +0300" stop="20260801124222 +0300" channel="VideoArsenal">
-    <title lang="ru">Мандалорец и Грогу (2026)</title>
+  <programme start="20260805111744 +0300" stop="20260805125914 +0300" channel="VideoArsenal">
+    <title lang="ru">Красные ночи (2010)</title>
   </programme>
-  <programme start="20260801124222 +0300" stop="20260801141949 +0300" channel="VideoArsenal">
-    <title lang="ru">Навсегда (1987)</title>
+  <programme start="20260805125914 +0300" stop="20260805143808 +0300" channel="VideoArsenal">
+    <title lang="ru">Соник в кино (2020)</title>
   </programme>
-  <programme start="20260801141949 +0300" stop="20260801160816 +0300" channel="VideoArsenal">
-    <title lang="ru">Дьявол песков (1992)</title>
+  <programme start="20260805143808 +0300" stop="20260805161226 +0300" channel="VideoArsenal">
+    <title lang="ru">Воспламеняющая взглядом (2022)</title>
   </programme>
-  <programme start="20260801160816 +0300" stop="20260801185744 +0300" channel="VideoArsenal">
-    <title lang="ru">Оно 2 (2019)</title>
+  <programme start="20260805161226 +0300" stop="20260805180753 +0300" channel="VideoArsenal">
+    <title lang="ru">8 миллионов способов умереть (1986)</title>
   </programme>
-  <programme start="20260801185744 +0300" stop="20260801203803 +0300" channel="VideoArsenal">
-    <title lang="ru">Земные девушки легко доступны (1988)</title>
+  <programme start="20260805180753 +0300" stop="20260805190655 +0300" channel="VideoArsenal">
+    <title lang="ru">Обнажённая ведьма (1961)</title>
   </programme>
-  <programme start="20260801203803 +0300" stop="20260801214030 +0300" channel="VideoArsenal">
-    <title lang="ru">Хронометристы вечности (2021)</title>
+  <programme start="20260805190655 +0300" stop="20260805202907 +0300" channel="VideoArsenal">
+    <title lang="ru">Пропасть (2026)</title>
   </programme>
-  <programme start="20260801214030 +0300" stop="20260801225026 +0300" channel="VideoArsenal">
-    <title lang="ru">Человек-волк (1941)</title>
+  <programme start="20260805202907 +0300" stop="20260805220750 +0300" channel="VideoArsenal">
+    <title lang="ru">Бугимен (2023)</title>
   </programme>
-  <programme start="20260801225026 +0300" stop="20260802004419 +0300" channel="VideoArsenal">
-    <title lang="ru">Ограбление (1971)</title>
+  <programme start="20260805220750 +0300" stop="20260805234403 +0300" channel="VideoArsenal">
+    <title lang="ru">Космические яйца (1987)</title>
   </programme>
-  <programme start="20260802004419 +0300" stop="20260802030912 +0300" channel="VideoArsenal">
-    <title lang="ru">Чужой 3 (1992)</title>
+  <programme start="20260805234403 +0300" stop="20260806012303 +0300" channel="VideoArsenal">
+    <title lang="ru">Запретный плод (2025)</title>
   </programme>
-  <programme start="20260802030912 +0300" stop="20260802044606 +0300" channel="VideoArsenal">
-    <title lang="ru">Грязные деньги (2025)</title>
+  <programme start="20260806012303 +0300" stop="20260806031819 +0300" channel="VideoArsenal">
+    <title lang="ru">Ведьма Лапласа (2018)</title>
   </programme>
-  <programme start="20260802044606 +0300" stop="20260802063734 +0300" channel="VideoArsenal">
-    <title lang="ru">Флэш Гордон (1980)</title>
+  <programme start="20260806031819 +0300" stop="20260806051427 +0300" channel="VideoArsenal">
+    <title lang="ru">Чужой 4- Воскрешение (1997)</title>
   </programme>
-  <programme start="20260802063734 +0300" stop="20260802083913 +0300" channel="VideoArsenal">
-    <title lang="ru">Живи и дай умереть (1973)</title>
+  <programme start="20260806051427 +0300" stop="20260806070527 +0300" channel="VideoArsenal">
+    <title lang="ru">Жизнь Чака (2024)</title>
   </programme>
-  <programme start="20260802083913 +0300" stop="20260802101752 +0300" channel="VideoArsenal">
-    <title lang="ru">Гитлер капут! (2008)</title>
+  <programme start="20260806070527 +0300" stop="20260806085859 +0300" channel="VideoArsenal">
+    <title lang="ru">Лестница Иакова (1990)</title>
   </programme>
-  <programme start="20260802101752 +0300" stop="20260802120517 +0300" channel="VideoArsenal">
-    <title lang="ru">Хищник- Планета смерти (2025)</title>
+  <programme start="20260806085859 +0300" stop="20260806110412 +0300" channel="VideoArsenal">
+    <title lang="ru">Человек с золотым пистолетом (1974)</title>
   </programme>
-  <programme start="20260802120517 +0300" stop="20260802134208 +0300" channel="VideoArsenal">
-    <title lang="ru">Владивосток (2021)</title>
+  <programme start="20260806110412 +0300" stop="20260806125027 +0300" channel="VideoArsenal">
+    <title lang="ru">Телефон мистера Харригана (2022)</title>
   </programme>
-  <programme start="20260802134208 +0300" stop="20260802151158 +0300" channel="VideoArsenal">
-    <title lang="ru">Раб Сатаны (1976)</title>
+  <programme start="20260806125027 +0300" stop="20260806142252 +0300" channel="VideoArsenal">
+    <title lang="ru">Дети кукурузы (2020)</title>
   </programme>
-  <programme start="20260802151158 +0300" stop="20260802165248 +0300" channel="VideoArsenal">
-    <title lang="ru">Кладбище домашних животных (2019)</title>
+  <programme start="20260806142252 +0300" stop="20260806164826 +0300" channel="VideoArsenal">
+    <title lang="ru">День разоблачения (2026)</title>
   </programme>
-  <programme start="20260802165248 +0300" stop="20260802183442 +0300" channel="VideoArsenal">
-    <title lang="ru">Высокая зелёная трава (2019)</title>
+  <programme start="20260806164826 +0300" stop="20260806181723 +0300" channel="VideoArsenal">
+    <title lang="ru">Кровавые джунгли (2006)</title>
   </programme>
-  <programme start="20260802183442 +0300" stop="20260802195343 +0300" channel="VideoArsenal">
-    <title lang="ru">Нападение людей-кукол (1958)</title>
+  <programme start="20260806181723 +0300" stop="20260806194445 +0300" channel="VideoArsenal">
+    <title lang="ru">Кладбище домашних животных- Кровные узы (2023)</title>
   </programme>
-  <programme start="20260802195343 +0300" stop="20260802220539 +0300" channel="VideoArsenal">
-    <title lang="ru">Мандалорец и Грогу (2026)</title>
+  <programme start="20260806194445 +0300" stop="20260806213114 +0300" channel="VideoArsenal">
+    <title lang="ru">Батарейки не прилагаются (1987)</title>
   </programme>
-  <programme start="20260802220539 +0300" stop="20260802234306 +0300" channel="VideoArsenal">
-    <title lang="ru">Навсегда (1987)</title>
+  <programme start="20260806213114 +0300" stop="20260806231244 +0300" channel="VideoArsenal">
+    <title lang="ru">Красные ночи (2010)</title>
   </programme>
-  <programme start="20260802234306 +0300" stop="20260803013134 +0300" channel="VideoArsenal">
-    <title lang="ru">Дьявол песков (1992)</title>
+  <programme start="20260806231244 +0300" stop="20260807005137 +0300" channel="VideoArsenal">
+    <title lang="ru">Соник в кино (2020)</title>
   </programme>
-  <programme start="20260803013134 +0300" stop="20260803042101 +0300" channel="VideoArsenal">
-    <title lang="ru">Оно 2 (2019)</title>
+  <programme start="20260807005137 +0300" stop="20260807022556 +0300" channel="VideoArsenal">
+    <title lang="ru">Воспламеняющая взглядом (2022)</title>
   </programme>
-  <programme start="20260803042101 +0300" stop="20260803060121 +0300" channel="VideoArsenal">
-    <title lang="ru">Земные девушки легко доступны (1988)</title>
+  <programme start="20260807022556 +0300" stop="20260807042123 +0300" channel="VideoArsenal">
+    <title lang="ru">8 миллионов способов умереть (1986)</title>
   </programme>
-  <programme start="20260803060121 +0300" stop="20260803070347 +0300" channel="VideoArsenal">
-    <title lang="ru">Хронометристы вечности (2021)</title>
+  <programme start="20260807042123 +0300" stop="20260807052024 +0300" channel="VideoArsenal">
+    <title lang="ru">Обнажённая ведьма (1961)</title>
   </programme>
-  <programme start="20260803070347 +0300" stop="20260803081344 +0300" channel="VideoArsenal">
-    <title lang="ru">Человек-волк (1941)</title>
+  <programme start="20260807052024 +0300" stop="20260807064237 +0300" channel="VideoArsenal">
+    <title lang="ru">Пропасть (2026)</title>
   </programme>
-  <programme start="20260803081344 +0300" stop="20260803100737 +0300" channel="VideoArsenal">
-    <title lang="ru">Ограбление (1971)</title>
+  <programme start="20260807064237 +0300" stop="20260807082120 +0300" channel="VideoArsenal">
+    <title lang="ru">Бугимен (2023)</title>
   </programme>
-  <programme start="20260803100737 +0300" stop="20260803123229 +0300" channel="VideoArsenal">
-    <title lang="ru">Чужой 3 (1992)</title>
+  <programme start="20260807082120 +0300" stop="20260807095733 +0300" channel="VideoArsenal">
+    <title lang="ru">Космические яйца (1987)</title>
   </programme>
-  <programme start="20260803123229 +0300" stop="20260803140923 +0300" channel="VideoArsenal">
-    <title lang="ru">Грязные деньги (2025)</title>
+  <programme start="20260807095733 +0300" stop="20260807113633 +0300" channel="VideoArsenal">
+    <title lang="ru">Запретный плод (2025)</title>
   </programme>
-  <programme start="20260803140923 +0300" stop="20260803160052 +0300" channel="VideoArsenal">
-    <title lang="ru">Флэш Гордон (1980)</title>
+  <programme start="20260807113633 +0300" stop="20260807133148 +0300" channel="VideoArsenal">
+    <title lang="ru">Ведьма Лапласа (2018)</title>
+  </programme>
+  <programme start="20260807133148 +0300" stop="20260807152757 +0300" channel="VideoArsenal">
+    <title lang="ru">Чужой 4- Воскрешение (1997)</title>
+  </programme>
+  <programme start="20260807152757 +0300" stop="20260807171857 +0300" channel="VideoArsenal">
+    <title lang="ru">Жизнь Чака (2024)</title>
+  </programme>
+  <programme start="20260807171857 +0300" stop="20260807191229 +0300" channel="VideoArsenal">
+    <title lang="ru">Лестница Иакова (1990)</title>
+  </programme>
+  <programme start="20260807191229 +0300" stop="20260807211742 +0300" channel="VideoArsenal">
+    <title lang="ru">Человек с золотым пистолетом (1974)</title>
+  </programme>
+  <programme start="20260807211742 +0300" stop="20260807230357 +0300" channel="VideoArsenal">
+    <title lang="ru">Телефон мистера Харригана (2022)</title>
+  </programme>
+  <programme start="20260807230357 +0300" stop="20260808003622 +0300" channel="VideoArsenal">
+    <title lang="ru">Дети кукурузы (2020)</title>
+  </programme>
+  <programme start="20260808003622 +0300" stop="20260808030156 +0300" channel="VideoArsenal">
+    <title lang="ru">День разоблачения (2026)</title>
+  </programme>
+  <programme start="20260808030156 +0300" stop="20260808043053 +0300" channel="VideoArsenal">
+    <title lang="ru">Кровавые джунгли (2006)</title>
+  </programme>
+  <programme start="20260808043053 +0300" stop="20260808055815 +0300" channel="VideoArsenal">
+    <title lang="ru">Кладбище домашних животных- Кровные узы (2023)</title>
+  </programme>
+  <programme start="20260808055815 +0300" stop="20260808074444 +0300" channel="VideoArsenal">
+    <title lang="ru">Батарейки не прилагаются (1987)</title>
+  </programme>
+  <programme start="20260808074444 +0300" stop="20260808092614 +0300" channel="VideoArsenal">
+    <title lang="ru">Красные ночи (2010)</title>
+  </programme>
+  <programme start="20260808092614 +0300" stop="20260808110507 +0300" channel="VideoArsenal">
+    <title lang="ru">Соник в кино (2020)</title>
+  </programme>
+  <programme start="20260808110507 +0300" stop="20260808123926 +0300" channel="VideoArsenal">
+    <title lang="ru">Воспламеняющая взглядом (2022)</title>
+  </programme>
+  <programme start="20260808123926 +0300" stop="20260808143453 +0300" channel="VideoArsenal">
+    <title lang="ru">8 миллионов способов умереть (1986)</title>
+  </programme>
+  <programme start="20260808143453 +0300" stop="20260808153354 +0300" channel="VideoArsenal">
+    <title lang="ru">Обнажённая ведьма (1961)</title>
+  </programme>
+  <programme start="20260808153354 +0300" stop="20260808165607 +0300" channel="VideoArsenal">
+    <title lang="ru">Пропасть (2026)</title>
+  </programme>
+  <programme start="20260808165607 +0300" stop="20260808183450 +0300" channel="VideoArsenal">
+    <title lang="ru">Бугимен (2023)</title>
+  </programme>
+  <programme start="20260808183450 +0300" stop="20260808201102 +0300" channel="VideoArsenal">
+    <title lang="ru">Космические яйца (1987)</title>
+  </programme>
+  <programme start="20260808201102 +0300" stop="20260808215003 +0300" channel="VideoArsenal">
+    <title lang="ru">Запретный плод (2025)</title>
+  </programme>
+  <programme start="20260808215003 +0300" stop="20260808234518 +0300" channel="VideoArsenal">
+    <title lang="ru">Ведьма Лапласа (2018)</title>
+  </programme>
+  <programme start="20260808234518 +0300" stop="20260809014127 +0300" channel="VideoArsenal">
+    <title lang="ru">Чужой 4- Воскрешение (1997)</title>
+  </programme>
+  <programme start="20260809014127 +0300" stop="20260809033226 +0300" channel="VideoArsenal">
+    <title lang="ru">Жизнь Чака (2024)</title>
+  </programme>
+  <programme start="20260809033226 +0300" stop="20260809052559 +0300" channel="VideoArsenal">
+    <title lang="ru">Лестница Иакова (1990)</title>
+  </programme>
+  <programme start="20260809052559 +0300" stop="20260809073112 +0300" channel="VideoArsenal">
+    <title lang="ru">Человек с золотым пистолетом (1974)</title>
+  </programme>
+  <programme start="20260809073112 +0300" stop="20260809091727 +0300" channel="VideoArsenal">
+    <title lang="ru">Телефон мистера Харригана (2022)</title>
+  </programme>
+  <programme start="20260809091727 +0300" stop="20260809104952 +0300" channel="VideoArsenal">
+    <title lang="ru">Дети кукурузы (2020)</title>
+  </programme>
+  <programme start="20260809104952 +0300" stop="20260809131526 +0300" channel="VideoArsenal">
+    <title lang="ru">День разоблачения (2026)</title>
+  </programme>
+  <programme start="20260809131526 +0300" stop="20260809144422 +0300" channel="VideoArsenal">
+    <title lang="ru">Кровавые джунгли (2006)</title>
+  </programme>
+  <programme start="20260809144422 +0300" stop="20260809161145 +0300" channel="VideoArsenal">
+    <title lang="ru">Кладбище домашних животных- Кровные узы (2023)</title>
+  </programme>
+  <programme start="20260809161145 +0300" stop="20260809175814 +0300" channel="VideoArsenal">
+    <title lang="ru">Батарейки не прилагаются (1987)</title>
+  </programme>
+  <programme start="20260809175814 +0300" stop="20260809193944 +0300" channel="VideoArsenal">
+    <title lang="ru">Красные ночи (2010)</title>
+  </programme>
+  <programme start="20260809193944 +0300" stop="20260809211837 +0300" channel="VideoArsenal">
+    <title lang="ru">Соник в кино (2020)</title>
+  </programme>
+  <programme start="20260809211837 +0300" stop="20260809225256 +0300" channel="VideoArsenal">
+    <title lang="ru">Воспламеняющая взглядом (2022)</title>
+  </programme>
+  <programme start="20260809225256 +0300" stop="20260810004822 +0300" channel="VideoArsenal">
+    <title lang="ru">8 миллионов способов умереть (1986)</title>
+  </programme>
+  <programme start="20260810004822 +0300" stop="20260810014724 +0300" channel="VideoArsenal">
+    <title lang="ru">Обнажённая ведьма (1961)</title>
+  </programme>
+  <programme start="20260810014724 +0300" stop="20260810030937 +0300" channel="VideoArsenal">
+    <title lang="ru">Пропасть (2026)</title>
+  </programme>
+  <programme start="20260810030937 +0300" stop="20260810044820 +0300" channel="VideoArsenal">
+    <title lang="ru">Бугимен (2023)</title>
+  </programme>
+  <programme start="20260810044820 +0300" stop="20260810062432 +0300" channel="VideoArsenal">
+    <title lang="ru">Космические яйца (1987)</title>
+  </programme>
+  <programme start="20260810062432 +0300" stop="20260810080333 +0300" channel="VideoArsenal">
+    <title lang="ru">Запретный плод (2025)</title>
+  </programme>
+  <programme start="20260810080333 +0300" stop="20260810095848 +0300" channel="VideoArsenal">
+    <title lang="ru">Ведьма Лапласа (2018)</title>
+  </programme>
+  <programme start="20260810095848 +0300" stop="20260810115457 +0300" channel="VideoArsenal">
+    <title lang="ru">Чужой 4- Воскрешение (1997)</title>
+  </programme>
+  <programme start="20260810115457 +0300" stop="20260810134556 +0300" channel="VideoArsenal">
+    <title lang="ru">Жизнь Чака (2024)</title>
+  </programme>
+  <programme start="20260810134556 +0300" stop="20260810153929 +0300" channel="VideoArsenal">
+    <title lang="ru">Лестница Иакова (1990)</title>
   </programme>
 </tv>
