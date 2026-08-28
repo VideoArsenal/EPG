@@ -3,199 +3,352 @@
   <channel id="VideoArsenal">
     <display-name lang="ru">VideoArsenal</display-name>
   </channel>
-  <programme start="20260824150500 +0300" stop="20260824190106 +0300" channel="VideoArsenal">
-    <title lang="ru">Золотые годы (1991)</title>
-  </programme>
-  <programme start="20260824190106 +0300" stop="20260824203140 +0300" channel="VideoArsenal">
-    <title lang="ru">Игра в прятки (1988)</title>
-  </programme>
-  <programme start="20260824203140 +0300" stop="20260824223537 +0300" channel="VideoArsenal">
-    <title lang="ru">Прометей (2012)</title>
-  </programme>
-  <programme start="20260824223537 +0300" stop="20260825002341 +0300" channel="VideoArsenal">
-    <title lang="ru">Долгая прогулка (2025)</title>
-  </programme>
-  <programme start="20260825002341 +0300" stop="20260825015729 +0300" channel="VideoArsenal">
-    <title lang="ru">Чёрный чемодан – двойная игра (2025)</title>
-  </programme>
-  <programme start="20260825015729 +0300" stop="20260825040310 +0300" channel="VideoArsenal">
-    <title lang="ru">Шпион, который меня любил (1977)</title>
-  </programme>
-  <programme start="20260825040310 +0300" stop="20260825060904 +0300" channel="VideoArsenal">
-    <title lang="ru">Пятый элемент (1997)</title>
-  </programme>
-  <programme start="20260825060904 +0300" stop="20260825074227 +0300" channel="VideoArsenal">
-    <title lang="ru">Неразлучные (2007)</title>
-  </programme>
-  <programme start="20260825074227 +0300" stop="20260825091317 +0300" channel="VideoArsenal">
-    <title lang="ru">Дар дьявола (1984)</title>
-  </programme>
-  <programme start="20260825091317 +0300" stop="20260825110649 +0300" channel="VideoArsenal">
+  <programme start="20260828141100 +0300" stop="20260828160432 +0300" channel="VideoArsenal">
     <title lang="ru">Жребий (2024)</title>
   </programme>
-  <programme start="20260825110649 +0300" stop="20260825123221 +0300" channel="VideoArsenal">
+  <programme start="20260828160432 +0300" stop="20260828173004 +0300" channel="VideoArsenal">
     <title lang="ru">Тела студентов (1981)</title>
   </programme>
-  <programme start="20260825123221 +0300" stop="20260825142702 +0300" channel="VideoArsenal">
+  <programme start="20260828173004 +0300" stop="20260828192445 +0300" channel="VideoArsenal">
     <title lang="ru">Годзилла и Конг- Новая империя (2024)</title>
   </programme>
-  <programme start="20260825142702 +0300" stop="20260825160502 +0300" channel="VideoArsenal">
+  <programme start="20260828192445 +0300" stop="20260828210244 +0300" channel="VideoArsenal">
     <title lang="ru">Обезьяна (2025)</title>
   </programme>
-  <programme start="20260825160502 +0300" stop="20260825180721 +0300" channel="VideoArsenal">
+  <programme start="20260828210244 +0300" stop="20260828230503 +0300" channel="VideoArsenal">
     <title lang="ru">Соник 2 в кино (2022)</title>
   </programme>
-  <programme start="20260825180721 +0300" stop="20260825194147 +0300" channel="VideoArsenal">
+  <programme start="20260828230503 +0300" stop="20260829003929 +0300" channel="VideoArsenal">
     <title lang="ru">Кровавые ангелы (1998)</title>
   </programme>
-  <programme start="20260825194147 +0300" stop="20260825213923 +0300" channel="VideoArsenal">
+  <programme start="20260829003929 +0300" stop="20260829023706 +0300" channel="VideoArsenal">
     <title lang="ru">Бегущий по лезвию (1982)</title>
   </programme>
-  <programme start="20260825213923 +0300" stop="20260825232123 +0300" channel="VideoArsenal">
+  <programme start="20260829023706 +0300" stop="20260829041906 +0300" channel="VideoArsenal">
     <title lang="ru">Смертельное благословение (1981)</title>
   </programme>
-  <programme start="20260825232123 +0300" stop="20260826013428 +0300" channel="VideoArsenal">
+  <programme start="20260829041906 +0300" stop="20260829063210 +0300" channel="VideoArsenal">
     <title lang="ru">Бегущий человек (2025)</title>
   </programme>
-  <programme start="20260826013428 +0300" stop="20260826035937 +0300" channel="VideoArsenal">
+  <programme start="20260829063210 +0300" stop="20260829085720 +0300" channel="VideoArsenal">
     <title lang="ru">Странные дни (1995)</title>
   </programme>
-  <programme start="20260826035937 +0300" stop="20260826053342 +0300" channel="VideoArsenal">
+  <programme start="20260829085720 +0300" stop="20260829103125 +0300" channel="VideoArsenal">
     <title lang="ru">История, рассказанная после токийской войны (1970)</title>
   </programme>
-  <programme start="20260826053342 +0300" stop="20260826092948 +0300" channel="VideoArsenal">
+  <programme start="20260829103125 +0300" stop="20260829142731 +0300" channel="VideoArsenal">
     <title lang="ru">Золотые годы (1991)</title>
   </programme>
-  <programme start="20260826092948 +0300" stop="20260826110023 +0300" channel="VideoArsenal">
+  <programme start="20260829142731 +0300" stop="20260829155805 +0300" channel="VideoArsenal">
     <title lang="ru">Игра в прятки (1988)</title>
   </programme>
-  <programme start="20260826110023 +0300" stop="20260826130419 +0300" channel="VideoArsenal">
+  <programme start="20260829155805 +0300" stop="20260829180202 +0300" channel="VideoArsenal">
     <title lang="ru">Прометей (2012)</title>
   </programme>
-  <programme start="20260826130419 +0300" stop="20260826145224 +0300" channel="VideoArsenal">
+  <programme start="20260829180202 +0300" stop="20260829195006 +0300" channel="VideoArsenal">
     <title lang="ru">Долгая прогулка (2025)</title>
   </programme>
-  <programme start="20260826145224 +0300" stop="20260826162612 +0300" channel="VideoArsenal">
+  <programme start="20260829195006 +0300" stop="20260829212355 +0300" channel="VideoArsenal">
     <title lang="ru">Чёрный чемодан – двойная игра (2025)</title>
   </programme>
-  <programme start="20260826162612 +0300" stop="20260826183153 +0300" channel="VideoArsenal">
-    <title lang="ru">Шпион, который меня любил (1977)</title>
+  <programme start="20260829212355 +0300" stop="20260829233023 +0300" channel="VideoArsenal">
+    <title lang="ru">Лунный гонщик (1979)</title>
   </programme>
-  <programme start="20260826183153 +0300" stop="20260826203747 +0300" channel="VideoArsenal">
-    <title lang="ru">Пятый элемент (1997)</title>
+  <programme start="20260829233023 +0300" stop="20260830010323 +0300" channel="VideoArsenal">
+    <title lang="ru">Дети кукурузы 2- Последняя жертва (1992)</title>
   </programme>
-  <programme start="20260826203747 +0300" stop="20260826221110 +0300" channel="VideoArsenal">
-    <title lang="ru">Неразлучные (2007)</title>
+  <programme start="20260830010323 +0300" stop="20260830040332 +0300" channel="VideoArsenal">
+    <title lang="ru">Томминокеры (1993)</title>
   </programme>
-  <programme start="20260826221110 +0300" stop="20260826234200 +0300" channel="VideoArsenal">
-    <title lang="ru">Дар дьявола (1984)</title>
+  <programme start="20260830040332 +0300" stop="20260830052413 +0300" channel="VideoArsenal">
+    <title lang="ru">Мы — прилив (2016)</title>
   </programme>
-  <programme start="20260826234200 +0300" stop="20260827013532 +0300" channel="VideoArsenal">
-    <title lang="ru">Жребий (2024)</title>
+  <programme start="20260830052413 +0300" stop="20260830072743 +0300" channel="VideoArsenal">
+    <title lang="ru">Каратель (2004)</title>
   </programme>
-  <programme start="20260827013532 +0300" stop="20260827030104 +0300" channel="VideoArsenal">
-    <title lang="ru">Тела студентов (1981)</title>
+  <programme start="20260830072743 +0300" stop="20260830090347 +0300" channel="VideoArsenal">
+    <title lang="ru">Любовь с первого укуса (1979)</title>
   </programme>
-  <programme start="20260827030104 +0300" stop="20260827045545 +0300" channel="VideoArsenal">
-    <title lang="ru">Годзилла и Конг- Новая империя (2024)</title>
+  <programme start="20260830090347 +0300" stop="20260830110654 +0300" channel="VideoArsenal">
+    <title lang="ru">Годзилла (2014)</title>
   </programme>
-  <programme start="20260827045545 +0300" stop="20260827063345 +0300" channel="VideoArsenal">
-    <title lang="ru">Обезьяна (2025)</title>
+  <programme start="20260830110654 +0300" stop="20260830123924 +0300" channel="VideoArsenal">
+    <title lang="ru">Клетка счастья (1972)</title>
   </programme>
-  <programme start="20260827063345 +0300" stop="20260827083604 +0300" channel="VideoArsenal">
-    <title lang="ru">Соник 2 в кино (2022)</title>
+  <programme start="20260830123924 +0300" stop="20260830142929 +0300" channel="VideoArsenal">
+    <title lang="ru">Соник 3 в кино (2024)</title>
   </programme>
-  <programme start="20260827083604 +0300" stop="20260827101029 +0300" channel="VideoArsenal">
-    <title lang="ru">Кровавые ангелы (1998)</title>
+  <programme start="20260830142929 +0300" stop="20260830172928 +0300" channel="VideoArsenal">
+    <title lang="ru">Лангольеры (1995)</title>
   </programme>
-  <programme start="20260827101029 +0300" stop="20260827120806 +0300" channel="VideoArsenal">
-    <title lang="ru">Бегущий по лезвию (1982)</title>
+  <programme start="20260830172928 +0300" stop="20260830201256 +0300" channel="VideoArsenal">
+    <title lang="ru">Бегущий по лезвию 2049 (2017)</title>
   </programme>
-  <programme start="20260827120806 +0300" stop="20260827135006 +0300" channel="VideoArsenal">
-    <title lang="ru">Смертельное благословение (1981)</title>
+  <programme start="20260830201256 +0300" stop="20260830220552 +0300" channel="VideoArsenal">
+    <title lang="ru">Смерч (1996)</title>
   </programme>
-  <programme start="20260827135006 +0300" stop="20260827160311 +0300" channel="VideoArsenal">
-    <title lang="ru">Бегущий человек (2025)</title>
+  <programme start="20260830220552 +0300" stop="20260830233117 +0300" channel="VideoArsenal">
+    <title lang="ru">Руки потрошителя (1971)</title>
   </programme>
-  <programme start="20260827160311 +0300" stop="20260827182820 +0300" channel="VideoArsenal">
-    <title lang="ru">Странные дни (1995)</title>
+  <programme start="20260830233117 +0300" stop="20260831011921 +0300" channel="VideoArsenal">
+    <title lang="ru">Супергёрл (2026)</title>
   </programme>
-  <programme start="20260827182820 +0300" stop="20260827200225 +0300" channel="VideoArsenal">
-    <title lang="ru">История, рассказанная после токийской войны (1970)</title>
+  <programme start="20260831011921 +0300" stop="20260831030226 +0300" channel="VideoArsenal">
+    <title lang="ru">Суккуб (2024)</title>
   </programme>
-  <programme start="20260827200225 +0300" stop="20260827235831 +0300" channel="VideoArsenal">
-    <title lang="ru">Золотые годы (1991)</title>
+  <programme start="20260831030226 +0300" stop="20260831044028 +0300" channel="VideoArsenal">
+    <title lang="ru">Пункт назначения (2000)</title>
   </programme>
-  <programme start="20260827235831 +0300" stop="20260828012906 +0300" channel="VideoArsenal">
-    <title lang="ru">Игра в прятки (1988)</title>
+  <programme start="20260831044028 +0300" stop="20260831061651 +0300" channel="VideoArsenal">
+    <title lang="ru">Синдром бесконечного лета (2023)</title>
   </programme>
-  <programme start="20260828012906 +0300" stop="20260828033302 +0300" channel="VideoArsenal">
-    <title lang="ru">Прометей (2012)</title>
+  <programme start="20260831061651 +0300" stop="20260831081901 +0300" channel="VideoArsenal">
+    <title lang="ru">Чужой- Завет (2017)</title>
   </programme>
-  <programme start="20260828033302 +0300" stop="20260828052107 +0300" channel="VideoArsenal">
-    <title lang="ru">Долгая прогулка (2025)</title>
+  <programme start="20260831081901 +0300" stop="20260831103033 +0300" channel="VideoArsenal">
+    <title lang="ru">Долорес Клэйборн (1995)</title>
   </programme>
-  <programme start="20260828052107 +0300" stop="20260828065455 +0300" channel="VideoArsenal">
-    <title lang="ru">Чёрный чемодан – двойная игра (2025)</title>
+  <programme start="20260831103033 +0300" stop="20260831121447 +0300" channel="VideoArsenal">
+    <title lang="ru">Театр крови (1973)</title>
   </programme>
-  <programme start="20260828065455 +0300" stop="20260828090035 +0300" channel="VideoArsenal">
-    <title lang="ru">Шпион, который меня любил (1977)</title>
+  <programme start="20260831121447 +0300" stop="20260831142116 +0300" channel="VideoArsenal">
+    <title lang="ru">Лунный гонщик (1979)</title>
   </programme>
-  <programme start="20260828090035 +0300" stop="20260828110630 +0300" channel="VideoArsenal">
-    <title lang="ru">Пятый элемент (1997)</title>
+  <programme start="20260831142116 +0300" stop="20260831155415 +0300" channel="VideoArsenal">
+    <title lang="ru">Дети кукурузы 2- Последняя жертва (1992)</title>
   </programme>
-  <programme start="20260828110630 +0300" stop="20260828123952 +0300" channel="VideoArsenal">
-    <title lang="ru">Неразлучные (2007)</title>
+  <programme start="20260831155415 +0300" stop="20260831185425 +0300" channel="VideoArsenal">
+    <title lang="ru">Томминокеры (1993)</title>
   </programme>
-  <programme start="20260828123952 +0300" stop="20260828141042 +0300" channel="VideoArsenal">
-    <title lang="ru">Дар дьявола (1984)</title>
+  <programme start="20260831185425 +0300" stop="20260831201505 +0300" channel="VideoArsenal">
+    <title lang="ru">Мы — прилив (2016)</title>
   </programme>
-  <programme start="20260828141042 +0300" stop="20260828160415 +0300" channel="VideoArsenal">
-    <title lang="ru">Жребий (2024)</title>
+  <programme start="20260831201505 +0300" stop="20260831221836 +0300" channel="VideoArsenal">
+    <title lang="ru">Каратель (2004)</title>
   </programme>
-  <programme start="20260828160415 +0300" stop="20260828172947 +0300" channel="VideoArsenal">
-    <title lang="ru">Тела студентов (1981)</title>
+  <programme start="20260831221836 +0300" stop="20260831235439 +0300" channel="VideoArsenal">
+    <title lang="ru">Любовь с первого укуса (1979)</title>
   </programme>
-  <programme start="20260828172947 +0300" stop="20260828192428 +0300" channel="VideoArsenal">
-    <title lang="ru">Годзилла и Конг- Новая империя (2024)</title>
+  <programme start="20260831235439 +0300" stop="20260901015746 +0300" channel="VideoArsenal">
+    <title lang="ru">Годзилла (2014)</title>
   </programme>
-  <programme start="20260828192428 +0300" stop="20260828210227 +0300" channel="VideoArsenal">
-    <title lang="ru">Обезьяна (2025)</title>
+  <programme start="20260901015746 +0300" stop="20260901033016 +0300" channel="VideoArsenal">
+    <title lang="ru">Клетка счастья (1972)</title>
   </programme>
-  <programme start="20260828210227 +0300" stop="20260828230446 +0300" channel="VideoArsenal">
-    <title lang="ru">Соник 2 в кино (2022)</title>
+  <programme start="20260901033016 +0300" stop="20260901052021 +0300" channel="VideoArsenal">
+    <title lang="ru">Соник 3 в кино (2024)</title>
   </programme>
-  <programme start="20260828230446 +0300" stop="20260829003912 +0300" channel="VideoArsenal">
-    <title lang="ru">Кровавые ангелы (1998)</title>
+  <programme start="20260901052021 +0300" stop="20260901082020 +0300" channel="VideoArsenal">
+    <title lang="ru">Лангольеры (1995)</title>
   </programme>
-  <programme start="20260829003912 +0300" stop="20260829023649 +0300" channel="VideoArsenal">
-    <title lang="ru">Бегущий по лезвию (1982)</title>
+  <programme start="20260901082020 +0300" stop="20260901110348 +0300" channel="VideoArsenal">
+    <title lang="ru">Бегущий по лезвию 2049 (2017)</title>
   </programme>
-  <programme start="20260829023649 +0300" stop="20260829041849 +0300" channel="VideoArsenal">
-    <title lang="ru">Смертельное благословение (1981)</title>
+  <programme start="20260901110348 +0300" stop="20260901125644 +0300" channel="VideoArsenal">
+    <title lang="ru">Смерч (1996)</title>
   </programme>
-  <programme start="20260829041849 +0300" stop="20260829063153 +0300" channel="VideoArsenal">
-    <title lang="ru">Бегущий человек (2025)</title>
+  <programme start="20260901125644 +0300" stop="20260901142209 +0300" channel="VideoArsenal">
+    <title lang="ru">Руки потрошителя (1971)</title>
   </programme>
-  <programme start="20260829063153 +0300" stop="20260829085703 +0300" channel="VideoArsenal">
-    <title lang="ru">Странные дни (1995)</title>
+  <programme start="20260901142209 +0300" stop="20260901161013 +0300" channel="VideoArsenal">
+    <title lang="ru">Супергёрл (2026)</title>
   </programme>
-  <programme start="20260829085703 +0300" stop="20260829103108 +0300" channel="VideoArsenal">
-    <title lang="ru">История, рассказанная после токийской войны (1970)</title>
+  <programme start="20260901161013 +0300" stop="20260901175318 +0300" channel="VideoArsenal">
+    <title lang="ru">Суккуб (2024)</title>
   </programme>
-  <programme start="20260829103108 +0300" stop="20260829142714 +0300" channel="VideoArsenal">
-    <title lang="ru">Золотые годы (1991)</title>
+  <programme start="20260901175318 +0300" stop="20260901193120 +0300" channel="VideoArsenal">
+    <title lang="ru">Пункт назначения (2000)</title>
   </programme>
-  <programme start="20260829142714 +0300" stop="20260829155748 +0300" channel="VideoArsenal">
-    <title lang="ru">Игра в прятки (1988)</title>
+  <programme start="20260901193120 +0300" stop="20260901210743 +0300" channel="VideoArsenal">
+    <title lang="ru">Синдром бесконечного лета (2023)</title>
   </programme>
-  <programme start="20260829155748 +0300" stop="20260829180145 +0300" channel="VideoArsenal">
-    <title lang="ru">Прометей (2012)</title>
+  <programme start="20260901210743 +0300" stop="20260901230953 +0300" channel="VideoArsenal">
+    <title lang="ru">Чужой- Завет (2017)</title>
   </programme>
-  <programme start="20260829180145 +0300" stop="20260829194949 +0300" channel="VideoArsenal">
-    <title lang="ru">Долгая прогулка (2025)</title>
+  <programme start="20260901230953 +0300" stop="20260902012125 +0300" channel="VideoArsenal">
+    <title lang="ru">Долорес Клэйборн (1995)</title>
   </programme>
-  <programme start="20260829194949 +0300" stop="20260829212337 +0300" channel="VideoArsenal">
-    <title lang="ru">Чёрный чемодан – двойная игра (2025)</title>
+  <programme start="20260902012125 +0300" stop="20260902030539 +0300" channel="VideoArsenal">
+    <title lang="ru">Театр крови (1973)</title>
+  </programme>
+  <programme start="20260902030539 +0300" stop="20260902051208 +0300" channel="VideoArsenal">
+    <title lang="ru">Лунный гонщик (1979)</title>
+  </programme>
+  <programme start="20260902051208 +0300" stop="20260902064507 +0300" channel="VideoArsenal">
+    <title lang="ru">Дети кукурузы 2- Последняя жертва (1992)</title>
+  </programme>
+  <programme start="20260902064507 +0300" stop="20260902094517 +0300" channel="VideoArsenal">
+    <title lang="ru">Томминокеры (1993)</title>
+  </programme>
+  <programme start="20260902094517 +0300" stop="20260902110557 +0300" channel="VideoArsenal">
+    <title lang="ru">Мы — прилив (2016)</title>
+  </programme>
+  <programme start="20260902110557 +0300" stop="20260902130928 +0300" channel="VideoArsenal">
+    <title lang="ru">Каратель (2004)</title>
+  </programme>
+  <programme start="20260902130928 +0300" stop="20260902144531 +0300" channel="VideoArsenal">
+    <title lang="ru">Любовь с первого укуса (1979)</title>
+  </programme>
+  <programme start="20260902144531 +0300" stop="20260902164838 +0300" channel="VideoArsenal">
+    <title lang="ru">Годзилла (2014)</title>
+  </programme>
+  <programme start="20260902164838 +0300" stop="20260902182108 +0300" channel="VideoArsenal">
+    <title lang="ru">Клетка счастья (1972)</title>
+  </programme>
+  <programme start="20260902182108 +0300" stop="20260902201113 +0300" channel="VideoArsenal">
+    <title lang="ru">Соник 3 в кино (2024)</title>
+  </programme>
+  <programme start="20260902201113 +0300" stop="20260902231112 +0300" channel="VideoArsenal">
+    <title lang="ru">Лангольеры (1995)</title>
+  </programme>
+  <programme start="20260902231112 +0300" stop="20260903015440 +0300" channel="VideoArsenal">
+    <title lang="ru">Бегущий по лезвию 2049 (2017)</title>
+  </programme>
+  <programme start="20260903015440 +0300" stop="20260903034736 +0300" channel="VideoArsenal">
+    <title lang="ru">Смерч (1996)</title>
+  </programme>
+  <programme start="20260903034736 +0300" stop="20260903051301 +0300" channel="VideoArsenal">
+    <title lang="ru">Руки потрошителя (1971)</title>
+  </programme>
+  <programme start="20260903051301 +0300" stop="20260903070105 +0300" channel="VideoArsenal">
+    <title lang="ru">Супергёрл (2026)</title>
+  </programme>
+  <programme start="20260903070105 +0300" stop="20260903084410 +0300" channel="VideoArsenal">
+    <title lang="ru">Суккуб (2024)</title>
+  </programme>
+  <programme start="20260903084410 +0300" stop="20260903102212 +0300" channel="VideoArsenal">
+    <title lang="ru">Пункт назначения (2000)</title>
+  </programme>
+  <programme start="20260903102212 +0300" stop="20260903115836 +0300" channel="VideoArsenal">
+    <title lang="ru">Синдром бесконечного лета (2023)</title>
+  </programme>
+  <programme start="20260903115836 +0300" stop="20260903140045 +0300" channel="VideoArsenal">
+    <title lang="ru">Чужой- Завет (2017)</title>
+  </programme>
+  <programme start="20260903140045 +0300" stop="20260903161217 +0300" channel="VideoArsenal">
+    <title lang="ru">Долорес Клэйборн (1995)</title>
+  </programme>
+  <programme start="20260903161217 +0300" stop="20260903175631 +0300" channel="VideoArsenal">
+    <title lang="ru">Театр крови (1973)</title>
+  </programme>
+  <programme start="20260903175631 +0300" stop="20260903200300 +0300" channel="VideoArsenal">
+    <title lang="ru">Лунный гонщик (1979)</title>
+  </programme>
+  <programme start="20260903200300 +0300" stop="20260903213600 +0300" channel="VideoArsenal">
+    <title lang="ru">Дети кукурузы 2- Последняя жертва (1992)</title>
+  </programme>
+  <programme start="20260903213600 +0300" stop="20260904003609 +0300" channel="VideoArsenal">
+    <title lang="ru">Томминокеры (1993)</title>
+  </programme>
+  <programme start="20260904003609 +0300" stop="20260904015649 +0300" channel="VideoArsenal">
+    <title lang="ru">Мы — прилив (2016)</title>
+  </programme>
+  <programme start="20260904015649 +0300" stop="20260904040020 +0300" channel="VideoArsenal">
+    <title lang="ru">Каратель (2004)</title>
+  </programme>
+  <programme start="20260904040020 +0300" stop="20260904053623 +0300" channel="VideoArsenal">
+    <title lang="ru">Любовь с первого укуса (1979)</title>
+  </programme>
+  <programme start="20260904053623 +0300" stop="20260904073931 +0300" channel="VideoArsenal">
+    <title lang="ru">Годзилла (2014)</title>
+  </programme>
+  <programme start="20260904073931 +0300" stop="20260904091200 +0300" channel="VideoArsenal">
+    <title lang="ru">Клетка счастья (1972)</title>
+  </programme>
+  <programme start="20260904091200 +0300" stop="20260904110205 +0300" channel="VideoArsenal">
+    <title lang="ru">Соник 3 в кино (2024)</title>
+  </programme>
+  <programme start="20260904110205 +0300" stop="20260904140204 +0300" channel="VideoArsenal">
+    <title lang="ru">Лангольеры (1995)</title>
+  </programme>
+  <programme start="20260904140204 +0300" stop="20260904164532 +0300" channel="VideoArsenal">
+    <title lang="ru">Бегущий по лезвию 2049 (2017)</title>
+  </programme>
+  <programme start="20260904164532 +0300" stop="20260904183828 +0300" channel="VideoArsenal">
+    <title lang="ru">Смерч (1996)</title>
+  </programme>
+  <programme start="20260904183828 +0300" stop="20260904200353 +0300" channel="VideoArsenal">
+    <title lang="ru">Руки потрошителя (1971)</title>
+  </programme>
+  <programme start="20260904200353 +0300" stop="20260904215158 +0300" channel="VideoArsenal">
+    <title lang="ru">Супергёрл (2026)</title>
+  </programme>
+  <programme start="20260904215158 +0300" stop="20260904233502 +0300" channel="VideoArsenal">
+    <title lang="ru">Суккуб (2024)</title>
+  </programme>
+  <programme start="20260904233502 +0300" stop="20260905011304 +0300" channel="VideoArsenal">
+    <title lang="ru">Пункт назначения (2000)</title>
+  </programme>
+  <programme start="20260905011304 +0300" stop="20260905024928 +0300" channel="VideoArsenal">
+    <title lang="ru">Синдром бесконечного лета (2023)</title>
+  </programme>
+  <programme start="20260905024928 +0300" stop="20260905045137 +0300" channel="VideoArsenal">
+    <title lang="ru">Чужой- Завет (2017)</title>
+  </programme>
+  <programme start="20260905045137 +0300" stop="20260905070309 +0300" channel="VideoArsenal">
+    <title lang="ru">Долорес Клэйборн (1995)</title>
+  </programme>
+  <programme start="20260905070309 +0300" stop="20260905084723 +0300" channel="VideoArsenal">
+    <title lang="ru">Театр крови (1973)</title>
+  </programme>
+  <programme start="20260905084723 +0300" stop="20260905105352 +0300" channel="VideoArsenal">
+    <title lang="ru">Лунный гонщик (1979)</title>
+  </programme>
+  <programme start="20260905105352 +0300" stop="20260905122652 +0300" channel="VideoArsenal">
+    <title lang="ru">Дети кукурузы 2- Последняя жертва (1992)</title>
+  </programme>
+  <programme start="20260905122652 +0300" stop="20260905152701 +0300" channel="VideoArsenal">
+    <title lang="ru">Томминокеры (1993)</title>
+  </programme>
+  <programme start="20260905152701 +0300" stop="20260905164741 +0300" channel="VideoArsenal">
+    <title lang="ru">Мы — прилив (2016)</title>
+  </programme>
+  <programme start="20260905164741 +0300" stop="20260905185112 +0300" channel="VideoArsenal">
+    <title lang="ru">Каратель (2004)</title>
+  </programme>
+  <programme start="20260905185112 +0300" stop="20260905202716 +0300" channel="VideoArsenal">
+    <title lang="ru">Любовь с первого укуса (1979)</title>
+  </programme>
+  <programme start="20260905202716 +0300" stop="20260905223023 +0300" channel="VideoArsenal">
+    <title lang="ru">Годзилла (2014)</title>
+  </programme>
+  <programme start="20260905223023 +0300" stop="20260906000252 +0300" channel="VideoArsenal">
+    <title lang="ru">Клетка счастья (1972)</title>
+  </programme>
+  <programme start="20260906000252 +0300" stop="20260906015258 +0300" channel="VideoArsenal">
+    <title lang="ru">Соник 3 в кино (2024)</title>
+  </programme>
+  <programme start="20260906015258 +0300" stop="20260906045256 +0300" channel="VideoArsenal">
+    <title lang="ru">Лангольеры (1995)</title>
+  </programme>
+  <programme start="20260906045256 +0300" stop="20260906073624 +0300" channel="VideoArsenal">
+    <title lang="ru">Бегущий по лезвию 2049 (2017)</title>
+  </programme>
+  <programme start="20260906073624 +0300" stop="20260906092921 +0300" channel="VideoArsenal">
+    <title lang="ru">Смерч (1996)</title>
+  </programme>
+  <programme start="20260906092921 +0300" stop="20260906105445 +0300" channel="VideoArsenal">
+    <title lang="ru">Руки потрошителя (1971)</title>
+  </programme>
+  <programme start="20260906105445 +0300" stop="20260906124250 +0300" channel="VideoArsenal">
+    <title lang="ru">Супергёрл (2026)</title>
+  </programme>
+  <programme start="20260906124250 +0300" stop="20260906142555 +0300" channel="VideoArsenal">
+    <title lang="ru">Суккуб (2024)</title>
+  </programme>
+  <programme start="20260906142555 +0300" stop="20260906160357 +0300" channel="VideoArsenal">
+    <title lang="ru">Пункт назначения (2000)</title>
+  </programme>
+  <programme start="20260906160357 +0300" stop="20260906174020 +0300" channel="VideoArsenal">
+    <title lang="ru">Синдром бесконечного лета (2023)</title>
+  </programme>
+  <programme start="20260906174020 +0300" stop="20260906194229 +0300" channel="VideoArsenal">
+    <title lang="ru">Чужой- Завет (2017)</title>
+  </programme>
+  <programme start="20260906194229 +0300" stop="20260906215401 +0300" channel="VideoArsenal">
+    <title lang="ru">Долорес Клэйборн (1995)</title>
+  </programme>
+  <programme start="20260906215401 +0300" stop="20260906233815 +0300" channel="VideoArsenal">
+    <title lang="ru">Театр крови (1973)</title>
   </programme>
 </tv>
