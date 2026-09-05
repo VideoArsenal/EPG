@@ -3,352 +3,337 @@
   <channel id="VideoArsenal">
     <display-name lang="ru">VideoArsenal</display-name>
   </channel>
-  <programme start="20260828141100 +0300" stop="20260828160432 +0300" channel="VideoArsenal">
-    <title lang="ru">Жребий (2024)</title>
-  </programme>
-  <programme start="20260828160432 +0300" stop="20260828173004 +0300" channel="VideoArsenal">
-    <title lang="ru">Тела студентов (1981)</title>
-  </programme>
-  <programme start="20260828173004 +0300" stop="20260828192445 +0300" channel="VideoArsenal">
-    <title lang="ru">Годзилла и Конг- Новая империя (2024)</title>
-  </programme>
-  <programme start="20260828192445 +0300" stop="20260828210244 +0300" channel="VideoArsenal">
-    <title lang="ru">Обезьяна (2025)</title>
-  </programme>
-  <programme start="20260828210244 +0300" stop="20260828230503 +0300" channel="VideoArsenal">
-    <title lang="ru">Соник 2 в кино (2022)</title>
-  </programme>
-  <programme start="20260828230503 +0300" stop="20260829003929 +0300" channel="VideoArsenal">
-    <title lang="ru">Кровавые ангелы (1998)</title>
-  </programme>
-  <programme start="20260829003929 +0300" stop="20260829023706 +0300" channel="VideoArsenal">
-    <title lang="ru">Бегущий по лезвию (1982)</title>
-  </programme>
-  <programme start="20260829023706 +0300" stop="20260829041906 +0300" channel="VideoArsenal">
-    <title lang="ru">Смертельное благословение (1981)</title>
-  </programme>
-  <programme start="20260829041906 +0300" stop="20260829063210 +0300" channel="VideoArsenal">
-    <title lang="ru">Бегущий человек (2025)</title>
-  </programme>
-  <programme start="20260829063210 +0300" stop="20260829085720 +0300" channel="VideoArsenal">
-    <title lang="ru">Странные дни (1995)</title>
-  </programme>
-  <programme start="20260829085720 +0300" stop="20260829103125 +0300" channel="VideoArsenal">
-    <title lang="ru">История, рассказанная после токийской войны (1970)</title>
-  </programme>
-  <programme start="20260829103125 +0300" stop="20260829142731 +0300" channel="VideoArsenal">
-    <title lang="ru">Золотые годы (1991)</title>
-  </programme>
-  <programme start="20260829142731 +0300" stop="20260829155805 +0300" channel="VideoArsenal">
-    <title lang="ru">Игра в прятки (1988)</title>
-  </programme>
-  <programme start="20260829155805 +0300" stop="20260829180202 +0300" channel="VideoArsenal">
-    <title lang="ru">Прометей (2012)</title>
-  </programme>
-  <programme start="20260829180202 +0300" stop="20260829195006 +0300" channel="VideoArsenal">
-    <title lang="ru">Долгая прогулка (2025)</title>
-  </programme>
-  <programme start="20260829195006 +0300" stop="20260829212355 +0300" channel="VideoArsenal">
-    <title lang="ru">Чёрный чемодан – двойная игра (2025)</title>
-  </programme>
-  <programme start="20260829212355 +0300" stop="20260829233023 +0300" channel="VideoArsenal">
-    <title lang="ru">Лунный гонщик (1979)</title>
-  </programme>
-  <programme start="20260829233023 +0300" stop="20260830010323 +0300" channel="VideoArsenal">
-    <title lang="ru">Дети кукурузы 2- Последняя жертва (1992)</title>
-  </programme>
-  <programme start="20260830010323 +0300" stop="20260830040332 +0300" channel="VideoArsenal">
-    <title lang="ru">Томминокеры (1993)</title>
-  </programme>
-  <programme start="20260830040332 +0300" stop="20260830052413 +0300" channel="VideoArsenal">
-    <title lang="ru">Мы — прилив (2016)</title>
-  </programme>
-  <programme start="20260830052413 +0300" stop="20260830072743 +0300" channel="VideoArsenal">
+  <programme start="20260905164700 +0300" stop="20260905185030 +0300" channel="VideoArsenal">
     <title lang="ru">Каратель (2004)</title>
   </programme>
-  <programme start="20260830072743 +0300" stop="20260830090347 +0300" channel="VideoArsenal">
+  <programme start="20260905185030 +0300" stop="20260905202634 +0300" channel="VideoArsenal">
     <title lang="ru">Любовь с первого укуса (1979)</title>
   </programme>
-  <programme start="20260830090347 +0300" stop="20260830110654 +0300" channel="VideoArsenal">
+  <programme start="20260905202634 +0300" stop="20260905222941 +0300" channel="VideoArsenal">
     <title lang="ru">Годзилла (2014)</title>
   </programme>
-  <programme start="20260830110654 +0300" stop="20260830123924 +0300" channel="VideoArsenal">
+  <programme start="20260905222941 +0300" stop="20260906000210 +0300" channel="VideoArsenal">
     <title lang="ru">Клетка счастья (1972)</title>
   </programme>
-  <programme start="20260830123924 +0300" stop="20260830142929 +0300" channel="VideoArsenal">
+  <programme start="20260906000210 +0300" stop="20260906015216 +0300" channel="VideoArsenal">
     <title lang="ru">Соник 3 в кино (2024)</title>
   </programme>
-  <programme start="20260830142929 +0300" stop="20260830172928 +0300" channel="VideoArsenal">
+  <programme start="20260906015216 +0300" stop="20260906045214 +0300" channel="VideoArsenal">
     <title lang="ru">Лангольеры (1995)</title>
   </programme>
-  <programme start="20260830172928 +0300" stop="20260830201256 +0300" channel="VideoArsenal">
+  <programme start="20260906045214 +0300" stop="20260906073542 +0300" channel="VideoArsenal">
     <title lang="ru">Бегущий по лезвию 2049 (2017)</title>
   </programme>
-  <programme start="20260830201256 +0300" stop="20260830220552 +0300" channel="VideoArsenal">
+  <programme start="20260906073542 +0300" stop="20260906092839 +0300" channel="VideoArsenal">
     <title lang="ru">Смерч (1996)</title>
   </programme>
-  <programme start="20260830220552 +0300" stop="20260830233117 +0300" channel="VideoArsenal">
+  <programme start="20260906092839 +0300" stop="20260906105403 +0300" channel="VideoArsenal">
     <title lang="ru">Руки потрошителя (1971)</title>
   </programme>
-  <programme start="20260830233117 +0300" stop="20260831011921 +0300" channel="VideoArsenal">
+  <programme start="20260906105403 +0300" stop="20260906124208 +0300" channel="VideoArsenal">
     <title lang="ru">Супергёрл (2026)</title>
   </programme>
-  <programme start="20260831011921 +0300" stop="20260831030226 +0300" channel="VideoArsenal">
+  <programme start="20260906124208 +0300" stop="20260906142513 +0300" channel="VideoArsenal">
     <title lang="ru">Суккуб (2024)</title>
   </programme>
-  <programme start="20260831030226 +0300" stop="20260831044028 +0300" channel="VideoArsenal">
-    <title lang="ru">Пункт назначения (2000)</title>
+  <programme start="20260906142513 +0300" stop="20260906163312 +0300" channel="VideoArsenal">
+    <title lang="ru">Только для твоих глаз (1981)</title>
   </programme>
-  <programme start="20260831044028 +0300" stop="20260831061651 +0300" channel="VideoArsenal">
-    <title lang="ru">Синдром бесконечного лета (2023)</title>
+  <programme start="20260906163312 +0300" stop="20260906180408 +0300" channel="VideoArsenal">
+    <title lang="ru">Дети кукурузы 3- Городская жатва (1994)</title>
   </programme>
-  <programme start="20260831061651 +0300" stop="20260831081901 +0300" channel="VideoArsenal">
-    <title lang="ru">Чужой- Завет (2017)</title>
+  <programme start="20260906180408 +0300" stop="20260906193848 +0300" channel="VideoArsenal">
+    <title lang="ru">Остин Пауэрс- Человек-загадка международного масштаба (1997)</title>
   </programme>
-  <programme start="20260831081901 +0300" stop="20260831103033 +0300" channel="VideoArsenal">
-    <title lang="ru">Долорес Клэйборн (1995)</title>
+  <programme start="20260906193848 +0300" stop="20260906213006 +0300" channel="VideoArsenal">
+    <title lang="ru">Преступные связи (1997)</title>
   </programme>
-  <programme start="20260831103033 +0300" stop="20260831121447 +0300" channel="VideoArsenal">
-    <title lang="ru">Театр крови (1973)</title>
+  <programme start="20260906213006 +0300" stop="20260906230641 +0300" channel="VideoArsenal">
+    <title lang="ru">Проклятие монахини (2018)</title>
   </programme>
-  <programme start="20260831121447 +0300" stop="20260831142116 +0300" channel="VideoArsenal">
-    <title lang="ru">Лунный гонщик (1979)</title>
+  <programme start="20260906230641 +0300" stop="20260907015715 +0300" channel="VideoArsenal">
+    <title lang="ru">Аватар (2009)</title>
   </programme>
-  <programme start="20260831142116 +0300" stop="20260831155415 +0300" channel="VideoArsenal">
-    <title lang="ru">Дети кукурузы 2- Последняя жертва (1992)</title>
+  <programme start="20260907015715 +0300" stop="20260907035539 +0300" channel="VideoArsenal">
+    <title lang="ru">Конг- Остров черепа (2017)</title>
   </programme>
-  <programme start="20260831155415 +0300" stop="20260831185425 +0300" channel="VideoArsenal">
-    <title lang="ru">Томминокеры (1993)</title>
+  <programme start="20260907035539 +0300" stop="20260907053144 +0300" channel="VideoArsenal">
+    <title lang="ru">Отражение тьмы (2023)</title>
   </programme>
-  <programme start="20260831185425 +0300" stop="20260831201505 +0300" channel="VideoArsenal">
-    <title lang="ru">Мы — прилив (2016)</title>
+  <programme start="20260907053144 +0300" stop="20260907072024 +0300" channel="VideoArsenal">
+    <title lang="ru">Обсессия (2025)</title>
   </programme>
-  <programme start="20260831201505 +0300" stop="20260831221836 +0300" channel="VideoArsenal">
-    <title lang="ru">Каратель (2004)</title>
+  <programme start="20260907072024 +0300" stop="20260907094027 +0300" channel="VideoArsenal">
+    <title lang="ru">Бэтмен- Начало (2005)</title>
   </programme>
-  <programme start="20260831221836 +0300" stop="20260831235439 +0300" channel="VideoArsenal">
-    <title lang="ru">Любовь с первого укуса (1979)</title>
+  <programme start="20260907094027 +0300" stop="20260907111525 +0300" channel="VideoArsenal">
+    <title lang="ru">Зона 51 (1997)</title>
   </programme>
-  <programme start="20260831235439 +0300" stop="20260901015746 +0300" channel="VideoArsenal">
-    <title lang="ru">Годзилла (2014)</title>
+  <programme start="20260907111525 +0300" stop="20260907131741 +0300" channel="VideoArsenal">
+    <title lang="ru">Смерч 2 (2024)</title>
   </programme>
-  <programme start="20260901015746 +0300" stop="20260901033016 +0300" channel="VideoArsenal">
-    <title lang="ru">Клетка счастья (1972)</title>
+  <programme start="20260907131741 +0300" stop="20260907152506 +0300" channel="VideoArsenal">
+    <title lang="ru">Синий Жук (2023)</title>
   </programme>
-  <programme start="20260901033016 +0300" stop="20260901052021 +0300" channel="VideoArsenal">
-    <title lang="ru">Соник 3 в кино (2024)</title>
+  <programme start="20260907152506 +0300" stop="20260907171537 +0300" channel="VideoArsenal">
+    <title lang="ru">Зловещие мертвецы- Пекло (2026)</title>
   </programme>
-  <programme start="20260901052021 +0300" stop="20260901082020 +0300" channel="VideoArsenal">
-    <title lang="ru">Лангольеры (1995)</title>
+  <programme start="20260907171537 +0300" stop="20260907190345 +0300" channel="VideoArsenal">
+    <title lang="ru">Летом всякое бывает. Побег из Сколбора (2026)</title>
   </programme>
-  <programme start="20260901082020 +0300" stop="20260901110348 +0300" channel="VideoArsenal">
-    <title lang="ru">Бегущий по лезвию 2049 (2017)</title>
+  <programme start="20260907190345 +0300" stop="20260907203356 +0300" channel="VideoArsenal">
+    <title lang="ru">Пункт назначения 2 (2003)</title>
   </programme>
-  <programme start="20260901110348 +0300" stop="20260901125644 +0300" channel="VideoArsenal">
-    <title lang="ru">Смерч (1996)</title>
+  <programme start="20260907203356 +0300" stop="20260907220408 +0300" channel="VideoArsenal">
+    <title lang="ru">Автострада (1997)</title>
   </programme>
-  <programme start="20260901125644 +0300" stop="20260901142209 +0300" channel="VideoArsenal">
-    <title lang="ru">Руки потрошителя (1971)</title>
+  <programme start="20260907220408 +0300" stop="20260908000302 +0300" channel="VideoArsenal">
+    <title lang="ru">Чужой- Ромул (2024)</title>
   </programme>
-  <programme start="20260901142209 +0300" stop="20260901161013 +0300" channel="VideoArsenal">
-    <title lang="ru">Супергёрл (2026)</title>
+  <programme start="20260908000302 +0300" stop="20260908013711 +0300" channel="VideoArsenal">
+    <title lang="ru">Полутон (2025)</title>
   </programme>
-  <programme start="20260901161013 +0300" stop="20260901175318 +0300" channel="VideoArsenal">
-    <title lang="ru">Суккуб (2024)</title>
+  <programme start="20260908013711 +0300" stop="20260908033000 +0300" channel="VideoArsenal">
+    <title lang="ru">Невидимка (2000)</title>
   </programme>
-  <programme start="20260901175318 +0300" stop="20260901193120 +0300" channel="VideoArsenal">
-    <title lang="ru">Пункт назначения (2000)</title>
+  <programme start="20260908033000 +0300" stop="20260908053759 +0300" channel="VideoArsenal">
+    <title lang="ru">Только для твоих глаз (1981)</title>
   </programme>
-  <programme start="20260901193120 +0300" stop="20260901210743 +0300" channel="VideoArsenal">
-    <title lang="ru">Синдром бесконечного лета (2023)</title>
+  <programme start="20260908053759 +0300" stop="20260908070856 +0300" channel="VideoArsenal">
+    <title lang="ru">Дети кукурузы 3- Городская жатва (1994)</title>
   </programme>
-  <programme start="20260901210743 +0300" stop="20260901230953 +0300" channel="VideoArsenal">
-    <title lang="ru">Чужой- Завет (2017)</title>
+  <programme start="20260908070856 +0300" stop="20260908084336 +0300" channel="VideoArsenal">
+    <title lang="ru">Остин Пауэрс- Человек-загадка международного масштаба (1997)</title>
   </programme>
-  <programme start="20260901230953 +0300" stop="20260902012125 +0300" channel="VideoArsenal">
-    <title lang="ru">Долорес Клэйборн (1995)</title>
+  <programme start="20260908084336 +0300" stop="20260908103454 +0300" channel="VideoArsenal">
+    <title lang="ru">Преступные связи (1997)</title>
   </programme>
-  <programme start="20260902012125 +0300" stop="20260902030539 +0300" channel="VideoArsenal">
-    <title lang="ru">Театр крови (1973)</title>
+  <programme start="20260908103454 +0300" stop="20260908121128 +0300" channel="VideoArsenal">
+    <title lang="ru">Проклятие монахини (2018)</title>
   </programme>
-  <programme start="20260902030539 +0300" stop="20260902051208 +0300" channel="VideoArsenal">
-    <title lang="ru">Лунный гонщик (1979)</title>
+  <programme start="20260908121128 +0300" stop="20260908150203 +0300" channel="VideoArsenal">
+    <title lang="ru">Аватар (2009)</title>
   </programme>
-  <programme start="20260902051208 +0300" stop="20260902064507 +0300" channel="VideoArsenal">
-    <title lang="ru">Дети кукурузы 2- Последняя жертва (1992)</title>
+  <programme start="20260908150203 +0300" stop="20260908170026 +0300" channel="VideoArsenal">
+    <title lang="ru">Конг- Остров черепа (2017)</title>
   </programme>
-  <programme start="20260902064507 +0300" stop="20260902094517 +0300" channel="VideoArsenal">
-    <title lang="ru">Томминокеры (1993)</title>
+  <programme start="20260908170026 +0300" stop="20260908183632 +0300" channel="VideoArsenal">
+    <title lang="ru">Отражение тьмы (2023)</title>
   </programme>
-  <programme start="20260902094517 +0300" stop="20260902110557 +0300" channel="VideoArsenal">
-    <title lang="ru">Мы — прилив (2016)</title>
+  <programme start="20260908183632 +0300" stop="20260908202511 +0300" channel="VideoArsenal">
+    <title lang="ru">Обсессия (2025)</title>
   </programme>
-  <programme start="20260902110557 +0300" stop="20260902130928 +0300" channel="VideoArsenal">
-    <title lang="ru">Каратель (2004)</title>
+  <programme start="20260908202511 +0300" stop="20260908224514 +0300" channel="VideoArsenal">
+    <title lang="ru">Бэтмен- Начало (2005)</title>
   </programme>
-  <programme start="20260902130928 +0300" stop="20260902144531 +0300" channel="VideoArsenal">
-    <title lang="ru">Любовь с первого укуса (1979)</title>
+  <programme start="20260908224514 +0300" stop="20260909002012 +0300" channel="VideoArsenal">
+    <title lang="ru">Зона 51 (1997)</title>
   </programme>
-  <programme start="20260902144531 +0300" stop="20260902164838 +0300" channel="VideoArsenal">
-    <title lang="ru">Годзилла (2014)</title>
+  <programme start="20260909002012 +0300" stop="20260909022228 +0300" channel="VideoArsenal">
+    <title lang="ru">Смерч 2 (2024)</title>
   </programme>
-  <programme start="20260902164838 +0300" stop="20260902182108 +0300" channel="VideoArsenal">
-    <title lang="ru">Клетка счастья (1972)</title>
+  <programme start="20260909022228 +0300" stop="20260909042953 +0300" channel="VideoArsenal">
+    <title lang="ru">Синий Жук (2023)</title>
   </programme>
-  <programme start="20260902182108 +0300" stop="20260902201113 +0300" channel="VideoArsenal">
-    <title lang="ru">Соник 3 в кино (2024)</title>
+  <programme start="20260909042953 +0300" stop="20260909062024 +0300" channel="VideoArsenal">
+    <title lang="ru">Зловещие мертвецы- Пекло (2026)</title>
   </programme>
-  <programme start="20260902201113 +0300" stop="20260902231112 +0300" channel="VideoArsenal">
-    <title lang="ru">Лангольеры (1995)</title>
+  <programme start="20260909062024 +0300" stop="20260909080832 +0300" channel="VideoArsenal">
+    <title lang="ru">Летом всякое бывает. Побег из Сколбора (2026)</title>
   </programme>
-  <programme start="20260902231112 +0300" stop="20260903015440 +0300" channel="VideoArsenal">
-    <title lang="ru">Бегущий по лезвию 2049 (2017)</title>
+  <programme start="20260909080832 +0300" stop="20260909093844 +0300" channel="VideoArsenal">
+    <title lang="ru">Пункт назначения 2 (2003)</title>
   </programme>
-  <programme start="20260903015440 +0300" stop="20260903034736 +0300" channel="VideoArsenal">
-    <title lang="ru">Смерч (1996)</title>
+  <programme start="20260909093844 +0300" stop="20260909110856 +0300" channel="VideoArsenal">
+    <title lang="ru">Автострада (1997)</title>
   </programme>
-  <programme start="20260903034736 +0300" stop="20260903051301 +0300" channel="VideoArsenal">
-    <title lang="ru">Руки потрошителя (1971)</title>
+  <programme start="20260909110856 +0300" stop="20260909130749 +0300" channel="VideoArsenal">
+    <title lang="ru">Чужой- Ромул (2024)</title>
   </programme>
-  <programme start="20260903051301 +0300" stop="20260903070105 +0300" channel="VideoArsenal">
-    <title lang="ru">Супергёрл (2026)</title>
+  <programme start="20260909130749 +0300" stop="20260909144158 +0300" channel="VideoArsenal">
+    <title lang="ru">Полутон (2025)</title>
   </programme>
-  <programme start="20260903070105 +0300" stop="20260903084410 +0300" channel="VideoArsenal">
-    <title lang="ru">Суккуб (2024)</title>
+  <programme start="20260909144158 +0300" stop="20260909163447 +0300" channel="VideoArsenal">
+    <title lang="ru">Невидимка (2000)</title>
   </programme>
-  <programme start="20260903084410 +0300" stop="20260903102212 +0300" channel="VideoArsenal">
-    <title lang="ru">Пункт назначения (2000)</title>
+  <programme start="20260909163447 +0300" stop="20260909184246 +0300" channel="VideoArsenal">
+    <title lang="ru">Только для твоих глаз (1981)</title>
   </programme>
-  <programme start="20260903102212 +0300" stop="20260903115836 +0300" channel="VideoArsenal">
-    <title lang="ru">Синдром бесконечного лета (2023)</title>
+  <programme start="20260909184246 +0300" stop="20260909201343 +0300" channel="VideoArsenal">
+    <title lang="ru">Дети кукурузы 3- Городская жатва (1994)</title>
   </programme>
-  <programme start="20260903115836 +0300" stop="20260903140045 +0300" channel="VideoArsenal">
-    <title lang="ru">Чужой- Завет (2017)</title>
+  <programme start="20260909201343 +0300" stop="20260909214823 +0300" channel="VideoArsenal">
+    <title lang="ru">Остин Пауэрс- Человек-загадка международного масштаба (1997)</title>
   </programme>
-  <programme start="20260903140045 +0300" stop="20260903161217 +0300" channel="VideoArsenal">
-    <title lang="ru">Долорес Клэйборн (1995)</title>
+  <programme start="20260909214823 +0300" stop="20260909233941 +0300" channel="VideoArsenal">
+    <title lang="ru">Преступные связи (1997)</title>
   </programme>
-  <programme start="20260903161217 +0300" stop="20260903175631 +0300" channel="VideoArsenal">
-    <title lang="ru">Театр крови (1973)</title>
+  <programme start="20260909233941 +0300" stop="20260910011616 +0300" channel="VideoArsenal">
+    <title lang="ru">Проклятие монахини (2018)</title>
   </programme>
-  <programme start="20260903175631 +0300" stop="20260903200300 +0300" channel="VideoArsenal">
-    <title lang="ru">Лунный гонщик (1979)</title>
+  <programme start="20260910011616 +0300" stop="20260910040650 +0300" channel="VideoArsenal">
+    <title lang="ru">Аватар (2009)</title>
   </programme>
-  <programme start="20260903200300 +0300" stop="20260903213600 +0300" channel="VideoArsenal">
-    <title lang="ru">Дети кукурузы 2- Последняя жертва (1992)</title>
+  <programme start="20260910040650 +0300" stop="20260910060513 +0300" channel="VideoArsenal">
+    <title lang="ru">Конг- Остров черепа (2017)</title>
   </programme>
-  <programme start="20260903213600 +0300" stop="20260904003609 +0300" channel="VideoArsenal">
-    <title lang="ru">Томминокеры (1993)</title>
+  <programme start="20260910060513 +0300" stop="20260910074119 +0300" channel="VideoArsenal">
+    <title lang="ru">Отражение тьмы (2023)</title>
   </programme>
-  <programme start="20260904003609 +0300" stop="20260904015649 +0300" channel="VideoArsenal">
-    <title lang="ru">Мы — прилив (2016)</title>
+  <programme start="20260910074119 +0300" stop="20260910092959 +0300" channel="VideoArsenal">
+    <title lang="ru">Обсессия (2025)</title>
   </programme>
-  <programme start="20260904015649 +0300" stop="20260904040020 +0300" channel="VideoArsenal">
-    <title lang="ru">Каратель (2004)</title>
+  <programme start="20260910092959 +0300" stop="20260910115002 +0300" channel="VideoArsenal">
+    <title lang="ru">Бэтмен- Начало (2005)</title>
   </programme>
-  <programme start="20260904040020 +0300" stop="20260904053623 +0300" channel="VideoArsenal">
-    <title lang="ru">Любовь с первого укуса (1979)</title>
+  <programme start="20260910115002 +0300" stop="20260910132459 +0300" channel="VideoArsenal">
+    <title lang="ru">Зона 51 (1997)</title>
   </programme>
-  <programme start="20260904053623 +0300" stop="20260904073931 +0300" channel="VideoArsenal">
-    <title lang="ru">Годзилла (2014)</title>
+  <programme start="20260910132459 +0300" stop="20260910152715 +0300" channel="VideoArsenal">
+    <title lang="ru">Смерч 2 (2024)</title>
   </programme>
-  <programme start="20260904073931 +0300" stop="20260904091200 +0300" channel="VideoArsenal">
-    <title lang="ru">Клетка счастья (1972)</title>
+  <programme start="20260910152715 +0300" stop="20260910173440 +0300" channel="VideoArsenal">
+    <title lang="ru">Синий Жук (2023)</title>
   </programme>
-  <programme start="20260904091200 +0300" stop="20260904110205 +0300" channel="VideoArsenal">
-    <title lang="ru">Соник 3 в кино (2024)</title>
+  <programme start="20260910173440 +0300" stop="20260910192512 +0300" channel="VideoArsenal">
+    <title lang="ru">Зловещие мертвецы- Пекло (2026)</title>
   </programme>
-  <programme start="20260904110205 +0300" stop="20260904140204 +0300" channel="VideoArsenal">
-    <title lang="ru">Лангольеры (1995)</title>
+  <programme start="20260910192512 +0300" stop="20260910211320 +0300" channel="VideoArsenal">
+    <title lang="ru">Летом всякое бывает. Побег из Сколбора (2026)</title>
   </programme>
-  <programme start="20260904140204 +0300" stop="20260904164532 +0300" channel="VideoArsenal">
-    <title lang="ru">Бегущий по лезвию 2049 (2017)</title>
+  <programme start="20260910211320 +0300" stop="20260910224331 +0300" channel="VideoArsenal">
+    <title lang="ru">Пункт назначения 2 (2003)</title>
   </programme>
-  <programme start="20260904164532 +0300" stop="20260904183828 +0300" channel="VideoArsenal">
-    <title lang="ru">Смерч (1996)</title>
+  <programme start="20260910224331 +0300" stop="20260911001343 +0300" channel="VideoArsenal">
+    <title lang="ru">Автострада (1997)</title>
   </programme>
-  <programme start="20260904183828 +0300" stop="20260904200353 +0300" channel="VideoArsenal">
-    <title lang="ru">Руки потрошителя (1971)</title>
+  <programme start="20260911001343 +0300" stop="20260911021237 +0300" channel="VideoArsenal">
+    <title lang="ru">Чужой- Ромул (2024)</title>
   </programme>
-  <programme start="20260904200353 +0300" stop="20260904215158 +0300" channel="VideoArsenal">
-    <title lang="ru">Супергёрл (2026)</title>
+  <programme start="20260911021237 +0300" stop="20260911034646 +0300" channel="VideoArsenal">
+    <title lang="ru">Полутон (2025)</title>
   </programme>
-  <programme start="20260904215158 +0300" stop="20260904233502 +0300" channel="VideoArsenal">
-    <title lang="ru">Суккуб (2024)</title>
+  <programme start="20260911034646 +0300" stop="20260911053935 +0300" channel="VideoArsenal">
+    <title lang="ru">Невидимка (2000)</title>
   </programme>
-  <programme start="20260904233502 +0300" stop="20260905011304 +0300" channel="VideoArsenal">
-    <title lang="ru">Пункт назначения (2000)</title>
+  <programme start="20260911053935 +0300" stop="20260911074734 +0300" channel="VideoArsenal">
+    <title lang="ru">Только для твоих глаз (1981)</title>
   </programme>
-  <programme start="20260905011304 +0300" stop="20260905024928 +0300" channel="VideoArsenal">
-    <title lang="ru">Синдром бесконечного лета (2023)</title>
+  <programme start="20260911074734 +0300" stop="20260911091830 +0300" channel="VideoArsenal">
+    <title lang="ru">Дети кукурузы 3- Городская жатва (1994)</title>
   </programme>
-  <programme start="20260905024928 +0300" stop="20260905045137 +0300" channel="VideoArsenal">
-    <title lang="ru">Чужой- Завет (2017)</title>
+  <programme start="20260911091830 +0300" stop="20260911105310 +0300" channel="VideoArsenal">
+    <title lang="ru">Остин Пауэрс- Человек-загадка международного масштаба (1997)</title>
   </programme>
-  <programme start="20260905045137 +0300" stop="20260905070309 +0300" channel="VideoArsenal">
-    <title lang="ru">Долорес Клэйборн (1995)</title>
+  <programme start="20260911105310 +0300" stop="20260911124428 +0300" channel="VideoArsenal">
+    <title lang="ru">Преступные связи (1997)</title>
   </programme>
-  <programme start="20260905070309 +0300" stop="20260905084723 +0300" channel="VideoArsenal">
-    <title lang="ru">Театр крови (1973)</title>
+  <programme start="20260911124428 +0300" stop="20260911142103 +0300" channel="VideoArsenal">
+    <title lang="ru">Проклятие монахини (2018)</title>
   </programme>
-  <programme start="20260905084723 +0300" stop="20260905105352 +0300" channel="VideoArsenal">
-    <title lang="ru">Лунный гонщик (1979)</title>
+  <programme start="20260911142103 +0300" stop="20260911171137 +0300" channel="VideoArsenal">
+    <title lang="ru">Аватар (2009)</title>
   </programme>
-  <programme start="20260905105352 +0300" stop="20260905122652 +0300" channel="VideoArsenal">
-    <title lang="ru">Дети кукурузы 2- Последняя жертва (1992)</title>
+  <programme start="20260911171137 +0300" stop="20260911191001 +0300" channel="VideoArsenal">
+    <title lang="ru">Конг- Остров черепа (2017)</title>
   </programme>
-  <programme start="20260905122652 +0300" stop="20260905152701 +0300" channel="VideoArsenal">
-    <title lang="ru">Томминокеры (1993)</title>
+  <programme start="20260911191001 +0300" stop="20260911204606 +0300" channel="VideoArsenal">
+    <title lang="ru">Отражение тьмы (2023)</title>
   </programme>
-  <programme start="20260905152701 +0300" stop="20260905164741 +0300" channel="VideoArsenal">
-    <title lang="ru">Мы — прилив (2016)</title>
+  <programme start="20260911204606 +0300" stop="20260911223446 +0300" channel="VideoArsenal">
+    <title lang="ru">Обсессия (2025)</title>
   </programme>
-  <programme start="20260905164741 +0300" stop="20260905185112 +0300" channel="VideoArsenal">
-    <title lang="ru">Каратель (2004)</title>
+  <programme start="20260911223446 +0300" stop="20260912005449 +0300" channel="VideoArsenal">
+    <title lang="ru">Бэтмен- Начало (2005)</title>
   </programme>
-  <programme start="20260905185112 +0300" stop="20260905202716 +0300" channel="VideoArsenal">
-    <title lang="ru">Любовь с первого укуса (1979)</title>
+  <programme start="20260912005449 +0300" stop="20260912022947 +0300" channel="VideoArsenal">
+    <title lang="ru">Зона 51 (1997)</title>
   </programme>
-  <programme start="20260905202716 +0300" stop="20260905223023 +0300" channel="VideoArsenal">
-    <title lang="ru">Годзилла (2014)</title>
+  <programme start="20260912022947 +0300" stop="20260912043203 +0300" channel="VideoArsenal">
+    <title lang="ru">Смерч 2 (2024)</title>
   </programme>
-  <programme start="20260905223023 +0300" stop="20260906000252 +0300" channel="VideoArsenal">
-    <title lang="ru">Клетка счастья (1972)</title>
+  <programme start="20260912043203 +0300" stop="20260912063928 +0300" channel="VideoArsenal">
+    <title lang="ru">Синий Жук (2023)</title>
   </programme>
-  <programme start="20260906000252 +0300" stop="20260906015258 +0300" channel="VideoArsenal">
-    <title lang="ru">Соник 3 в кино (2024)</title>
+  <programme start="20260912063928 +0300" stop="20260912082959 +0300" channel="VideoArsenal">
+    <title lang="ru">Зловещие мертвецы- Пекло (2026)</title>
   </programme>
-  <programme start="20260906015258 +0300" stop="20260906045256 +0300" channel="VideoArsenal">
-    <title lang="ru">Лангольеры (1995)</title>
+  <programme start="20260912082959 +0300" stop="20260912101807 +0300" channel="VideoArsenal">
+    <title lang="ru">Летом всякое бывает. Побег из Сколбора (2026)</title>
   </programme>
-  <programme start="20260906045256 +0300" stop="20260906073624 +0300" channel="VideoArsenal">
-    <title lang="ru">Бегущий по лезвию 2049 (2017)</title>
+  <programme start="20260912101807 +0300" stop="20260912114818 +0300" channel="VideoArsenal">
+    <title lang="ru">Пункт назначения 2 (2003)</title>
   </programme>
-  <programme start="20260906073624 +0300" stop="20260906092921 +0300" channel="VideoArsenal">
-    <title lang="ru">Смерч (1996)</title>
+  <programme start="20260912114818 +0300" stop="20260912131830 +0300" channel="VideoArsenal">
+    <title lang="ru">Автострада (1997)</title>
   </programme>
-  <programme start="20260906092921 +0300" stop="20260906105445 +0300" channel="VideoArsenal">
-    <title lang="ru">Руки потрошителя (1971)</title>
+  <programme start="20260912131830 +0300" stop="20260912151724 +0300" channel="VideoArsenal">
+    <title lang="ru">Чужой- Ромул (2024)</title>
   </programme>
-  <programme start="20260906105445 +0300" stop="20260906124250 +0300" channel="VideoArsenal">
-    <title lang="ru">Супергёрл (2026)</title>
+  <programme start="20260912151724 +0300" stop="20260912165133 +0300" channel="VideoArsenal">
+    <title lang="ru">Полутон (2025)</title>
   </programme>
-  <programme start="20260906124250 +0300" stop="20260906142555 +0300" channel="VideoArsenal">
-    <title lang="ru">Суккуб (2024)</title>
+  <programme start="20260912165133 +0300" stop="20260912184422 +0300" channel="VideoArsenal">
+    <title lang="ru">Невидимка (2000)</title>
   </programme>
-  <programme start="20260906142555 +0300" stop="20260906160357 +0300" channel="VideoArsenal">
-    <title lang="ru">Пункт назначения (2000)</title>
+  <programme start="20260912184422 +0300" stop="20260912205221 +0300" channel="VideoArsenal">
+    <title lang="ru">Только для твоих глаз (1981)</title>
   </programme>
-  <programme start="20260906160357 +0300" stop="20260906174020 +0300" channel="VideoArsenal">
-    <title lang="ru">Синдром бесконечного лета (2023)</title>
+  <programme start="20260912205221 +0300" stop="20260912222318 +0300" channel="VideoArsenal">
+    <title lang="ru">Дети кукурузы 3- Городская жатва (1994)</title>
   </programme>
-  <programme start="20260906174020 +0300" stop="20260906194229 +0300" channel="VideoArsenal">
-    <title lang="ru">Чужой- Завет (2017)</title>
+  <programme start="20260912222318 +0300" stop="20260912235757 +0300" channel="VideoArsenal">
+    <title lang="ru">Остин Пауэрс- Человек-загадка международного масштаба (1997)</title>
   </programme>
-  <programme start="20260906194229 +0300" stop="20260906215401 +0300" channel="VideoArsenal">
-    <title lang="ru">Долорес Клэйборн (1995)</title>
+  <programme start="20260912235757 +0300" stop="20260913014916 +0300" channel="VideoArsenal">
+    <title lang="ru">Преступные связи (1997)</title>
   </programme>
-  <programme start="20260906215401 +0300" stop="20260906233815 +0300" channel="VideoArsenal">
-    <title lang="ru">Театр крови (1973)</title>
+  <programme start="20260913014916 +0300" stop="20260913032550 +0300" channel="VideoArsenal">
+    <title lang="ru">Проклятие монахини (2018)</title>
+  </programme>
+  <programme start="20260913032550 +0300" stop="20260913061625 +0300" channel="VideoArsenal">
+    <title lang="ru">Аватар (2009)</title>
+  </programme>
+  <programme start="20260913061625 +0300" stop="20260913081448 +0300" channel="VideoArsenal">
+    <title lang="ru">Конг- Остров черепа (2017)</title>
+  </programme>
+  <programme start="20260913081448 +0300" stop="20260913095054 +0300" channel="VideoArsenal">
+    <title lang="ru">Отражение тьмы (2023)</title>
+  </programme>
+  <programme start="20260913095054 +0300" stop="20260913113933 +0300" channel="VideoArsenal">
+    <title lang="ru">Обсессия (2025)</title>
+  </programme>
+  <programme start="20260913113933 +0300" stop="20260913135936 +0300" channel="VideoArsenal">
+    <title lang="ru">Бэтмен- Начало (2005)</title>
+  </programme>
+  <programme start="20260913135936 +0300" stop="20260913153434 +0300" channel="VideoArsenal">
+    <title lang="ru">Зона 51 (1997)</title>
+  </programme>
+  <programme start="20260913153434 +0300" stop="20260913173650 +0300" channel="VideoArsenal">
+    <title lang="ru">Смерч 2 (2024)</title>
+  </programme>
+  <programme start="20260913173650 +0300" stop="20260913194415 +0300" channel="VideoArsenal">
+    <title lang="ru">Синий Жук (2023)</title>
+  </programme>
+  <programme start="20260913194415 +0300" stop="20260913213446 +0300" channel="VideoArsenal">
+    <title lang="ru">Зловещие мертвецы- Пекло (2026)</title>
+  </programme>
+  <programme start="20260913213446 +0300" stop="20260913232254 +0300" channel="VideoArsenal">
+    <title lang="ru">Летом всякое бывает. Побег из Сколбора (2026)</title>
+  </programme>
+  <programme start="20260913232254 +0300" stop="20260914005306 +0300" channel="VideoArsenal">
+    <title lang="ru">Пункт назначения 2 (2003)</title>
+  </programme>
+  <programme start="20260914005306 +0300" stop="20260914022317 +0300" channel="VideoArsenal">
+    <title lang="ru">Автострада (1997)</title>
+  </programme>
+  <programme start="20260914022317 +0300" stop="20260914042211 +0300" channel="VideoArsenal">
+    <title lang="ru">Чужой- Ромул (2024)</title>
+  </programme>
+  <programme start="20260914042211 +0300" stop="20260914055620 +0300" channel="VideoArsenal">
+    <title lang="ru">Полутон (2025)</title>
+  </programme>
+  <programme start="20260914055620 +0300" stop="20260914074909 +0300" channel="VideoArsenal">
+    <title lang="ru">Невидимка (2000)</title>
   </programme>
 </tv>
