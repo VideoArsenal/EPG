@@ -3,343 +3,319 @@
   <channel id="VideoArsenal">
     <display-name lang="ru">VideoArsenal</display-name>
   </channel>
-  <programme start="20260926135000 +0300" stop="20260926154011 +0300" channel="VideoArsenal">
-    <title lang="ru">Дэллоуэй (2025)</title>
-  </programme>
-  <programme start="20260926154011 +0300" stop="20260926172951 +0300" channel="VideoArsenal">
-    <title lang="ru">Проклятие монахини 2 (2023)</title>
-  </programme>
-  <programme start="20260926172951 +0300" stop="20260926204229 +0300" channel="VideoArsenal">
-    <title lang="ru">Аватар- Путь воды (2022)</title>
-  </programme>
-  <programme start="20260926204229 +0300" stop="20260926225412 +0300" channel="VideoArsenal">
-    <title lang="ru">Годзилла 2- Король монстров (2019)</title>
-  </programme>
-  <programme start="20260926225412 +0300" stop="20260927004804 +0300" channel="VideoArsenal">
-    <title lang="ru">Иностранец (2017)</title>
-  </programme>
-  <programme start="20260927004804 +0300" stop="20260927022146 +0300" channel="VideoArsenal">
-    <title lang="ru">Метки тьмы (2021)</title>
-  </programme>
-  <programme start="20260927022146 +0300" stop="20260927045359 +0300" channel="VideoArsenal">
-    <title lang="ru">Темный рыцарь (2008)</title>
-  </programme>
-  <programme start="20260927045359 +0300" stop="20260927063104 +0300" channel="VideoArsenal">
-    <title lang="ru">Ночной полет (1997)</title>
-  </programme>
-  <programme start="20260927063104 +0300" stop="20260927080651 +0300" channel="VideoArsenal">
-    <title lang="ru">Трон (1982)</title>
-  </programme>
-  <programme start="20260927080651 +0300" stop="20260927092607 +0300" channel="VideoArsenal">
-    <title lang="ru">Бедлам (1946)</title>
-  </programme>
-  <programme start="20260927092607 +0300" stop="20260927105215 +0300" channel="VideoArsenal">
-    <title lang="ru">Отражения № 3 (2025)</title>
-  </programme>
-  <programme start="20260927105215 +0300" stop="20260927124853 +0300" channel="VideoArsenal">
-    <title lang="ru">Горец (1986)</title>
-  </programme>
-  <programme start="20260927124853 +0300" stop="20260927142142 +0300" channel="VideoArsenal">
-    <title lang="ru">Пункт назначения 3 (2006)</title>
-  </programme>
-  <programme start="20260927142142 +0300" stop="20260927163301 +0300" channel="VideoArsenal">
-    <title lang="ru">Вид на убийство (1985)</title>
-  </programme>
-  <programme start="20260927163301 +0300" stop="20260927175551 +0300" channel="VideoArsenal">
-    <title lang="ru">Дети кукурузы 5- Поля страха (1998)</title>
-  </programme>
-  <programme start="20260927175551 +0300" stop="20260927193032 +0300" channel="VideoArsenal">
-    <title lang="ru">Остин Пауэрс- Голдмембер (2002)</title>
-  </programme>
-  <programme start="20260927193032 +0300" stop="20260927210037 +0300" channel="VideoArsenal">
-    <title lang="ru">Убийственный холод (1998)</title>
-  </programme>
-  <programme start="20260927210037 +0300" stop="20260927224217 +0300" channel="VideoArsenal">
-    <title lang="ru">Ночной бизнес (2026)</title>
-  </programme>
-  <programme start="20260927224217 +0300" stop="20260928015919 +0300" channel="VideoArsenal">
-    <title lang="ru">Аватар- Пламя и пепел (2025)</title>
-  </programme>
-  <programme start="20260928015919 +0300" stop="20260928035228 +0300" channel="VideoArsenal">
-    <title lang="ru">Годзилла против Конга (2021)</title>
-  </programme>
-  <programme start="20260928035228 +0300" stop="20260928053252 +0300" channel="VideoArsenal">
-    <title lang="ru">Девушка возвращается одна ночью домой (2014)</title>
-  </programme>
-  <programme start="20260928053252 +0300" stop="20260928094939 +0300" channel="VideoArsenal">
-    <title lang="ru">Буря столетия (1999)</title>
-  </programme>
-  <programme start="20260928094939 +0300" stop="20260928123412 +0300" channel="VideoArsenal">
-    <title lang="ru">Темный рыцарь- Возрождение легенды (2012)</title>
-  </programme>
-  <programme start="20260928123412 +0300" stop="20260928140820 +0300" channel="VideoArsenal">
-    <title lang="ru">Геймер (2009)</title>
-  </programme>
-  <programme start="20260928140820 +0300" stop="20260928161329 +0300" channel="VideoArsenal">
-    <title lang="ru">Трон- Наследие (2010)</title>
-  </programme>
-  <programme start="20260928161329 +0300" stop="20260928174433 +0300" channel="VideoArsenal">
-    <title lang="ru">Карнавал бестий (1980)</title>
-  </programme>
-  <programme start="20260928174433 +0300" stop="20260928191256 +0300" channel="VideoArsenal">
-    <title lang="ru">Касса невест (2025)</title>
-  </programme>
-  <programme start="20260928191256 +0300" stop="20260928210239 +0300" channel="VideoArsenal">
+  <programme start="20261005085800 +0300" stop="20261005104743 +0300" channel="VideoArsenal">
     <title lang="ru">Горец 2- Оживление (1990)</title>
   </programme>
-  <programme start="20260928210239 +0300" stop="20260928222426 +0300" channel="VideoArsenal">
+  <programme start="20261005104743 +0300" stop="20261005120930 +0300" channel="VideoArsenal">
     <title lang="ru">Пункт назначения 4 (2009)</title>
   </programme>
-  <programme start="20260928222426 +0300" stop="20260929000146 +0300" channel="VideoArsenal">
+  <programme start="20261005120930 +0300" stop="20261005134650 +0300" channel="VideoArsenal">
     <title lang="ru">Заманчивое предложение (2024)</title>
   </programme>
-  <programme start="20260929000146 +0300" stop="20260929014110 +0300" channel="VideoArsenal">
+  <programme start="20261005134650 +0300" stop="20261005152614 +0300" channel="VideoArsenal">
     <title lang="ru">Божественная Эмануэлль- Культ любви (1981)</title>
   </programme>
-  <programme start="20260929014110 +0300" stop="20260929040309 +0300" channel="VideoArsenal">
+  <programme start="20261005152614 +0300" stop="20261005174812 +0300" channel="VideoArsenal">
     <title lang="ru">Мстители- Эра Альтрона (2015)</title>
   </programme>
-  <programme start="20260929040309 +0300" stop="20260929054801 +0300" channel="VideoArsenal">
-    <title lang="ru">Кэрри 2- Ярость (1999)</title>
+  <programme start="20261005174812 +0300" stop="20261005195906 +0300" channel="VideoArsenal">
+    <title lang="ru">Искры из глаз (1987)</title>
   </programme>
-  <programme start="20260929054801 +0300" stop="20260929075920 +0300" channel="VideoArsenal">
-    <title lang="ru">Вид на убийство (1985)</title>
+  <programme start="20261005195906 +0300" stop="20261005212058 +0300" channel="VideoArsenal">
+    <title lang="ru">Дети кукурузы 666- Айзек вернулся (1999)</title>
   </programme>
-  <programme start="20260929075920 +0300" stop="20260929092209 +0300" channel="VideoArsenal">
-    <title lang="ru">Дети кукурузы 5- Поля страха (1998)</title>
+  <programme start="20261005212058 +0300" stop="20261005224622 +0300" channel="VideoArsenal">
+    <title lang="ru">Рейс 298 (2026)</title>
   </programme>
-  <programme start="20260929092209 +0300" stop="20260929105651 +0300" channel="VideoArsenal">
-    <title lang="ru">Остин Пауэрс- Голдмембер (2002)</title>
+  <programme start="20261005224622 +0300" stop="20261006003736 +0300" channel="VideoArsenal">
+    <title lang="ru">Роза Невады (2025)</title>
   </programme>
-  <programme start="20260929105651 +0300" stop="20260929122656 +0300" channel="VideoArsenal">
-    <title lang="ru">Убийственный холод (1998)</title>
+  <programme start="20261006003736 +0300" stop="20261006023738 +0300" channel="VideoArsenal">
+    <title lang="ru">Детка на драйве (2025)</title>
   </programme>
-  <programme start="20260929122656 +0300" stop="20260929140836 +0300" channel="VideoArsenal">
-    <title lang="ru">Ночной бизнес (2026)</title>
+  <programme start="20261006023738 +0300" stop="20261006041730 +0300" channel="VideoArsenal">
+    <title lang="ru">Ньюки (1987)</title>
   </programme>
-  <programme start="20260929140836 +0300" stop="20260929172538 +0300" channel="VideoArsenal">
-    <title lang="ru">Аватар- Пламя и пепел (2025)</title>
+  <programme start="20261006041730 +0300" stop="20261006061211 +0300" channel="VideoArsenal">
+    <title lang="ru">Годзилла и Конг- Новая империя (2024)</title>
   </programme>
-  <programme start="20260929172538 +0300" stop="20260929191847 +0300" channel="VideoArsenal">
-    <title lang="ru">Годзилла против Конга (2021)</title>
+  <programme start="20261006061211 +0300" stop="20261006075026 +0300" channel="VideoArsenal">
+    <title lang="ru">Угроза (2004)</title>
   </programme>
-  <programme start="20260929191847 +0300" stop="20260929205911 +0300" channel="VideoArsenal">
-    <title lang="ru">Девушка возвращается одна ночью домой (2014)</title>
+  <programme start="20261006075026 +0300" stop="20261006092322 +0300" channel="VideoArsenal">
+    <title lang="ru">Оно приходит снизу (2025)</title>
   </programme>
-  <programme start="20260929205911 +0300" stop="20260930011558 +0300" channel="VideoArsenal">
-    <title lang="ru">Буря столетия (1999)</title>
+  <programme start="20261006092322 +0300" stop="20261006104720 +0300" channel="VideoArsenal">
+    <title lang="ru">Рука об руку с дьяволом (2026)</title>
   </programme>
-  <programme start="20260930011558 +0300" stop="20260930040031 +0300" channel="VideoArsenal">
-    <title lang="ru">Темный рыцарь- Возрождение легенды (2012)</title>
+  <programme start="20261006104720 +0300" stop="20261006122805 +0300" channel="VideoArsenal">
+    <title lang="ru">Рой (2020)</title>
   </programme>
-  <programme start="20260930040031 +0300" stop="20260930053439 +0300" channel="VideoArsenal">
-    <title lang="ru">Геймер (2009)</title>
+  <programme start="20261006122805 +0300" stop="20261006142646 +0300" channel="VideoArsenal">
+    <title lang="ru">Трон- Арес (2025)</title>
   </programme>
-  <programme start="20260930053439 +0300" stop="20260930073948 +0300" channel="VideoArsenal">
-    <title lang="ru">Трон- Наследие (2010)</title>
+  <programme start="20261006142646 +0300" stop="20261006170836 +0300" channel="VideoArsenal">
+    <title lang="ru">Воспламеняющая взглядом 2 (2002)</title>
   </programme>
-  <programme start="20260930073948 +0300" stop="20260930091052 +0300" channel="VideoArsenal">
-    <title lang="ru">Карнавал бестий (1980)</title>
+  <programme start="20261006170836 +0300" stop="20261006194708 +0300" channel="VideoArsenal">
+    <title lang="ru">Сказки юга (2006)</title>
   </programme>
-  <programme start="20260930091052 +0300" stop="20260930103915 +0300" channel="VideoArsenal">
-    <title lang="ru">Касса невест (2025)</title>
+  <programme start="20261006194708 +0300" stop="20261006212622 +0300" channel="VideoArsenal">
+    <title lang="ru">Горец 3- Последнее измерение (1995)</title>
   </programme>
-  <programme start="20260930103915 +0300" stop="20260930122858 +0300" channel="VideoArsenal">
-    <title lang="ru">Горец 2- Оживление (1990)</title>
+  <programme start="20261006212622 +0300" stop="20261006225810 +0300" channel="VideoArsenal">
+    <title lang="ru">Пункт назначения 5 (2011)</title>
   </programme>
-  <programme start="20260930122858 +0300" stop="20260930135045 +0300" channel="VideoArsenal">
-    <title lang="ru">Пункт назначения 4 (2009)</title>
+  <programme start="20261006225810 +0300" stop="20261007031231 +0300" channel="VideoArsenal">
+    <title lang="ru">Особняк «Красная роза» (2002)</title>
   </programme>
-  <programme start="20260930135045 +0300" stop="20260930152805 +0300" channel="VideoArsenal">
-    <title lang="ru">Заманчивое предложение (2024)</title>
+  <programme start="20261007031231 +0300" stop="20261007044659 +0300" channel="VideoArsenal">
+    <title lang="ru">Дрожь (2008)</title>
   </programme>
-  <programme start="20260930152805 +0300" stop="20260930170729 +0300" channel="VideoArsenal">
-    <title lang="ru">Божественная Эмануэлль- Культ любви (1981)</title>
+  <programme start="20261007044659 +0300" stop="20261007071635 +0300" channel="VideoArsenal">
+    <title lang="ru">Мстители- Война бесконечности (2018)</title>
   </programme>
-  <programme start="20260930170729 +0300" stop="20260930192927 +0300" channel="VideoArsenal">
-    <title lang="ru">Мстители- Эра Альтрона (2015)</title>
+  <programme start="20261007071635 +0300" stop="20261007084441 +0300" channel="VideoArsenal">
+    <title lang="ru">Дом, где живет зло (1982)</title>
   </programme>
-  <programme start="20260930192927 +0300" stop="20260930211420 +0300" channel="VideoArsenal">
-    <title lang="ru">Кэрри 2- Ярость (1999)</title>
+  <programme start="20261007084441 +0300" stop="20261007105534 +0300" channel="VideoArsenal">
+    <title lang="ru">Искры из глаз (1987)</title>
   </programme>
-  <programme start="20260930211420 +0300" stop="20260930232539 +0300" channel="VideoArsenal">
-    <title lang="ru">Вид на убийство (1985)</title>
+  <programme start="20261007105534 +0300" stop="20261007121727 +0300" channel="VideoArsenal">
+    <title lang="ru">Дети кукурузы 666- Айзек вернулся (1999)</title>
   </programme>
-  <programme start="20260930232539 +0300" stop="20261001004828 +0300" channel="VideoArsenal">
-    <title lang="ru">Дети кукурузы 5- Поля страха (1998)</title>
+  <programme start="20261007121727 +0300" stop="20261007134251 +0300" channel="VideoArsenal">
+    <title lang="ru">Рейс 298 (2026)</title>
   </programme>
-  <programme start="20261001004828 +0300" stop="20261001022310 +0300" channel="VideoArsenal">
-    <title lang="ru">Остин Пауэрс- Голдмембер (2002)</title>
+  <programme start="20261007134251 +0300" stop="20261007153405 +0300" channel="VideoArsenal">
+    <title lang="ru">Роза Невады (2025)</title>
   </programme>
-  <programme start="20261001022310 +0300" stop="20261001035314 +0300" channel="VideoArsenal">
-    <title lang="ru">Убийственный холод (1998)</title>
+  <programme start="20261007153405 +0300" stop="20261007173407 +0300" channel="VideoArsenal">
+    <title lang="ru">Детка на драйве (2025)</title>
   </programme>
-  <programme start="20261001035314 +0300" stop="20261001053454 +0300" channel="VideoArsenal">
-    <title lang="ru">Ночной бизнес (2026)</title>
+  <programme start="20261007173407 +0300" stop="20261007191359 +0300" channel="VideoArsenal">
+    <title lang="ru">Ньюки (1987)</title>
   </programme>
-  <programme start="20261001053454 +0300" stop="20261001085157 +0300" channel="VideoArsenal">
-    <title lang="ru">Аватар- Пламя и пепел (2025)</title>
+  <programme start="20261007191359 +0300" stop="20261007210840 +0300" channel="VideoArsenal">
+    <title lang="ru">Годзилла и Конг- Новая империя (2024)</title>
   </programme>
-  <programme start="20261001085157 +0300" stop="20261001104505 +0300" channel="VideoArsenal">
-    <title lang="ru">Годзилла против Конга (2021)</title>
+  <programme start="20261007210840 +0300" stop="20261007224654 +0300" channel="VideoArsenal">
+    <title lang="ru">Угроза (2004)</title>
   </programme>
-  <programme start="20261001104505 +0300" stop="20261001122529 +0300" channel="VideoArsenal">
-    <title lang="ru">Девушка возвращается одна ночью домой (2014)</title>
+  <programme start="20261007224654 +0300" stop="20261008001951 +0300" channel="VideoArsenal">
+    <title lang="ru">Оно приходит снизу (2025)</title>
   </programme>
-  <programme start="20261001122529 +0300" stop="20261001164217 +0300" channel="VideoArsenal">
-    <title lang="ru">Буря столетия (1999)</title>
+  <programme start="20261008001951 +0300" stop="20261008014349 +0300" channel="VideoArsenal">
+    <title lang="ru">Рука об руку с дьяволом (2026)</title>
   </programme>
-  <programme start="20261001164217 +0300" stop="20261001192650 +0300" channel="VideoArsenal">
-    <title lang="ru">Темный рыцарь- Возрождение легенды (2012)</title>
+  <programme start="20261008014349 +0300" stop="20261008032434 +0300" channel="VideoArsenal">
+    <title lang="ru">Рой (2020)</title>
   </programme>
-  <programme start="20261001192650 +0300" stop="20261001210058 +0300" channel="VideoArsenal">
-    <title lang="ru">Геймер (2009)</title>
+  <programme start="20261008032434 +0300" stop="20261008052314 +0300" channel="VideoArsenal">
+    <title lang="ru">Трон- Арес (2025)</title>
   </programme>
-  <programme start="20261001210058 +0300" stop="20261001230607 +0300" channel="VideoArsenal">
-    <title lang="ru">Трон- Наследие (2010)</title>
+  <programme start="20261008052314 +0300" stop="20261008080505 +0300" channel="VideoArsenal">
+    <title lang="ru">Воспламеняющая взглядом 2 (2002)</title>
   </programme>
-  <programme start="20261001230607 +0300" stop="20261002003710 +0300" channel="VideoArsenal">
-    <title lang="ru">Карнавал бестий (1980)</title>
+  <programme start="20261008080505 +0300" stop="20261008104337 +0300" channel="VideoArsenal">
+    <title lang="ru">Сказки юга (2006)</title>
   </programme>
-  <programme start="20261002003710 +0300" stop="20261002020533 +0300" channel="VideoArsenal">
-    <title lang="ru">Касса невест (2025)</title>
+  <programme start="20261008104337 +0300" stop="20261008122250 +0300" channel="VideoArsenal">
+    <title lang="ru">Горец 3- Последнее измерение (1995)</title>
   </programme>
-  <programme start="20261002020533 +0300" stop="20261002035516 +0300" channel="VideoArsenal">
-    <title lang="ru">Горец 2- Оживление (1990)</title>
+  <programme start="20261008122250 +0300" stop="20261008135439 +0300" channel="VideoArsenal">
+    <title lang="ru">Пункт назначения 5 (2011)</title>
   </programme>
-  <programme start="20261002035516 +0300" stop="20261002051704 +0300" channel="VideoArsenal">
-    <title lang="ru">Пункт назначения 4 (2009)</title>
+  <programme start="20261008135439 +0300" stop="20261008180900 +0300" channel="VideoArsenal">
+    <title lang="ru">Особняк «Красная роза» (2002)</title>
   </programme>
-  <programme start="20261002051704 +0300" stop="20261002065424 +0300" channel="VideoArsenal">
-    <title lang="ru">Заманчивое предложение (2024)</title>
+  <programme start="20261008180900 +0300" stop="20261008194328 +0300" channel="VideoArsenal">
+    <title lang="ru">Дрожь (2008)</title>
   </programme>
-  <programme start="20261002065424 +0300" stop="20261002083348 +0300" channel="VideoArsenal">
-    <title lang="ru">Божественная Эмануэлль- Культ любви (1981)</title>
+  <programme start="20261008194328 +0300" stop="20261008221303 +0300" channel="VideoArsenal">
+    <title lang="ru">Мстители- Война бесконечности (2018)</title>
   </programme>
-  <programme start="20261002083348 +0300" stop="20261002105546 +0300" channel="VideoArsenal">
-    <title lang="ru">Мстители- Эра Альтрона (2015)</title>
+  <programme start="20261008221303 +0300" stop="20261008234110 +0300" channel="VideoArsenal">
+    <title lang="ru">Дом, где живет зло (1982)</title>
   </programme>
-  <programme start="20261002105546 +0300" stop="20261002124039 +0300" channel="VideoArsenal">
-    <title lang="ru">Кэрри 2- Ярость (1999)</title>
+  <programme start="20261008234110 +0300" stop="20261009015203 +0300" channel="VideoArsenal">
+    <title lang="ru">Искры из глаз (1987)</title>
   </programme>
-  <programme start="20261002124039 +0300" stop="20261002145157 +0300" channel="VideoArsenal">
-    <title lang="ru">Вид на убийство (1985)</title>
+  <programme start="20261009015203 +0300" stop="20261009031355 +0300" channel="VideoArsenal">
+    <title lang="ru">Дети кукурузы 666- Айзек вернулся (1999)</title>
   </programme>
-  <programme start="20261002145157 +0300" stop="20261002161447 +0300" channel="VideoArsenal">
-    <title lang="ru">Дети кукурузы 5- Поля страха (1998)</title>
+  <programme start="20261009031355 +0300" stop="20261009043920 +0300" channel="VideoArsenal">
+    <title lang="ru">Рейс 298 (2026)</title>
   </programme>
-  <programme start="20261002161447 +0300" stop="20261002174929 +0300" channel="VideoArsenal">
-    <title lang="ru">Остин Пауэрс- Голдмембер (2002)</title>
+  <programme start="20261009043920 +0300" stop="20261009063034 +0300" channel="VideoArsenal">
+    <title lang="ru">Роза Невады (2025)</title>
   </programme>
-  <programme start="20261002174929 +0300" stop="20261002191933 +0300" channel="VideoArsenal">
-    <title lang="ru">Убийственный холод (1998)</title>
+  <programme start="20261009063034 +0300" stop="20261009083036 +0300" channel="VideoArsenal">
+    <title lang="ru">Детка на драйве (2025)</title>
   </programme>
-  <programme start="20261002191933 +0300" stop="20261002210113 +0300" channel="VideoArsenal">
-    <title lang="ru">Ночной бизнес (2026)</title>
+  <programme start="20261009083036 +0300" stop="20261009101027 +0300" channel="VideoArsenal">
+    <title lang="ru">Ньюки (1987)</title>
   </programme>
-  <programme start="20261002210113 +0300" stop="20261003001815 +0300" channel="VideoArsenal">
-    <title lang="ru">Аватар- Пламя и пепел (2025)</title>
+  <programme start="20261009101027 +0300" stop="20261009120508 +0300" channel="VideoArsenal">
+    <title lang="ru">Годзилла и Конг- Новая империя (2024)</title>
   </programme>
-  <programme start="20261003001815 +0300" stop="20261003021124 +0300" channel="VideoArsenal">
-    <title lang="ru">Годзилла против Конга (2021)</title>
+  <programme start="20261009120508 +0300" stop="20261009134323 +0300" channel="VideoArsenal">
+    <title lang="ru">Угроза (2004)</title>
   </programme>
-  <programme start="20261003021124 +0300" stop="20261003035148 +0300" channel="VideoArsenal">
-    <title lang="ru">Девушка возвращается одна ночью домой (2014)</title>
+  <programme start="20261009134323 +0300" stop="20261009151620 +0300" channel="VideoArsenal">
+    <title lang="ru">Оно приходит снизу (2025)</title>
   </programme>
-  <programme start="20261003035148 +0300" stop="20261003080835 +0300" channel="VideoArsenal">
-    <title lang="ru">Буря столетия (1999)</title>
+  <programme start="20261009151620 +0300" stop="20261009164018 +0300" channel="VideoArsenal">
+    <title lang="ru">Рука об руку с дьяволом (2026)</title>
   </programme>
-  <programme start="20261003080835 +0300" stop="20261003105308 +0300" channel="VideoArsenal">
-    <title lang="ru">Темный рыцарь- Возрождение легенды (2012)</title>
+  <programme start="20261009164018 +0300" stop="20261009182103 +0300" channel="VideoArsenal">
+    <title lang="ru">Рой (2020)</title>
   </programme>
-  <programme start="20261003105308 +0300" stop="20261003122717 +0300" channel="VideoArsenal">
-    <title lang="ru">Геймер (2009)</title>
+  <programme start="20261009182103 +0300" stop="20261009201943 +0300" channel="VideoArsenal">
+    <title lang="ru">Трон- Арес (2025)</title>
   </programme>
-  <programme start="20261003122717 +0300" stop="20261003143226 +0300" channel="VideoArsenal">
-    <title lang="ru">Трон- Наследие (2010)</title>
+  <programme start="20261009201943 +0300" stop="20261009230134 +0300" channel="VideoArsenal">
+    <title lang="ru">Воспламеняющая взглядом 2 (2002)</title>
   </programme>
-  <programme start="20261003143226 +0300" stop="20261003160329 +0300" channel="VideoArsenal">
-    <title lang="ru">Карнавал бестий (1980)</title>
+  <programme start="20261009230134 +0300" stop="20261010014005 +0300" channel="VideoArsenal">
+    <title lang="ru">Сказки юга (2006)</title>
   </programme>
-  <programme start="20261003160329 +0300" stop="20261003173152 +0300" channel="VideoArsenal">
-    <title lang="ru">Касса невест (2025)</title>
+  <programme start="20261010014005 +0300" stop="20261010031919 +0300" channel="VideoArsenal">
+    <title lang="ru">Горец 3- Последнее измерение (1995)</title>
   </programme>
-  <programme start="20261003173152 +0300" stop="20261003192135 +0300" channel="VideoArsenal">
-    <title lang="ru">Горец 2- Оживление (1990)</title>
+  <programme start="20261010031919 +0300" stop="20261010045107 +0300" channel="VideoArsenal">
+    <title lang="ru">Пункт назначения 5 (2011)</title>
   </programme>
-  <programme start="20261003192135 +0300" stop="20261003204323 +0300" channel="VideoArsenal">
-    <title lang="ru">Пункт назначения 4 (2009)</title>
+  <programme start="20261010045107 +0300" stop="20261010090528 +0300" channel="VideoArsenal">
+    <title lang="ru">Особняк «Красная роза» (2002)</title>
   </programme>
-  <programme start="20261003204323 +0300" stop="20261003222043 +0300" channel="VideoArsenal">
-    <title lang="ru">Заманчивое предложение (2024)</title>
+  <programme start="20261010090528 +0300" stop="20261010103956 +0300" channel="VideoArsenal">
+    <title lang="ru">Дрожь (2008)</title>
   </programme>
-  <programme start="20261003222043 +0300" stop="20261004000007 +0300" channel="VideoArsenal">
-    <title lang="ru">Божественная Эмануэлль- Культ любви (1981)</title>
+  <programme start="20261010103956 +0300" stop="20261010130932 +0300" channel="VideoArsenal">
+    <title lang="ru">Мстители- Война бесконечности (2018)</title>
   </programme>
-  <programme start="20261004000007 +0300" stop="20261004022205 +0300" channel="VideoArsenal">
-    <title lang="ru">Мстители- Эра Альтрона (2015)</title>
+  <programme start="20261010130932 +0300" stop="20261010143738 +0300" channel="VideoArsenal">
+    <title lang="ru">Дом, где живет зло (1982)</title>
   </programme>
-  <programme start="20261004022205 +0300" stop="20261004040657 +0300" channel="VideoArsenal">
-    <title lang="ru">Кэрри 2- Ярость (1999)</title>
+  <programme start="20261010143738 +0300" stop="20261010164832 +0300" channel="VideoArsenal">
+    <title lang="ru">Искры из глаз (1987)</title>
   </programme>
-  <programme start="20261004040657 +0300" stop="20261004061816 +0300" channel="VideoArsenal">
-    <title lang="ru">Вид на убийство (1985)</title>
+  <programme start="20261010164832 +0300" stop="20261010181024 +0300" channel="VideoArsenal">
+    <title lang="ru">Дети кукурузы 666- Айзек вернулся (1999)</title>
   </programme>
-  <programme start="20261004061816 +0300" stop="20261004074106 +0300" channel="VideoArsenal">
-    <title lang="ru">Дети кукурузы 5- Поля страха (1998)</title>
+  <programme start="20261010181024 +0300" stop="20261010193549 +0300" channel="VideoArsenal">
+    <title lang="ru">Рейс 298 (2026)</title>
   </programme>
-  <programme start="20261004074106 +0300" stop="20261004091548 +0300" channel="VideoArsenal">
-    <title lang="ru">Остин Пауэрс- Голдмембер (2002)</title>
+  <programme start="20261010193549 +0300" stop="20261010212703 +0300" channel="VideoArsenal">
+    <title lang="ru">Роза Невады (2025)</title>
   </programme>
-  <programme start="20261004091548 +0300" stop="20261004104552 +0300" channel="VideoArsenal">
-    <title lang="ru">Убийственный холод (1998)</title>
+  <programme start="20261010212703 +0300" stop="20261010232704 +0300" channel="VideoArsenal">
+    <title lang="ru">Детка на драйве (2025)</title>
   </programme>
-  <programme start="20261004104552 +0300" stop="20261004122732 +0300" channel="VideoArsenal">
-    <title lang="ru">Ночной бизнес (2026)</title>
+  <programme start="20261010232704 +0300" stop="20261011010656 +0300" channel="VideoArsenal">
+    <title lang="ru">Ньюки (1987)</title>
   </programme>
-  <programme start="20261004122732 +0300" stop="20261004154434 +0300" channel="VideoArsenal">
-    <title lang="ru">Аватар- Пламя и пепел (2025)</title>
+  <programme start="20261011010656 +0300" stop="20261011030137 +0300" channel="VideoArsenal">
+    <title lang="ru">Годзилла и Конг- Новая империя (2024)</title>
   </programme>
-  <programme start="20261004154434 +0300" stop="20261004173743 +0300" channel="VideoArsenal">
-    <title lang="ru">Годзилла против Конга (2021)</title>
+  <programme start="20261011030137 +0300" stop="20261011043952 +0300" channel="VideoArsenal">
+    <title lang="ru">Угроза (2004)</title>
   </programme>
-  <programme start="20261004173743 +0300" stop="20261004191807 +0300" channel="VideoArsenal">
-    <title lang="ru">Девушка возвращается одна ночью домой (2014)</title>
+  <programme start="20261011043952 +0300" stop="20261011061248 +0300" channel="VideoArsenal">
+    <title lang="ru">Оно приходит снизу (2025)</title>
   </programme>
-  <programme start="20261004191807 +0300" stop="20261004233454 +0300" channel="VideoArsenal">
-    <title lang="ru">Буря столетия (1999)</title>
+  <programme start="20261011061248 +0300" stop="20261011073647 +0300" channel="VideoArsenal">
+    <title lang="ru">Рука об руку с дьяволом (2026)</title>
   </programme>
-  <programme start="20261004233454 +0300" stop="20261005021927 +0300" channel="VideoArsenal">
-    <title lang="ru">Темный рыцарь- Возрождение легенды (2012)</title>
+  <programme start="20261011073647 +0300" stop="20261011091731 +0300" channel="VideoArsenal">
+    <title lang="ru">Рой (2020)</title>
   </programme>
-  <programme start="20261005021927 +0300" stop="20261005035336 +0300" channel="VideoArsenal">
-    <title lang="ru">Геймер (2009)</title>
+  <programme start="20261011091731 +0300" stop="20261011111612 +0300" channel="VideoArsenal">
+    <title lang="ru">Трон- Арес (2025)</title>
   </programme>
-  <programme start="20261005035336 +0300" stop="20261005055845 +0300" channel="VideoArsenal">
-    <title lang="ru">Трон- Наследие (2010)</title>
+  <programme start="20261011111612 +0300" stop="20261011135803 +0300" channel="VideoArsenal">
+    <title lang="ru">Воспламеняющая взглядом 2 (2002)</title>
   </programme>
-  <programme start="20261005055845 +0300" stop="20261005072948 +0300" channel="VideoArsenal">
-    <title lang="ru">Карнавал бестий (1980)</title>
+  <programme start="20261011135803 +0300" stop="20261011163634 +0300" channel="VideoArsenal">
+    <title lang="ru">Сказки юга (2006)</title>
   </programme>
-  <programme start="20261005072948 +0300" stop="20261005085811 +0300" channel="VideoArsenal">
-    <title lang="ru">Касса невест (2025)</title>
+  <programme start="20261011163634 +0300" stop="20261011181548 +0300" channel="VideoArsenal">
+    <title lang="ru">Горец 3- Последнее измерение (1995)</title>
   </programme>
-  <programme start="20261005085811 +0300" stop="20261005104754 +0300" channel="VideoArsenal">
-    <title lang="ru">Горец 2- Оживление (1990)</title>
+  <programme start="20261011181548 +0300" stop="20261011194736 +0300" channel="VideoArsenal">
+    <title lang="ru">Пункт назначения 5 (2011)</title>
   </programme>
-  <programme start="20261005104754 +0300" stop="20261005120942 +0300" channel="VideoArsenal">
-    <title lang="ru">Пункт назначения 4 (2009)</title>
+  <programme start="20261011194736 +0300" stop="20261012000157 +0300" channel="VideoArsenal">
+    <title lang="ru">Особняк «Красная роза» (2002)</title>
   </programme>
-  <programme start="20261005120942 +0300" stop="20261005134702 +0300" channel="VideoArsenal">
-    <title lang="ru">Заманчивое предложение (2024)</title>
+  <programme start="20261012000157 +0300" stop="20261012013625 +0300" channel="VideoArsenal">
+    <title lang="ru">Дрожь (2008)</title>
   </programme>
-  <programme start="20261005134702 +0300" stop="20261005152626 +0300" channel="VideoArsenal">
-    <title lang="ru">Божественная Эмануэлль- Культ любви (1981)</title>
+  <programme start="20261012013625 +0300" stop="20261012040601 +0300" channel="VideoArsenal">
+    <title lang="ru">Мстители- Война бесконечности (2018)</title>
   </programme>
-  <programme start="20261005152626 +0300" stop="20261005174824 +0300" channel="VideoArsenal">
-    <title lang="ru">Мстители- Эра Альтрона (2015)</title>
+  <programme start="20261012040601 +0300" stop="20261012053407 +0300" channel="VideoArsenal">
+    <title lang="ru">Дом, где живет зло (1982)</title>
   </programme>
-  <programme start="20261005174824 +0300" stop="20261005193316 +0300" channel="VideoArsenal">
-    <title lang="ru">Кэрри 2- Ярость (1999)</title>
+  <programme start="20261012053407 +0300" stop="20261012074501 +0300" channel="VideoArsenal">
+    <title lang="ru">Искры из глаз (1987)</title>
+  </programme>
+  <programme start="20261012074501 +0300" stop="20261012090653 +0300" channel="VideoArsenal">
+    <title lang="ru">Дети кукурузы 666- Айзек вернулся (1999)</title>
+  </programme>
+  <programme start="20261012090653 +0300" stop="20261012103217 +0300" channel="VideoArsenal">
+    <title lang="ru">Рейс 298 (2026)</title>
+  </programme>
+  <programme start="20261012103217 +0300" stop="20261012122331 +0300" channel="VideoArsenal">
+    <title lang="ru">Роза Невады (2025)</title>
+  </programme>
+  <programme start="20261012122331 +0300" stop="20261012142333 +0300" channel="VideoArsenal">
+    <title lang="ru">Детка на драйве (2025)</title>
+  </programme>
+  <programme start="20261012142333 +0300" stop="20261012160325 +0300" channel="VideoArsenal">
+    <title lang="ru">Ньюки (1987)</title>
+  </programme>
+  <programme start="20261012160325 +0300" stop="20261012175806 +0300" channel="VideoArsenal">
+    <title lang="ru">Годзилла и Конг- Новая империя (2024)</title>
+  </programme>
+  <programme start="20261012175806 +0300" stop="20261012193620 +0300" channel="VideoArsenal">
+    <title lang="ru">Угроза (2004)</title>
+  </programme>
+  <programme start="20261012193620 +0300" stop="20261012210917 +0300" channel="VideoArsenal">
+    <title lang="ru">Оно приходит снизу (2025)</title>
+  </programme>
+  <programme start="20261012210917 +0300" stop="20261012223315 +0300" channel="VideoArsenal">
+    <title lang="ru">Рука об руку с дьяволом (2026)</title>
+  </programme>
+  <programme start="20261012223315 +0300" stop="20261013001400 +0300" channel="VideoArsenal">
+    <title lang="ru">Рой (2020)</title>
+  </programme>
+  <programme start="20261013001400 +0300" stop="20261013021241 +0300" channel="VideoArsenal">
+    <title lang="ru">Трон- Арес (2025)</title>
+  </programme>
+  <programme start="20261013021241 +0300" stop="20261013045431 +0300" channel="VideoArsenal">
+    <title lang="ru">Воспламеняющая взглядом 2 (2002)</title>
+  </programme>
+  <programme start="20261013045431 +0300" stop="20261013073303 +0300" channel="VideoArsenal">
+    <title lang="ru">Сказки юга (2006)</title>
+  </programme>
+  <programme start="20261013073303 +0300" stop="20261013091217 +0300" channel="VideoArsenal">
+    <title lang="ru">Горец 3- Последнее измерение (1995)</title>
+  </programme>
+  <programme start="20261013091217 +0300" stop="20261013104405 +0300" channel="VideoArsenal">
+    <title lang="ru">Пункт назначения 5 (2011)</title>
+  </programme>
+  <programme start="20261013104405 +0300" stop="20261013145826 +0300" channel="VideoArsenal">
+    <title lang="ru">Особняк «Красная роза» (2002)</title>
+  </programme>
+  <programme start="20261013145826 +0300" stop="20261013163254 +0300" channel="VideoArsenal">
+    <title lang="ru">Дрожь (2008)</title>
+  </programme>
+  <programme start="20261013163254 +0300" stop="20261013190229 +0300" channel="VideoArsenal">
+    <title lang="ru">Мстители- Война бесконечности (2018)</title>
+  </programme>
+  <programme start="20261013190229 +0300" stop="20261013203036 +0300" channel="VideoArsenal">
+    <title lang="ru">Дом, где живет зло (1982)</title>
   </programme>
 </tv>
