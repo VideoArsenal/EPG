@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv generator-info-name="Smart EPG Generator">
+  <channel id="VideoArsenal">
+    <display-name lang="ru">VideoArsenal</display-name>
+  </channel>
+  <programme start="20261013091200 +0300" stop="20261013104348 +0300" channel="VideoArsenal">
+    <title lang="ru">Пункт назначения 5 (2011)</title>
+  </programme>
+  <programme start="20261013104348 +0300" stop="20261013145809 +0300" channel="VideoArsenal">
+    <title lang="ru">Особняк «Красная роза» (2002)</title>
+  </programme>
+  <programme start="20261013145809 +0300" stop="20261013163237 +0300" channel="VideoArsenal">
+    <title lang="ru">Дрожь (2008)</title>
+  </programme>
+  <programme start="20261013163237 +0300" stop="20261013190212 +0300" channel="VideoArsenal">
+    <title lang="ru">Мстители- Война бесконечности (2018)</title>
+  </programme>
+  <programme start="20261013190212 +0300" stop="20261013203019 +0300" channel="VideoArsenal">
+    <title lang="ru">Дом, где живет зло (1982)</title>
+  </programme>
+  <programme start="20261013203019 +0300" stop="20261013224112 +0300" channel="VideoArsenal">
+    <title lang="ru">Искры из глаз (1987)</title>
+  </programme>
+  <programme start="20261013224112 +0300" stop="20261014000304 +0300" channel="VideoArsenal">
+    <title lang="ru">Дети кукурузы 666- Айзек вернулся (1999)</title>
+  </programme>
+  <programme start="20261014000304 +0300" stop="20261014012829 +0300" channel="VideoArsenal">
+    <title lang="ru">Рейс 298 (2026)</title>
+  </programme>
+  <programme start="20261014012829 +0300" stop="20261014031943 +0300" channel="VideoArsenal">
+    <title lang="ru">Роза Невады (2025)</title>
+  </programme>
+  <programme start="20261014031943 +0300" stop="20261014051945 +0300" channel="VideoArsenal">
+    <title lang="ru">Детка на драйве (2025)</title>
+  </programme>
+  <programme start="20261014051945 +0300" stop="20261014065936 +0300" channel="VideoArsenal">
+    <title lang="ru">Ньюки (1987)</title>
+  </programme>
+  <programme start="20261014065936 +0300" stop="20261014085417 +0300" channel="VideoArsenal">
+    <title lang="ru">Годзилла и Конг- Новая империя (2024)</title>
+  </programme>
+  <programme start="20261014085417 +0300" stop="20261014103232 +0300" channel="VideoArsenal">
+    <title lang="ru">Угроза (2004)</title>
+  </programme>
+  <programme start="20261014103232 +0300" stop="20261014120529 +0300" channel="VideoArsenal">
+    <title lang="ru">Оно приходит снизу (2025)</title>
+  </programme>
+  <programme start="20261014120529 +0300" stop="20261014132927 +0300" channel="VideoArsenal">
+    <title lang="ru">Рука об руку с дьяволом (2026)</title>
+  </programme>
+  <programme start="20261014132927 +0300" stop="20261014151012 +0300" channel="VideoArsenal">
+    <title lang="ru">Рой (2020)</title>
+  </programme>
+  <programme start="20261014151012 +0300" stop="20261014170852 +0300" channel="VideoArsenal">
+    <title lang="ru">Трон- Арес (2025)</title>
+  </programme>
+  <programme start="20261014170852 +0300" stop="20261014195043 +0300" channel="VideoArsenal">
+    <title lang="ru">Воспламеняющая взглядом 2 (2002)</title>
+  </programme>
+  <programme start="20261014195043 +0300" stop="20261014222914 +0300" channel="VideoArsenal">
+    <title lang="ru">Сказки юга (2006)</title>
+  </programme>
+  <programme start="20261014222914 +0300" stop="20261015000828 +0300" channel="VideoArsenal">
+    <title lang="ru">Горец 3- Последнее измерение (1995)</title>
+  </programme>
+  <programme start="20261015000828 +0300" stop="20261015014016 +0300" channel="VideoArsenal">
+    <title lang="ru">Пункт назначения 5 (2011)</title>
+  </programme>
+  <programme start="20261015014016 +0300" stop="20261015055437 +0300" channel="VideoArsenal">
+    <title lang="ru">Особняк «Красная роза» (2002)</title>
+  </programme>
+  <programme start="20261015055437 +0300" stop="20261015072906 +0300" channel="VideoArsenal">
+    <title lang="ru">Дрожь (2008)</title>
+  </programme>
+  <programme start="20261015072906 +0300" stop="20261015095841 +0300" channel="VideoArsenal">
+    <title lang="ru">Мстители- Война бесконечности (2018)</title>
+  </programme>
+  <programme start="20261015095841 +0300" stop="20261015112648 +0300" channel="VideoArsenal">
+    <title lang="ru">Дом, где живет зло (1982)</title>
+  </programme>
+  <programme start="20261015112648 +0300" stop="20261015133741 +0300" channel="VideoArsenal">
+    <title lang="ru">Искры из глаз (1987)</title>
+  </programme>
+  <programme start="20261015133741 +0300" stop="20261015145933 +0300" channel="VideoArsenal">
+    <title lang="ru">Дети кукурузы 666- Айзек вернулся (1999)</title>
+  </programme>
+  <programme start="20261015145933 +0300" stop="20261015162458 +0300" channel="VideoArsenal">
+    <title lang="ru">Рейс 298 (2026)</title>
+  </programme>
+  <programme start="20261015162458 +0300" stop="20261015181612 +0300" channel="VideoArsenal">
+    <title lang="ru">Роза Невады (2025)</title>
+  </programme>
+  <programme start="20261015181612 +0300" stop="20261015201613 +0300" channel="VideoArsenal">
+    <title lang="ru">Детка на драйве (2025)</title>
+  </programme>
+  <programme start="20261015201613 +0300" stop="20261015215605 +0300" channel="VideoArsenal">
+    <title lang="ru">Ньюки (1987)</title>
+  </programme>
+  <programme start="20261015215605 +0300" stop="20261015235046 +0300" channel="VideoArsenal">
+    <title lang="ru">Годзилла и Конг- Новая империя (2024)</title>
+  </programme>
+  <programme start="20261015235046 +0300" stop="20261016012901 +0300" channel="VideoArsenal">
+    <title lang="ru">Угроза (2004)</title>
+  </programme>
+  <programme start="20261016012901 +0300" stop="20261016030157 +0300" channel="VideoArsenal">
+    <title lang="ru">Оно приходит снизу (2025)</title>
+  </programme>
+  <programme start="20261016030157 +0300" stop="20261016042556 +0300" channel="VideoArsenal">
+    <title lang="ru">Рука об руку с дьяволом (2026)</title>
+  </programme>
+  <programme start="20261016042556 +0300" stop="20261016060640 +0300" channel="VideoArsenal">
+    <title lang="ru">Рой (2020)</title>
+  </programme>
+  <programme start="20261016060640 +0300" stop="20261016080521 +0300" channel="VideoArsenal">
+    <title lang="ru">Трон- Арес (2025)</title>
+  </programme>
+  <programme start="20261016080521 +0300" stop="20261016104712 +0300" channel="VideoArsenal">
+    <title lang="ru">Воспламеняющая взглядом 2 (2002)</title>
+  </programme>
+  <programme start="20261016104712 +0300" stop="20261016132543 +0300" channel="VideoArsenal">
+    <title lang="ru">Сказки юга (2006)</title>
+  </programme>
+  <programme start="20261016132543 +0300" stop="20261016150457 +0300" channel="VideoArsenal">
+    <title lang="ru">Горец 3- Последнее измерение (1995)</title>
+  </programme>
+  <programme start="20261016150457 +0300" stop="20261016163645 +0300" channel="VideoArsenal">
+    <title lang="ru">Пункт назначения 5 (2011)</title>
+  </programme>
+  <programme start="20261016163645 +0300" stop="20261016205106 +0300" channel="VideoArsenal">
+    <title lang="ru">Особняк «Красная роза» (2002)</title>
+  </programme>
+  <programme start="20261016205106 +0300" stop="20261016222534 +0300" channel="VideoArsenal">
+    <title lang="ru">Дрожь (2008)</title>
+  </programme>
+  <programme start="20261016222534 +0300" stop="20261017005510 +0300" channel="VideoArsenal">
+    <title lang="ru">Мстители- Война бесконечности (2018)</title>
+  </programme>
+  <programme start="20261017005510 +0300" stop="20261017022316 +0300" channel="VideoArsenal">
+    <title lang="ru">Дом, где живет зло (1982)</title>
+  </programme>
+  <programme start="20261017022316 +0300" stop="20261017043410 +0300" channel="VideoArsenal">
+    <title lang="ru">Искры из глаз (1987)</title>
+  </programme>
+  <programme start="20261017043410 +0300" stop="20261017055602 +0300" channel="VideoArsenal">
+    <title lang="ru">Дети кукурузы 666- Айзек вернулся (1999)</title>
+  </programme>
+  <programme start="20261017055602 +0300" stop="20261017072126 +0300" channel="VideoArsenal">
+    <title lang="ru">Рейс 298 (2026)</title>
+  </programme>
+  <programme start="20261017072126 +0300" stop="20261017091240 +0300" channel="VideoArsenal">
+    <title lang="ru">Роза Невады (2025)</title>
+  </programme>
+  <programme start="20261017091240 +0300" stop="20261017111242 +0300" channel="VideoArsenal">
+    <title lang="ru">Детка на драйве (2025)</title>
+  </programme>
+  <programme start="20261017111242 +0300" stop="20261017125234 +0300" channel="VideoArsenal">
+    <title lang="ru">Ньюки (1987)</title>
+  </programme>
+  <programme start="20261017125234 +0300" stop="20261017144715 +0300" channel="VideoArsenal">
+    <title lang="ru">Годзилла и Конг- Новая империя (2024)</title>
+  </programme>
+  <programme start="20261017144715 +0300" stop="20261017162530 +0300" channel="VideoArsenal">
+    <title lang="ru">Угроза (2004)</title>
+  </programme>
+  <programme start="20261017162530 +0300" stop="20261017175826 +0300" channel="VideoArsenal">
+    <title lang="ru">Оно приходит снизу (2025)</title>
+  </programme>
+  <programme start="20261017175826 +0300" stop="20261017192224 +0300" channel="VideoArsenal">
+    <title lang="ru">Рука об руку с дьяволом (2026)</title>
+  </programme>
+  <programme start="20261017192224 +0300" stop="20261017210309 +0300" channel="VideoArsenal">
+    <title lang="ru">Рой (2020)</title>
+  </programme>
+  <programme start="20261017210309 +0300" stop="20261017230150 +0300" channel="VideoArsenal">
+    <title lang="ru">Трон- Арес (2025)</title>
+  </programme>
+  <programme start="20261017230150 +0300" stop="20261018014340 +0300" channel="VideoArsenal">
+    <title lang="ru">Воспламеняющая взглядом 2 (2002)</title>
+  </programme>
+  <programme start="20261018014340 +0300" stop="20261018042212 +0300" channel="VideoArsenal">
+    <title lang="ru">Сказки юга (2006)</title>
+  </programme>
+  <programme start="20261018042212 +0300" stop="20261018060126 +0300" channel="VideoArsenal">
+    <title lang="ru">Горец 3- Последнее измерение (1995)</title>
+  </programme>
+  <programme start="20261018060126 +0300" stop="20261018073314 +0300" channel="VideoArsenal">
+    <title lang="ru">Пункт назначения 5 (2011)</title>
+  </programme>
+  <programme start="20261018073314 +0300" stop="20261018114735 +0300" channel="VideoArsenal">
+    <title lang="ru">Особняк «Красная роза» (2002)</title>
+  </programme>
+  <programme start="20261018114735 +0300" stop="20261018132203 +0300" channel="VideoArsenal">
+    <title lang="ru">Дрожь (2008)</title>
+  </programme>
+  <programme start="20261018132203 +0300" stop="20261018155139 +0300" channel="VideoArsenal">
+    <title lang="ru">Мстители- Война бесконечности (2018)</title>
+  </programme>
+  <programme start="20261018155139 +0300" stop="20261018171945 +0300" channel="VideoArsenal">
+    <title lang="ru">Дом, где живет зло (1982)</title>
+  </programme>
+  <programme start="20261018171945 +0300" stop="20261018193038 +0300" channel="VideoArsenal">
+    <title lang="ru">Искры из глаз (1987)</title>
+  </programme>
+  <programme start="20261018193038 +0300" stop="20261018205231 +0300" channel="VideoArsenal">
+    <title lang="ru">Дети кукурузы 666- Айзек вернулся (1999)</title>
+  </programme>
+  <programme start="20261018205231 +0300" stop="20261018221755 +0300" channel="VideoArsenal">
+    <title lang="ru">Рейс 298 (2026)</title>
+  </programme>
+  <programme start="20261018221755 +0300" stop="20261019000909 +0300" channel="VideoArsenal">
+    <title lang="ru">Роза Невады (2025)</title>
+  </programme>
+  <programme start="20261019000909 +0300" stop="20261019020911 +0300" channel="VideoArsenal">
+    <title lang="ru">Детка на драйве (2025)</title>
+  </programme>
+  <programme start="20261019020911 +0300" stop="20261019034903 +0300" channel="VideoArsenal">
+    <title lang="ru">Ньюки (1987)</title>
+  </programme>
+  <programme start="20261019034903 +0300" stop="20261019054343 +0300" channel="VideoArsenal">
+    <title lang="ru">Годзилла и Конг- Новая империя (2024)</title>
+  </programme>
+  <programme start="20261019054343 +0300" stop="20261019072158 +0300" channel="VideoArsenal">
+    <title lang="ru">Угроза (2004)</title>
+  </programme>
+  <programme start="20261019072158 +0300" stop="20261019085455 +0300" channel="VideoArsenal">
+    <title lang="ru">Оно приходит снизу (2025)</title>
+  </programme>
+  <programme start="20261019085455 +0300" stop="20261019101853 +0300" channel="VideoArsenal">
+    <title lang="ru">Рука об руку с дьяволом (2026)</title>
+  </programme>
+  <programme start="20261019101853 +0300" stop="20261019115938 +0300" channel="VideoArsenal">
+    <title lang="ru">Рой (2020)</title>
+  </programme>
+  <programme start="20261019115938 +0300" stop="20261019135818 +0300" channel="VideoArsenal">
+    <title lang="ru">Трон- Арес (2025)</title>
+  </programme>
+  <programme start="20261019135818 +0300" stop="20261019164009 +0300" channel="VideoArsenal">
+    <title lang="ru">Воспламеняющая взглядом 2 (2002)</title>
+  </programme>
+  <programme start="20261019164009 +0300" stop="20261019191841 +0300" channel="VideoArsenal">
+    <title lang="ru">Сказки юга (2006)</title>
+  </programme>
+  <programme start="20261019191841 +0300" stop="20261019205754 +0300" channel="VideoArsenal">
+    <title lang="ru">Горец 3- Последнее измерение (1995)</title>
+  </programme>
+  <programme start="20261019205754 +0300" stop="20261019222943 +0300" channel="VideoArsenal">
+    <title lang="ru">Пункт назначения 5 (2011)</title>
+  </programme>
+  <programme start="20261019222943 +0300" stop="20261020024404 +0300" channel="VideoArsenal">
+    <title lang="ru">Особняк «Красная роза» (2002)</title>
+  </programme>
+  <programme start="20261020024404 +0300" stop="20261020041832 +0300" channel="VideoArsenal">
+    <title lang="ru">Дрожь (2008)</title>
+  </programme>
+  <programme start="20261020041832 +0300" stop="20261020064807 +0300" channel="VideoArsenal">
+    <title lang="ru">Мстители- Война бесконечности (2018)</title>
+  </programme>
+  <programme start="20261020064807 +0300" stop="20261020081614 +0300" channel="VideoArsenal">
+    <title lang="ru">Дом, где живет зло (1982)</title>
+  </programme>
+</tv>
