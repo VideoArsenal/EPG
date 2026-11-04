@@ -3,319 +3,307 @@
   <channel id="VideoArsenal">
     <display-name lang="ru">VideoArsenal</display-name>
   </channel>
-  <programme start="20261030092000 +0300" stop="20261030105913 +0300" channel="VideoArsenal">
-    <title lang="ru">Тихое место. История М (2023)</title>
-  </programme>
-  <programme start="20261030105913 +0300" stop="20261030132312 +0300" channel="VideoArsenal">
-    <title lang="ru">Джулия (2008)</title>
-  </programme>
-  <programme start="20261030132312 +0300" stop="20261030160013 +0300" channel="VideoArsenal">
-    <title lang="ru">Надежда (2026)</title>
-  </programme>
-  <programme start="20261030160013 +0300" stop="20261030173852 +0300" channel="VideoArsenal">
-    <title lang="ru">Горец- Источник (2006)</title>
-  </programme>
-  <programme start="20261030173852 +0300" stop="20261030194936 +0300" channel="VideoArsenal">
-    <title lang="ru">Безнадега (2006)</title>
-  </programme>
-  <programme start="20261030194936 +0300" stop="20261030215207 +0300" channel="VideoArsenal">
-    <title lang="ru">Колония (2026)</title>
-  </programme>
-  <programme start="20261030215207 +0300" stop="20261030232304 +0300" channel="VideoArsenal">
-    <title lang="ru">Хэллоуин (1978)</title>
-  </programme>
-  <programme start="20261030232304 +0300" stop="20261031005535 +0300" channel="VideoArsenal">
-    <title lang="ru">Хэллоуин 2 (1981)</title>
-  </programme>
-  <programme start="20261031005535 +0300" stop="20261031022349 +0300" channel="VideoArsenal">
-    <title lang="ru">Хэллоуин 4- Возвращение Майкла Майерса (1988)</title>
-  </programme>
-  <programme start="20261031022349 +0300" stop="20261031040045 +0300" channel="VideoArsenal">
-    <title lang="ru">Хэллоуин 5 (1989)</title>
-  </programme>
-  <programme start="20261031040045 +0300" stop="20261031052854 +0300" channel="VideoArsenal">
-    <title lang="ru">Хэллоуин 6- Проклятие Майкла Майерса (1995)</title>
-  </programme>
-  <programme start="20261031052854 +0300" stop="20261031065452 +0300" channel="VideoArsenal">
-    <title lang="ru">Хэллоуин- 20 лет спустя (1998)</title>
-  </programme>
-  <programme start="20261031065452 +0300" stop="20261031082437 +0300" channel="VideoArsenal">
-    <title lang="ru">Хэллоуин- Воскрешение (2002)</title>
-  </programme>
-  <programme start="20261031082437 +0300" stop="20261031101025 +0300" channel="VideoArsenal">
-    <title lang="ru">Хэллоуин (2018)</title>
-  </programme>
-  <programme start="20261031101025 +0300" stop="20261031115531 +0300" channel="VideoArsenal">
-    <title lang="ru">Хэллоуин убивает (2021)</title>
-  </programme>
-  <programme start="20261031115531 +0300" stop="20261031134622 +0300" channel="VideoArsenal">
-    <title lang="ru">Хэллоуин заканчивается (2022)</title>
-  </programme>
-  <programme start="20261031134622 +0300" stop="20261031151718 +0300" channel="VideoArsenal">
-    <title lang="ru">Хэллоуин (1978)</title>
-  </programme>
-  <programme start="20261031151718 +0300" stop="20261031164950 +0300" channel="VideoArsenal">
-    <title lang="ru">Хэллоуин 2 (1981)</title>
-  </programme>
-  <programme start="20261031164950 +0300" stop="20261031181804 +0300" channel="VideoArsenal">
-    <title lang="ru">Хэллоуин 4- Возвращение Майкла Майерса (1988)</title>
-  </programme>
-  <programme start="20261031181804 +0300" stop="20261031195459 +0300" channel="VideoArsenal">
-    <title lang="ru">Хэллоуин 5 (1989)</title>
-  </programme>
-  <programme start="20261031195459 +0300" stop="20261031212308 +0300" channel="VideoArsenal">
-    <title lang="ru">Хэллоуин 6- Проклятие Майкла Майерса (1995)</title>
-  </programme>
-  <programme start="20261031212308 +0300" stop="20261031224906 +0300" channel="VideoArsenal">
-    <title lang="ru">Хэллоуин- 20 лет спустя (1998)</title>
-  </programme>
-  <programme start="20261031224906 +0300" stop="20261101011915 +0300" channel="VideoArsenal">
-    <title lang="ru">Довод (2020)</title>
-  </programme>
-  <programme start="20261101011915 +0300" stop="20261101025715 +0300" channel="VideoArsenal">
-    <title lang="ru">Флорист (2026)</title>
-  </programme>
-  <programme start="20261101025715 +0300" stop="20261101041911 +0300" channel="VideoArsenal">
-    <title lang="ru">Пиноккио- Раскрепощённый (2026)</title>
-  </programme>
-  <programme start="20261101041911 +0300" stop="20261101062911 +0300" channel="VideoArsenal">
-    <title lang="ru">Золотой глаз (1995)</title>
-  </programme>
-  <programme start="20261101062911 +0300" stop="20261101075849 +0300" channel="VideoArsenal">
-    <title lang="ru">Империя муравьев (1977)</title>
-  </programme>
-  <programme start="20261101075849 +0300" stop="20261101094701 +0300" channel="VideoArsenal">
-    <title lang="ru">Животные (2026)</title>
-  </programme>
-  <programme start="20261101094701 +0300" stop="20261101112602 +0300" channel="VideoArsenal">
-    <title lang="ru">Убить Зои (1993)</title>
-  </programme>
-  <programme start="20261101112602 +0300" stop="20261101130505 +0300" channel="VideoArsenal">
-    <title lang="ru">Верхом на пуле (2004)</title>
-  </programme>
-  <programme start="20261101130505 +0300" stop="20261101151458 +0300" channel="VideoArsenal">
+  <programme start="20261104153100 +0300" stop="20261104174053 +0300" channel="VideoArsenal">
     <title lang="ru">Меланхолия (2011)</title>
   </programme>
-  <programme start="20261101151458 +0300" stop="20261101170726 +0300" channel="VideoArsenal">
-    <title lang="ru">Астрал. Ночной кошмар (2024)</title>
+  <programme start="20261104174053 +0300" stop="20261104194013 +0300" channel="VideoArsenal">
+    <title lang="ru">Завтра не умрет никогда (1997)</title>
   </programme>
-  <programme start="20261101170726 +0300" stop="20261101183250 +0300" channel="VideoArsenal">
-    <title lang="ru">Лепрекон 2- Одна свадьба и много похорон (1994)</title>
+  <programme start="20261104194013 +0300" stop="20261104210303 +0300" channel="VideoArsenal">
+    <title lang="ru">Корни- Сага о вампирах (2026)</title>
   </programme>
-  <programme start="20261101183250 +0300" stop="20261101200622 +0300" channel="VideoArsenal">
-    <title lang="ru">Развозчики денег (1978)</title>
+  <programme start="20261104210303 +0300" stop="20261104233115 +0300" channel="VideoArsenal">
+    <title lang="ru">Фуриоса- Хроники Безумного Макса (2024)</title>
   </programme>
-  <programme start="20261101200622 +0300" stop="20261101220121 +0300" channel="VideoArsenal">
-    <title lang="ru">Главный герой (2021)</title>
+  <programme start="20261104233115 +0300" stop="20261105005911 +0300" channel="VideoArsenal">
+    <title lang="ru">Громила (2014)</title>
   </programme>
-  <programme start="20261101220121 +0300" stop="20261101233021 +0300" channel="VideoArsenal">
-    <title lang="ru">Мега Акула против Колосса (2015)</title>
+  <programme start="20261105005911 +0300" stop="20261105024818 +0300" channel="VideoArsenal">
+    <title lang="ru">Дитя человеческое (2006)</title>
   </programme>
-  <programme start="20261101233021 +0300" stop="20261102010935 +0300" channel="VideoArsenal">
-    <title lang="ru">Тихое место. История М (2023)</title>
+  <programme start="20261105024818 +0300" stop="20261105043418 +0300" channel="VideoArsenal">
+    <title lang="ru">Уничтожь их (2024)</title>
   </programme>
-  <programme start="20261102010935 +0300" stop="20261102033334 +0300" channel="VideoArsenal">
-    <title lang="ru">Джулия (2008)</title>
+  <programme start="20261105043418 +0300" stop="20261105060201 +0300" channel="VideoArsenal">
+    <title lang="ru">Ужасный секрет доктора Хичкока (1962)</title>
   </programme>
-  <programme start="20261102033334 +0300" stop="20261102061035 +0300" channel="VideoArsenal">
-    <title lang="ru">Надежда (2026)</title>
+  <programme start="20261105060201 +0300" stop="20261105073518 +0300" channel="VideoArsenal">
+    <title lang="ru">Лепрекон 3- Приключения в Лас-Вегасе (1995)</title>
   </programme>
-  <programme start="20261102061035 +0300" stop="20261102074914 +0300" channel="VideoArsenal">
-    <title lang="ru">Горец- Источник (2006)</title>
+  <programme start="20261105073518 +0300" stop="20261105085510 +0300" channel="VideoArsenal">
+    <title lang="ru">Москва — Кассиопея (1973)</title>
   </programme>
-  <programme start="20261102074914 +0300" stop="20261102095958 +0300" channel="VideoArsenal">
-    <title lang="ru">Безнадега (2006)</title>
+  <programme start="20261105085510 +0300" stop="20261105103726 +0300" channel="VideoArsenal">
+    <title lang="ru">1922 (2017)</title>
   </programme>
-  <programme start="20261102095958 +0300" stop="20261102120229 +0300" channel="VideoArsenal">
-    <title lang="ru">Колония (2026)</title>
+  <programme start="20261105103726 +0300" stop="20261105123102 +0300" channel="VideoArsenal">
+    <title lang="ru">Амстердамский кошмар (1988)</title>
   </programme>
-  <programme start="20261102120229 +0300" stop="20261102143238 +0300" channel="VideoArsenal">
-    <title lang="ru">Довод (2020)</title>
+  <programme start="20261105123102 +0300" stop="20261105140850 +0300" channel="VideoArsenal">
+    <title lang="ru">Иллюзия убийства (2025)</title>
   </programme>
-  <programme start="20261102143238 +0300" stop="20261102161038 +0300" channel="VideoArsenal">
-    <title lang="ru">Флорист (2026)</title>
+  <programme start="20261105140850 +0300" stop="20261105160227 +0300" channel="VideoArsenal">
+    <title lang="ru">Ведьмы из Сугаррамурди (2013)</title>
   </programme>
-  <programme start="20261102161038 +0300" stop="20261102173234 +0300" channel="VideoArsenal">
-    <title lang="ru">Пиноккио- Раскрепощённый (2026)</title>
+  <programme start="20261105160227 +0300" stop="20261105182225 +0300" channel="VideoArsenal">
+    <title lang="ru">Первому игроку приготовиться (2018)</title>
   </programme>
-  <programme start="20261102173234 +0300" stop="20261102194234 +0300" channel="VideoArsenal">
-    <title lang="ru">Золотой глаз (1995)</title>
+  <programme start="20261105182225 +0300" stop="20261105195524 +0300" channel="VideoArsenal">
+    <title lang="ru">Газонокосильщик 2- За пределами киберпространства (1995)</title>
   </programme>
-  <programme start="20261102194234 +0300" stop="20261102211213 +0300" channel="VideoArsenal">
-    <title lang="ru">Империя муравьев (1977)</title>
+  <programme start="20261105195524 +0300" stop="20261105220948 +0300" channel="VideoArsenal">
+    <title lang="ru">Удачи, веселья, не сдохни (2025)</title>
   </programme>
-  <programme start="20261102211213 +0300" stop="20261102230024 +0300" channel="VideoArsenal">
-    <title lang="ru">Животные (2026)</title>
+  <programme start="20261105220948 +0300" stop="20261105234247 +0300" channel="VideoArsenal">
+    <title lang="ru">Поцелуй перед смертью (1991)</title>
   </programme>
-  <programme start="20261102230024 +0300" stop="20261103003925 +0300" channel="VideoArsenal">
-    <title lang="ru">Убить Зои (1993)</title>
+  <programme start="20261105234247 +0300" stop="20261106005132 +0300" channel="VideoArsenal">
+    <title lang="ru">Я гуляла с зомби (1943)</title>
   </programme>
-  <programme start="20261103003925 +0300" stop="20261103021828 +0300" channel="VideoArsenal">
-    <title lang="ru">Верхом на пуле (2004)</title>
+  <programme start="20261106005132 +0300" stop="20261106022408 +0300" channel="VideoArsenal">
+    <title lang="ru">ИИ- Восстание машин (2024)</title>
   </programme>
-  <programme start="20261103021828 +0300" stop="20261103042821 +0300" channel="VideoArsenal">
-    <title lang="ru">Меланхолия (2011)</title>
+  <programme start="20261106022408 +0300" stop="20261106040215 +0300" channel="VideoArsenal">
+    <title lang="ru">Кэрри (1976)</title>
   </programme>
-  <programme start="20261103042821 +0300" stop="20261103062049 +0300" channel="VideoArsenal">
-    <title lang="ru">Астрал. Ночной кошмар (2024)</title>
+  <programme start="20261106040215 +0300" stop="20261106060136 +0300" channel="VideoArsenal">
+    <title lang="ru">Завтра не умрет никогда (1997)</title>
   </programme>
-  <programme start="20261103062049 +0300" stop="20261103074613 +0300" channel="VideoArsenal">
-    <title lang="ru">Лепрекон 2- Одна свадьба и много похорон (1994)</title>
+  <programme start="20261106060136 +0300" stop="20261106072425 +0300" channel="VideoArsenal">
+    <title lang="ru">Корни- Сага о вампирах (2026)</title>
   </programme>
-  <programme start="20261103074613 +0300" stop="20261103091945 +0300" channel="VideoArsenal">
-    <title lang="ru">Развозчики денег (1978)</title>
+  <programme start="20261106072425 +0300" stop="20261106095237 +0300" channel="VideoArsenal">
+    <title lang="ru">Фуриоса- Хроники Безумного Макса (2024)</title>
   </programme>
-  <programme start="20261103091945 +0300" stop="20261103111444 +0300" channel="VideoArsenal">
-    <title lang="ru">Главный герой (2021)</title>
+  <programme start="20261106095237 +0300" stop="20261106112033 +0300" channel="VideoArsenal">
+    <title lang="ru">Громила (2014)</title>
   </programme>
-  <programme start="20261103111444 +0300" stop="20261103124344 +0300" channel="VideoArsenal">
-    <title lang="ru">Мега Акула против Колосса (2015)</title>
+  <programme start="20261106112033 +0300" stop="20261106130941 +0300" channel="VideoArsenal">
+    <title lang="ru">Дитя человеческое (2006)</title>
   </programme>
-  <programme start="20261103124344 +0300" stop="20261103142258 +0300" channel="VideoArsenal">
-    <title lang="ru">Тихое место. История М (2023)</title>
+  <programme start="20261106130941 +0300" stop="20261106145541 +0300" channel="VideoArsenal">
+    <title lang="ru">Уничтожь их (2024)</title>
   </programme>
-  <programme start="20261103142258 +0300" stop="20261103164657 +0300" channel="VideoArsenal">
-    <title lang="ru">Джулия (2008)</title>
+  <programme start="20261106145541 +0300" stop="20261106162324 +0300" channel="VideoArsenal">
+    <title lang="ru">Ужасный секрет доктора Хичкока (1962)</title>
   </programme>
-  <programme start="20261103164657 +0300" stop="20261103192358 +0300" channel="VideoArsenal">
-    <title lang="ru">Надежда (2026)</title>
+  <programme start="20261106162324 +0300" stop="20261106175640 +0300" channel="VideoArsenal">
+    <title lang="ru">Лепрекон 3- Приключения в Лас-Вегасе (1995)</title>
   </programme>
-  <programme start="20261103192358 +0300" stop="20261103210237 +0300" channel="VideoArsenal">
-    <title lang="ru">Горец- Источник (2006)</title>
+  <programme start="20261106175640 +0300" stop="20261106191633 +0300" channel="VideoArsenal">
+    <title lang="ru">Москва — Кассиопея (1973)</title>
   </programme>
-  <programme start="20261103210237 +0300" stop="20261103231321 +0300" channel="VideoArsenal">
-    <title lang="ru">Безнадега (2006)</title>
+  <programme start="20261106191633 +0300" stop="20261106205849 +0300" channel="VideoArsenal">
+    <title lang="ru">1922 (2017)</title>
   </programme>
-  <programme start="20261103231321 +0300" stop="20261104011552 +0300" channel="VideoArsenal">
-    <title lang="ru">Колония (2026)</title>
+  <programme start="20261106205849 +0300" stop="20261106225225 +0300" channel="VideoArsenal">
+    <title lang="ru">Амстердамский кошмар (1988)</title>
   </programme>
-  <programme start="20261104011552 +0300" stop="20261104034601 +0300" channel="VideoArsenal">
-    <title lang="ru">Довод (2020)</title>
+  <programme start="20261106225225 +0300" stop="20261107003012 +0300" channel="VideoArsenal">
+    <title lang="ru">Иллюзия убийства (2025)</title>
   </programme>
-  <programme start="20261104034601 +0300" stop="20261104052401 +0300" channel="VideoArsenal">
-    <title lang="ru">Флорист (2026)</title>
+  <programme start="20261107003012 +0300" stop="20261107022349 +0300" channel="VideoArsenal">
+    <title lang="ru">Ведьмы из Сугаррамурди (2013)</title>
   </programme>
-  <programme start="20261104052401 +0300" stop="20261104064557 +0300" channel="VideoArsenal">
-    <title lang="ru">Пиноккио- Раскрепощённый (2026)</title>
+  <programme start="20261107022349 +0300" stop="20261107044348 +0300" channel="VideoArsenal">
+    <title lang="ru">Первому игроку приготовиться (2018)</title>
   </programme>
-  <programme start="20261104064557 +0300" stop="20261104085557 +0300" channel="VideoArsenal">
-    <title lang="ru">Золотой глаз (1995)</title>
+  <programme start="20261107044348 +0300" stop="20261107061647 +0300" channel="VideoArsenal">
+    <title lang="ru">Газонокосильщик 2- За пределами киберпространства (1995)</title>
   </programme>
-  <programme start="20261104085557 +0300" stop="20261104102536 +0300" channel="VideoArsenal">
-    <title lang="ru">Империя муравьев (1977)</title>
+  <programme start="20261107061647 +0300" stop="20261107083111 +0300" channel="VideoArsenal">
+    <title lang="ru">Удачи, веселья, не сдохни (2025)</title>
   </programme>
-  <programme start="20261104102536 +0300" stop="20261104121347 +0300" channel="VideoArsenal">
-    <title lang="ru">Животные (2026)</title>
+  <programme start="20261107083111 +0300" stop="20261107100409 +0300" channel="VideoArsenal">
+    <title lang="ru">Поцелуй перед смертью (1991)</title>
   </programme>
-  <programme start="20261104121347 +0300" stop="20261104135248 +0300" channel="VideoArsenal">
-    <title lang="ru">Убить Зои (1993)</title>
+  <programme start="20261107100409 +0300" stop="20261107111254 +0300" channel="VideoArsenal">
+    <title lang="ru">Я гуляла с зомби (1943)</title>
   </programme>
-  <programme start="20261104135248 +0300" stop="20261104153151 +0300" channel="VideoArsenal">
-    <title lang="ru">Верхом на пуле (2004)</title>
+  <programme start="20261107111254 +0300" stop="20261107124530 +0300" channel="VideoArsenal">
+    <title lang="ru">ИИ- Восстание машин (2024)</title>
   </programme>
-  <programme start="20261104153151 +0300" stop="20261104174144 +0300" channel="VideoArsenal">
-    <title lang="ru">Меланхолия (2011)</title>
+  <programme start="20261107124530 +0300" stop="20261107142338 +0300" channel="VideoArsenal">
+    <title lang="ru">Кэрри (1976)</title>
   </programme>
-  <programme start="20261104174144 +0300" stop="20261104193412 +0300" channel="VideoArsenal">
-    <title lang="ru">Астрал. Ночной кошмар (2024)</title>
+  <programme start="20261107142338 +0300" stop="20261107162258 +0300" channel="VideoArsenal">
+    <title lang="ru">Завтра не умрет никогда (1997)</title>
   </programme>
-  <programme start="20261104193412 +0300" stop="20261104205936 +0300" channel="VideoArsenal">
-    <title lang="ru">Лепрекон 2- Одна свадьба и много похорон (1994)</title>
+  <programme start="20261107162258 +0300" stop="20261107174548 +0300" channel="VideoArsenal">
+    <title lang="ru">Корни- Сага о вампирах (2026)</title>
   </programme>
-  <programme start="20261104205936 +0300" stop="20261104223308 +0300" channel="VideoArsenal">
-    <title lang="ru">Развозчики денег (1978)</title>
+  <programme start="20261107174548 +0300" stop="20261107201359 +0300" channel="VideoArsenal">
+    <title lang="ru">Фуриоса- Хроники Безумного Макса (2024)</title>
   </programme>
-  <programme start="20261104223308 +0300" stop="20261105002807 +0300" channel="VideoArsenal">
-    <title lang="ru">Главный герой (2021)</title>
+  <programme start="20261107201359 +0300" stop="20261107214155 +0300" channel="VideoArsenal">
+    <title lang="ru">Громила (2014)</title>
   </programme>
-  <programme start="20261105002807 +0300" stop="20261105015708 +0300" channel="VideoArsenal">
-    <title lang="ru">Мега Акула против Колосса (2015)</title>
+  <programme start="20261107214155 +0300" stop="20261107233103 +0300" channel="VideoArsenal">
+    <title lang="ru">Дитя человеческое (2006)</title>
   </programme>
-  <programme start="20261105015708 +0300" stop="20261105033621 +0300" channel="VideoArsenal">
-    <title lang="ru">Тихое место. История М (2023)</title>
+  <programme start="20261107233103 +0300" stop="20261108011703 +0300" channel="VideoArsenal">
+    <title lang="ru">Уничтожь их (2024)</title>
   </programme>
-  <programme start="20261105033621 +0300" stop="20261105060020 +0300" channel="VideoArsenal">
-    <title lang="ru">Джулия (2008)</title>
+  <programme start="20261108011703 +0300" stop="20261108024446 +0300" channel="VideoArsenal">
+    <title lang="ru">Ужасный секрет доктора Хичкока (1962)</title>
   </programme>
-  <programme start="20261105060020 +0300" stop="20261105083721 +0300" channel="VideoArsenal">
-    <title lang="ru">Надежда (2026)</title>
+  <programme start="20261108024446 +0300" stop="20261108041803 +0300" channel="VideoArsenal">
+    <title lang="ru">Лепрекон 3- Приключения в Лас-Вегасе (1995)</title>
   </programme>
-  <programme start="20261105083721 +0300" stop="20261105101600 +0300" channel="VideoArsenal">
-    <title lang="ru">Горец- Источник (2006)</title>
+  <programme start="20261108041803 +0300" stop="20261108053755 +0300" channel="VideoArsenal">
+    <title lang="ru">Москва — Кассиопея (1973)</title>
   </programme>
-  <programme start="20261105101600 +0300" stop="20261105122644 +0300" channel="VideoArsenal">
-    <title lang="ru">Безнадега (2006)</title>
+  <programme start="20261108053755 +0300" stop="20261108072011 +0300" channel="VideoArsenal">
+    <title lang="ru">1922 (2017)</title>
   </programme>
-  <programme start="20261105122644 +0300" stop="20261105142915 +0300" channel="VideoArsenal">
-    <title lang="ru">Колония (2026)</title>
+  <programme start="20261108072011 +0300" stop="20261108091347 +0300" channel="VideoArsenal">
+    <title lang="ru">Амстердамский кошмар (1988)</title>
   </programme>
-  <programme start="20261105142915 +0300" stop="20261105165924 +0300" channel="VideoArsenal">
-    <title lang="ru">Довод (2020)</title>
+  <programme start="20261108091347 +0300" stop="20261108105135 +0300" channel="VideoArsenal">
+    <title lang="ru">Иллюзия убийства (2025)</title>
   </programme>
-  <programme start="20261105165924 +0300" stop="20261105183724 +0300" channel="VideoArsenal">
-    <title lang="ru">Флорист (2026)</title>
+  <programme start="20261108105135 +0300" stop="20261108124512 +0300" channel="VideoArsenal">
+    <title lang="ru">Ведьмы из Сугаррамурди (2013)</title>
   </programme>
-  <programme start="20261105183724 +0300" stop="20261105195920 +0300" channel="VideoArsenal">
-    <title lang="ru">Пиноккио- Раскрепощённый (2026)</title>
+  <programme start="20261108124512 +0300" stop="20261108150510 +0300" channel="VideoArsenal">
+    <title lang="ru">Первому игроку приготовиться (2018)</title>
   </programme>
-  <programme start="20261105195920 +0300" stop="20261105220920 +0300" channel="VideoArsenal">
-    <title lang="ru">Золотой глаз (1995)</title>
+  <programme start="20261108150510 +0300" stop="20261108163809 +0300" channel="VideoArsenal">
+    <title lang="ru">Газонокосильщик 2- За пределами киберпространства (1995)</title>
   </programme>
-  <programme start="20261105220920 +0300" stop="20261105233859 +0300" channel="VideoArsenal">
-    <title lang="ru">Империя муравьев (1977)</title>
+  <programme start="20261108163809 +0300" stop="20261108185233 +0300" channel="VideoArsenal">
+    <title lang="ru">Удачи, веселья, не сдохни (2025)</title>
   </programme>
-  <programme start="20261105233859 +0300" stop="20261106012710 +0300" channel="VideoArsenal">
-    <title lang="ru">Животные (2026)</title>
+  <programme start="20261108185233 +0300" stop="20261108202532 +0300" channel="VideoArsenal">
+    <title lang="ru">Поцелуй перед смертью (1991)</title>
   </programme>
-  <programme start="20261106012710 +0300" stop="20261106030611 +0300" channel="VideoArsenal">
-    <title lang="ru">Убить Зои (1993)</title>
+  <programme start="20261108202532 +0300" stop="20261108213417 +0300" channel="VideoArsenal">
+    <title lang="ru">Я гуляла с зомби (1943)</title>
   </programme>
-  <programme start="20261106030611 +0300" stop="20261106044514 +0300" channel="VideoArsenal">
-    <title lang="ru">Верхом на пуле (2004)</title>
+  <programme start="20261108213417 +0300" stop="20261108230653 +0300" channel="VideoArsenal">
+    <title lang="ru">ИИ- Восстание машин (2024)</title>
   </programme>
-  <programme start="20261106044514 +0300" stop="20261106065507 +0300" channel="VideoArsenal">
-    <title lang="ru">Меланхолия (2011)</title>
+  <programme start="20261108230653 +0300" stop="20261109004500 +0300" channel="VideoArsenal">
+    <title lang="ru">Кэрри (1976)</title>
   </programme>
-  <programme start="20261106065507 +0300" stop="20261106084735 +0300" channel="VideoArsenal">
-    <title lang="ru">Астрал. Ночной кошмар (2024)</title>
+  <programme start="20261109004500 +0300" stop="20261109024421 +0300" channel="VideoArsenal">
+    <title lang="ru">Завтра не умрет никогда (1997)</title>
   </programme>
-  <programme start="20261106084735 +0300" stop="20261106101259 +0300" channel="VideoArsenal">
-    <title lang="ru">Лепрекон 2- Одна свадьба и много похорон (1994)</title>
+  <programme start="20261109024421 +0300" stop="20261109040710 +0300" channel="VideoArsenal">
+    <title lang="ru">Корни- Сага о вампирах (2026)</title>
   </programme>
-  <programme start="20261106101259 +0300" stop="20261106114632 +0300" channel="VideoArsenal">
-    <title lang="ru">Развозчики денег (1978)</title>
+  <programme start="20261109040710 +0300" stop="20261109063522 +0300" channel="VideoArsenal">
+    <title lang="ru">Фуриоса- Хроники Безумного Макса (2024)</title>
   </programme>
-  <programme start="20261106114632 +0300" stop="20261106134130 +0300" channel="VideoArsenal">
-    <title lang="ru">Главный герой (2021)</title>
+  <programme start="20261109063522 +0300" stop="20261109080318 +0300" channel="VideoArsenal">
+    <title lang="ru">Громила (2014)</title>
   </programme>
-  <programme start="20261106134130 +0300" stop="20261106151031 +0300" channel="VideoArsenal">
-    <title lang="ru">Мега Акула против Колосса (2015)</title>
+  <programme start="20261109080318 +0300" stop="20261109095226 +0300" channel="VideoArsenal">
+    <title lang="ru">Дитя человеческое (2006)</title>
   </programme>
-  <programme start="20261106151031 +0300" stop="20261106164944 +0300" channel="VideoArsenal">
-    <title lang="ru">Тихое место. История М (2023)</title>
+  <programme start="20261109095226 +0300" stop="20261109113826 +0300" channel="VideoArsenal">
+    <title lang="ru">Уничтожь их (2024)</title>
   </programme>
-  <programme start="20261106164944 +0300" stop="20261106191343 +0300" channel="VideoArsenal">
-    <title lang="ru">Джулия (2008)</title>
+  <programme start="20261109113826 +0300" stop="20261109130609 +0300" channel="VideoArsenal">
+    <title lang="ru">Ужасный секрет доктора Хичкока (1962)</title>
   </programme>
-  <programme start="20261106191343 +0300" stop="20261106215044 +0300" channel="VideoArsenal">
-    <title lang="ru">Надежда (2026)</title>
+  <programme start="20261109130609 +0300" stop="20261109143925 +0300" channel="VideoArsenal">
+    <title lang="ru">Лепрекон 3- Приключения в Лас-Вегасе (1995)</title>
   </programme>
-  <programme start="20261106215044 +0300" stop="20261106232923 +0300" channel="VideoArsenal">
-    <title lang="ru">Горец- Источник (2006)</title>
+  <programme start="20261109143925 +0300" stop="20261109155917 +0300" channel="VideoArsenal">
+    <title lang="ru">Москва — Кассиопея (1973)</title>
   </programme>
-  <programme start="20261106232923 +0300" stop="20261107014007 +0300" channel="VideoArsenal">
-    <title lang="ru">Безнадега (2006)</title>
+  <programme start="20261109155917 +0300" stop="20261109174134 +0300" channel="VideoArsenal">
+    <title lang="ru">1922 (2017)</title>
   </programme>
-  <programme start="20261107014007 +0300" stop="20261107034238 +0300" channel="VideoArsenal">
-    <title lang="ru">Колония (2026)</title>
+  <programme start="20261109174134 +0300" stop="20261109193509 +0300" channel="VideoArsenal">
+    <title lang="ru">Амстердамский кошмар (1988)</title>
   </programme>
-  <programme start="20261107034238 +0300" stop="20261107061247 +0300" channel="VideoArsenal">
-    <title lang="ru">Довод (2020)</title>
+  <programme start="20261109193509 +0300" stop="20261109211257 +0300" channel="VideoArsenal">
+    <title lang="ru">Иллюзия убийства (2025)</title>
   </programme>
-  <programme start="20261107061247 +0300" stop="20261107075047 +0300" channel="VideoArsenal">
-    <title lang="ru">Флорист (2026)</title>
+  <programme start="20261109211257 +0300" stop="20261109230634 +0300" channel="VideoArsenal">
+    <title lang="ru">Ведьмы из Сугаррамурди (2013)</title>
   </programme>
-  <programme start="20261107075047 +0300" stop="20261107091243 +0300" channel="VideoArsenal">
-    <title lang="ru">Пиноккио- Раскрепощённый (2026)</title>
+  <programme start="20261109230634 +0300" stop="20261110012633 +0300" channel="VideoArsenal">
+    <title lang="ru">Первому игроку приготовиться (2018)</title>
+  </programme>
+  <programme start="20261110012633 +0300" stop="20261110025931 +0300" channel="VideoArsenal">
+    <title lang="ru">Газонокосильщик 2- За пределами киберпространства (1995)</title>
+  </programme>
+  <programme start="20261110025931 +0300" stop="20261110051356 +0300" channel="VideoArsenal">
+    <title lang="ru">Удачи, веселья, не сдохни (2025)</title>
+  </programme>
+  <programme start="20261110051356 +0300" stop="20261110064654 +0300" channel="VideoArsenal">
+    <title lang="ru">Поцелуй перед смертью (1991)</title>
+  </programme>
+  <programme start="20261110064654 +0300" stop="20261110075539 +0300" channel="VideoArsenal">
+    <title lang="ru">Я гуляла с зомби (1943)</title>
+  </programme>
+  <programme start="20261110075539 +0300" stop="20261110092815 +0300" channel="VideoArsenal">
+    <title lang="ru">ИИ- Восстание машин (2024)</title>
+  </programme>
+  <programme start="20261110092815 +0300" stop="20261110110622 +0300" channel="VideoArsenal">
+    <title lang="ru">Кэрри (1976)</title>
+  </programme>
+  <programme start="20261110110622 +0300" stop="20261110130543 +0300" channel="VideoArsenal">
+    <title lang="ru">Завтра не умрет никогда (1997)</title>
+  </programme>
+  <programme start="20261110130543 +0300" stop="20261110142832 +0300" channel="VideoArsenal">
+    <title lang="ru">Корни- Сага о вампирах (2026)</title>
+  </programme>
+  <programme start="20261110142832 +0300" stop="20261110165644 +0300" channel="VideoArsenal">
+    <title lang="ru">Фуриоса- Хроники Безумного Макса (2024)</title>
+  </programme>
+  <programme start="20261110165644 +0300" stop="20261110182440 +0300" channel="VideoArsenal">
+    <title lang="ru">Громила (2014)</title>
+  </programme>
+  <programme start="20261110182440 +0300" stop="20261110201348 +0300" channel="VideoArsenal">
+    <title lang="ru">Дитя человеческое (2006)</title>
+  </programme>
+  <programme start="20261110201348 +0300" stop="20261110215948 +0300" channel="VideoArsenal">
+    <title lang="ru">Уничтожь их (2024)</title>
+  </programme>
+  <programme start="20261110215948 +0300" stop="20261110232731 +0300" channel="VideoArsenal">
+    <title lang="ru">Ужасный секрет доктора Хичкока (1962)</title>
+  </programme>
+  <programme start="20261110232731 +0300" stop="20261111010048 +0300" channel="VideoArsenal">
+    <title lang="ru">Лепрекон 3- Приключения в Лас-Вегасе (1995)</title>
+  </programme>
+  <programme start="20261111010048 +0300" stop="20261111022040 +0300" channel="VideoArsenal">
+    <title lang="ru">Москва — Кассиопея (1973)</title>
+  </programme>
+  <programme start="20261111022040 +0300" stop="20261111040256 +0300" channel="VideoArsenal">
+    <title lang="ru">1922 (2017)</title>
+  </programme>
+  <programme start="20261111040256 +0300" stop="20261111055632 +0300" channel="VideoArsenal">
+    <title lang="ru">Амстердамский кошмар (1988)</title>
+  </programme>
+  <programme start="20261111055632 +0300" stop="20261111073420 +0300" channel="VideoArsenal">
+    <title lang="ru">Иллюзия убийства (2025)</title>
+  </programme>
+  <programme start="20261111073420 +0300" stop="20261111092757 +0300" channel="VideoArsenal">
+    <title lang="ru">Ведьмы из Сугаррамурди (2013)</title>
+  </programme>
+  <programme start="20261111092757 +0300" stop="20261111114755 +0300" channel="VideoArsenal">
+    <title lang="ru">Первому игроку приготовиться (2018)</title>
+  </programme>
+  <programme start="20261111114755 +0300" stop="20261111132054 +0300" channel="VideoArsenal">
+    <title lang="ru">Газонокосильщик 2- За пределами киберпространства (1995)</title>
+  </programme>
+  <programme start="20261111132054 +0300" stop="20261111153518 +0300" channel="VideoArsenal">
+    <title lang="ru">Удачи, веселья, не сдохни (2025)</title>
+  </programme>
+  <programme start="20261111153518 +0300" stop="20261111170817 +0300" channel="VideoArsenal">
+    <title lang="ru">Поцелуй перед смертью (1991)</title>
+  </programme>
+  <programme start="20261111170817 +0300" stop="20261111181702 +0300" channel="VideoArsenal">
+    <title lang="ru">Я гуляла с зомби (1943)</title>
+  </programme>
+  <programme start="20261111181702 +0300" stop="20261111194937 +0300" channel="VideoArsenal">
+    <title lang="ru">ИИ- Восстание машин (2024)</title>
+  </programme>
+  <programme start="20261111194937 +0300" stop="20261111212745 +0300" channel="VideoArsenal">
+    <title lang="ru">Кэрри (1976)</title>
   </programme>
 </tv>
